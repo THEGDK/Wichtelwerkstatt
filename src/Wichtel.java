@@ -55,8 +55,7 @@ public class Wichtel {
 	}
 
 	public boolean arbeitetNoch() {
-		// TODO Auto-generated method stub
-		return false;
+		return dauer != 0;
 	}
 
 	public void arbeiteWeiter() {
