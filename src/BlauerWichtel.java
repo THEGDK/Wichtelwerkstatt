@@ -5,6 +5,8 @@ public class BlauerWichtel extends Wichtel{
 		super();
 	}
 
+	public BlauerWichtel(BlauerWichtel wichtel) { super(wichtel);}
+
 	public BlauerWichtel(String name) {
 		super(name);
 	}

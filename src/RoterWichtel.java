@@ -8,6 +8,10 @@ public class RoterWichtel extends Wichtel{
 	public RoterWichtel(String name) {
 		super(name);
 	}
+
+	public RoterWichtel(RoterWichtel wichtel) {
+		super(wichtel);
+	}
 	
 	public void arbeite(Geschenk g){
 		setGeschenkeGefertigt(getGeschenkeGefertigt() + 1);
