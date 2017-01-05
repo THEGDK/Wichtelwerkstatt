@@ -8,7 +8,7 @@ public class WerkstattTools {
 		for (int i = 0; i < anzahl; i++){
 			int art = Zufall.zahl(4);
 			switch(art){
-			case 0: ausgabe[i] = new Geschenk(Zufall.geschenkartikel(), (int)(Math.random()*100)+1); break;
+			case 0: ausgabe[i] = new Geschenk(Zufall.geschenkartikel(), 25); break;
 			case 1: ausgabe[i] = new Kleidung(); break;
 			case 2: ausgabe[i] = new Essbares(); break;
 			case 3: ausgabe[i] = new Spielzeug(); break;
