@@ -108,9 +108,17 @@ public class Werkstatt {
 		 Wichtel roterSuperWichtel = null;
 		 
 		 for (int i = w.length-1; i > 0; i--){
-			roterSuperWichtel = w[i] instanceof RoterWichtel? new RoterWichtel((RoterWichtel)(w[i])):roterSuperWichtel;
-		 	blauerSuperWichtel = w[i] instanceof BlauerWichtel? new BlauerWichtel((BlauerWichtel)(w[i])):blauerSuperWichtel;
-		 	gelberSuperWichtel = w[i] instanceof GelberWichtel? new GelberWichtel((GelberWichtel)(w[i])):gelberSuperWichtel;
+			 if (roterSuperWichtel == null && w[i] instanceof RoterWichtel) {
+			 	roterSuperWichtel = new RoterWichtel((RoterWichtel) w[i]);
+			 }
+
+			 if (blauerSuperWichtel == null && w[i] instanceof BlauerWichtel) {
+			 	blauerSuperWichtel = new BlauerWichtel((BlauerWichtel)w[i]);
+			 }
+
+			 if (gelberSuperWichtel == null && w[i] instanceof GelberWichtel) {
+			 	gelberSuperWichtel = new GelberWichtel((GelberWichtel)w[i]);
+			 }
 		 }
 	}
 	

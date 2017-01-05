@@ -1,2629 +1,2591 @@
 ----------------------------------------
 Runde 1
-Blauer Wichtel TAZKO bearbeitet nun #0 
- --> Duftende Badesalze [23.91]
-Roter Wichtel ROMIMUEORL bearbeitet nun #1 
- --> Niedliche Puppe [7.69](Spannung: 11.535)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #2 
- --> Duftende Badesalze [22.96]
-Blauer Wichtel WELGEROSFRI bearbeitet nun #3 
- --> Grosser Bagger [0.43](Spannung: 0.602)
-Gelber Wichtel BORWEL bearbeitet nun #4 
- --> Rote Unterbuxe [1.32](Eleganz: 14)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #5 
- --> Duftende Badesalze [20.74]
-Roter Wichtel MUEORLTAZ bearbeitet nun #6 
- --> Selbstgemachtes Pesto [8.6](Gesund :ja)
-Roter Wichtel HATINORGEROS bearbeitet nun #7 
- --> Niedliche Puppe [1.13](Spannung: 1.6949999999999998)
-Blauer Wichtel CARCAR bearbeitet nun #8 
- --> Schnelles Auto [6.7]
-Blauer Wichtel TAZUMAFRI bearbeitet nun #9 
- --> Bequeme Hose [0.32](Eleganz: 12)
-Blauer Wichtel DURCARJOLA bearbeitet nun #10 
- --> Schnelles Kartenspiel [2.74](Spannung: 5.7540000000000004)
-Blauer Wichtel TAZEORL bearbeitet nun #11 
- --> Rote Unterbuxe [3.54](Eleganz: 14)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #12 
- --> Niedliche Puppe [5.08](Spannung: 7.62)
-Blauer Wichtel JOLAKO bearbeitet nun #13 
- --> Niedliche Puppe [9.82](Spannung: 14.73)
-Blauer Wichtel SETILE bearbeitet nun #14 
- --> Grosser Bagger [0.77](Spannung: 1.078)
-Blauer Wichtel KOMUGEROS bearbeitet nun #15 
- --> Schoko-Nikolaus [6.47](Gesund :ja)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #16 
- --> Schnelles Kartenspiel [3.17](Spannung: 6.656999999999999)
-Roter Wichtel BORLECAR bearbeitet nun #17 
- --> Niedliche Puppe [4.7](Spannung: 7.05)
-Roter Wichtel EORLUMA bearbeitet nun #18 
- --> Interessantes Brettspiel [8.05](Spannung: 19.32)
-Gelber Wichtel UMAMUARI bearbeitet nun #19 
- --> Grosser Bagger [4.38](Spannung: 6.132)
-Gelber Wichtel GEROSHATI bearbeitet nun #20 
- --> Niedliche Puppe [5.38](Spannung: 8.07)
-Blauer Wichtel CARKONOR bearbeitet nun #21 
- --> Schnelles Kartenspiel [0.22](Spannung: 0.462)
-Gelber Wichtel OPOGEROS bearbeitet nun #22 
- --> Niedliche Puppe [8.71](Spannung: 13.065000000000001)
-Roter Wichtel SETIJOLA bearbeitet nun #23 
- --> Aromatischer Tee [14.01](Gesund :ja)
-Gelber Wichtel BORXULDUR bearbeitet nun #24 
- --> Schoko-Nikolaus [1.68](Gesund :nein)
-Roter Wichtel XULBOR bearbeitet nun #25 
- --> Schnelles Auto [18.47]
-Gelber Wichtel FRIIOTI bearbeitet nun #26 
- --> Warme Socken [2.87](Eleganz: 12)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #27 
- --> Leckerer Essensgutschein [7.58]
-Roter Wichtel GEROSJOLA bearbeitet nun #28 
- --> Stacheliger Kaktus [24.5]
-Blauer Wichtel EORLMUFRI bearbeitet nun #29 
- --> Duftende Badesalze [23.21]
+Blauer Wichtel NORARI bearbeitet nun #0 
+ --> Selbstgemachtes Pesto [13.14](Gesund :nein)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #1 
+ --> Rasende Eisenbahn [8.63](Spannung: 14.671000000000001)
+Roter Wichtel MUDURSETI bearbeitet nun #2 
+ --> Gemaltes Memory [3.75](Spannung: 5.625)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #3 
+ --> Kuscheliger Schal [0.39](Eleganz: 17)
+Blauer Wichtel DURBOR bearbeitet nun #4 
+ --> Warme Socken [0.76](Eleganz: 12)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #5 
+ --> Gemaltes Memory [6.78](Spannung: 10.17)
+Gelber Wichtel KODUR bearbeitet nun #6 
+ --> Saftige Kekse [13.13](Gesund :nein)
+Gelber Wichtel TAZVARXUL bearbeitet nun #7 
+ --> Lange Struempfe [0.87](Eleganz: 15)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #8 
+ --> Lange Struempfe [4.67](Eleganz: 15)
+Blauer Wichtel GEROSLE bearbeitet nun #9 
+ --> Leckere Papaya [3.25](Gesund :nein)
+Blauer Wichtel UMATAZ bearbeitet nun #10 
+ --> Zipfelige Muetze [3.07](Eleganz: 16)
+Blauer Wichtel BORNOR bearbeitet nun #11 
+ --> Robuster Nussknacker [15.91]
+Gelber Wichtel WELUMA bearbeitet nun #12 
+ --> Robuster Nussknacker [13.93]
+Blauer Wichtel WELWELJOLA bearbeitet nun #13 
+ --> Interessantes Brettspiel [9.94](Spannung: 23.856)
+Roter Wichtel YIFITAZSETI bearbeitet nun #14 
+ --> Selbstgemachtes Pesto [8.32](Gesund :ja)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #15 
+ --> Bequeme Hose [1.55](Eleganz: 12)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #16 
+ --> Leckerer Essensgutschein [0.38]
+Blauer Wichtel VARARISETI bearbeitet nun #17 
+ --> Aromatischer Tee [12.84](Gesund :ja)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #18 
+ --> Rote Unterbuxe [3.36](Eleganz: 14)
+Roter Wichtel NORTAZ bearbeitet nun #19 
+ --> Schnelles Auto [7.9](Spannung: 11.06)
+Roter Wichtel EORLVARWEL bearbeitet nun #20 
+ --> Interessantes Brettspiel [6.96](Spannung: 16.704)
+Gelber Wichtel TAZJOLA bearbeitet nun #21 
+ --> Knusprige Kekse [2.28](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #22 
+ --> Rasende Eisenbahn [5.67](Spannung: 9.639)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #23 
+ --> Knusprige Kekse [9.0](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #24 
+ --> Rasende Eisenbahn [7.25](Spannung: 12.325)
+Blauer Wichtel ROMINOROPO bearbeitet nun #25 
+ --> Schoko-Nikolaus [14.67](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #26 
+ --> Selbstgemachtes Pesto [4.93](Gesund :ja)
+Gelber Wichtel ARIEORL bearbeitet nun #27 
+ --> Zipfelige Muetze [3.18](Eleganz: 16)
+Gelber Wichtel TAZWELUMA bearbeitet nun #28 
+ --> Schnelles Kartenspiel [1.45](Spannung: 3.045)
+Roter Wichtel SETICARNOR bearbeitet nun #29 
+ --> Leckere Papaya [12.1](Gesund :ja)
 ----------------------------------------
 Runde 2
-Blauer Wichtel WELGEROSFRI bearbeitet nun #30 
- --> Dicker Pullover [3.74](Eleganz: 15)
-Blauer Wichtel SETILE bearbeitet nun #31 
- --> Duftende Badesalze [9.93]
-Blauer Wichtel CARKONOR bearbeitet nun #32 
- --> Schoko-Nikolaus [14.99](Gesund :ja)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #30 
+ --> Dicker Pullover [1.8](Eleganz: 15)
 ----------------------------------------
 Runde 3
-Roter Wichtel HATINORGEROS bearbeitet nun #33 
- --> Spannendes Buch [22.82]
-Blauer Wichtel DURCARJOLA bearbeitet nun #34 
- --> Duftende Badesalze [20.48]
+Roter Wichtel HATIIOTIDUR bearbeitet nun #31 
+ --> Robuster Nussknacker [16.61]
 ----------------------------------------
 Runde 4
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #35 
- --> Schnelles Kartenspiel [9.33](Spannung: 19.593)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #32 
+ --> Schnelles Auto [19.68]
+Gelber Wichtel TAZWELUMA bearbeitet nun #33 
+ --> Gemaltes Memory [9.22](Spannung: 13.830000000000002)
 ----------------------------------------
 Runde 5
-Gelber Wichtel BORWEL bearbeitet nun #36 
- --> Rote Unterbuxe [2.4](Eleganz: 14)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #37 
- --> Robuster Nussknacker [17.54]
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #38 
- --> Leckerer Essensgutschein [5.71]
-Gelber Wichtel BORXULDUR bearbeitet nun #39 
- --> Warme Socken [4.47](Eleganz: 12)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #34 
+ --> Spannendes Buch [14.58]
+Gelber Wichtel TAZVARXUL bearbeitet nun #35 
+ --> Interessantes Brettspiel [7.26](Spannung: 17.424)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #36 
+ --> Saftige Kekse [3.82](Gesund :nein)
+Gelber Wichtel TAZJOLA bearbeitet nun #37 
+ --> Lange Struempfe [4.59](Eleganz: 15)
+Roter Wichtel CARMU bearbeitet nun #38 
+ --> Gemaltes Memory [6.39](Spannung: 9.584999999999999)
 ----------------------------------------
 Runde 6
+Blauer Wichtel FRIOPOOPO bearbeitet nun #39 
+ --> Duftende Badesalze [18.7]
+Roter Wichtel MUDURSETI bearbeitet nun #40 
+ --> Schnelles Auto [8.59](Spannung: 12.026)
+Blauer Wichtel DURBOR bearbeitet nun #41 
+ --> Kuscheliger Schal [3.4](Eleganz: 17)
 ----------------------------------------
 Runde 7
-Blauer Wichtel JOLAKO bearbeitet nun #40 
- --> Selbstgemachtes Pesto [1.21](Gesund :nein)
-Roter Wichtel BORLECAR bearbeitet nun #41 
- --> Spannendes Buch [12.56]
-Gelber Wichtel UMAMUARI bearbeitet nun #42 
- --> Thermo-Ski-Unterwaesche [4.67](Eleganz: 23)
-Gelber Wichtel FRIIOTI bearbeitet nun #43 
- --> Rasende Eisenbahn [6.93](Spannung: 11.781)
+Blauer Wichtel WELWELJOLA bearbeitet nun #42 
+ --> Kuscheliger Schal [2.0](Eleganz: 17)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #43 
+ --> Gemaltes Memory [4.83](Spannung: 7.245)
+Gelber Wichtel ARIEORL bearbeitet nun #44 
+ --> Knusprige Kekse [9.94](Gesund :nein)
 ----------------------------------------
 Runde 8
-Gelber Wichtel GEROSHATI bearbeitet nun #44 
- --> Saftige Kekse [8.16](Gesund :ja)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #45 
+ --> Kuscheliger Schal [3.8](Eleganz: 17)
+Blauer Wichtel GEROSLE bearbeitet nun #46 
+ --> Dicker Pullover [2.76](Eleganz: 15)
+Blauer Wichtel UMATAZ bearbeitet nun #47 
+ --> Schoko-Nikolaus [2.42](Gesund :ja)
+Roter Wichtel YIFITAZSETI bearbeitet nun #48 
+ --> Leckere Papaya [0.61](Gesund :ja)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #49 
+ --> Schnelles Auto [18.68]
+Roter Wichtel SETITAZ bearbeitet nun #50 
+ --> Lange Struempfe [1.83](Eleganz: 15)
 ----------------------------------------
 Runde 9
-Roter Wichtel MUEORLTAZ bearbeitet nun #45 
- --> Robuster Nussknacker [2.51]
-Blauer Wichtel TAZEORL bearbeitet nun #46 
- --> Duftende Badesalze [19.15]
+Roter Wichtel YIFITAZSETI bearbeitet nun #51 
+ --> Aromatischer Tee [8.95](Gesund :ja)
+Roter Wichtel EORLVARWEL bearbeitet nun #52 
+ --> Knusprige Kekse [0.72](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #53 
+ --> Schnelles Auto [8.06]
+Roter Wichtel HATITAZLE bearbeitet nun #54 
+ --> Bequeme Hose [3.28](Eleganz: 12)
 ----------------------------------------
 Runde 10
-Roter Wichtel ROMIMUEORL bearbeitet nun #47 
- --> Schnelles Kartenspiel [7.38](Spannung: 15.498)
-Blauer Wichtel WELGEROSFRI bearbeitet nun #48 
- --> Schnelles Kartenspiel [7.19](Spannung: 15.099)
-Gelber Wichtel BORWEL bearbeitet nun #49 
- --> Kuscheliger Schal [2.67](Eleganz: 17)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #50 
- --> Dicker Pullover [0.36](Eleganz: 15)
-Roter Wichtel EORLUMA bearbeitet nun #51 
- --> Leckere Papaya [5.2](Gesund :nein)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #55 
+ --> Dicker Pullover [2.87](Eleganz: 15)
+Roter Wichtel NORTAZ bearbeitet nun #56 
+ --> Schnelles Auto [16.1]
+Roter Wichtel EORLVARWEL bearbeitet nun #57 
+ --> Zipfelige Muetze [1.15](Eleganz: 16)
 ----------------------------------------
 Runde 11
-Roter Wichtel MUEORLTAZ bearbeitet nun #52 
- --> Stacheliger Kaktus [8.3]
-Blauer Wichtel KOMUGEROS bearbeitet nun #53 
- --> Schoko-Nikolaus [1.6](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #58 
+ --> Bequeme Hose [2.47](Eleganz: 12)
+Roter Wichtel EORLVARWEL bearbeitet nun #59 
+ --> Spannendes Buch [20.01]
+Roter Wichtel HATITAZLE bearbeitet nun #60 
+ --> Grosser Bagger [7.7](Spannung: 10.78)
 ----------------------------------------
 Runde 12
-Blauer Wichtel CARCAR bearbeitet nun #54 
- --> Aromatischer Tee [5.48](Gesund :nein)
-Blauer Wichtel JOLAKO bearbeitet nun #55 
- --> Spannendes Buch [3.7]
-Gelber Wichtel OPOGEROS bearbeitet nun #56 
- --> Schnelles Kartenspiel [4.85](Spannung: 10.184999999999999)
-Gelber Wichtel BORXULDUR bearbeitet nun #57 
- --> Saftige Kekse [9.88](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #61 
+ --> Rasende Eisenbahn [3.49](Spannung: 5.933000000000001)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #62 
+ --> Knusprige Kekse [12.48](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #63 
+ --> Spannendes Buch [14.25]
+Roter Wichtel SETICARNOR bearbeitet nun #64 
+ --> Niedliche Puppe [5.75](Spannung: 8.625)
 ----------------------------------------
 Runde 13
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #58 
- --> Rasende Eisenbahn [3.66](Spannung: 6.2219999999999995)
+Blauer Wichtel DURBOR bearbeitet nun #65 
+ --> Warme Socken [4.19](Eleganz: 12)
+Blauer Wichtel WELWELJOLA bearbeitet nun #66 
+ --> Rote Unterbuxe [3.33](Eleganz: 14)
+Gelber Wichtel TAZJOLA bearbeitet nun #67 
+ --> Kuscheliger Schal [0.65](Eleganz: 17)
 ----------------------------------------
 Runde 14
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #59 
- --> Knusprige Kekse [2.44](Gesund :ja)
-Roter Wichtel EORLUMA bearbeitet nun #60 
- --> Rote Unterbuxe [0.62](Eleganz: 14)
-Roter Wichtel SETIJOLA bearbeitet nun #61 
- --> Knusprige Kekse [2.21](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #68 
+ --> Grosser Bagger [0.34](Spannung: 0.4760000000000001)
+Blauer Wichtel UMATAZ bearbeitet nun #69 
+ --> Zipfelige Muetze [0.53](Eleganz: 16)
 ----------------------------------------
 Runde 15
-Blauer Wichtel WELGEROSFRI bearbeitet nun #62 
- --> Selbstgemachtes Pesto [12.66](Gesund :ja)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #63 
- --> Thermo-Ski-Unterwaesche [4.41](Eleganz: 23)
-Roter Wichtel EORLUMA bearbeitet nun #64 
- --> Schoko-Nikolaus [4.27](Gesund :ja)
-Gelber Wichtel UMAMUARI bearbeitet nun #65 
- --> Kuscheliger Schal [4.78](Eleganz: 17)
-Roter Wichtel SETIJOLA bearbeitet nun #66 
- --> Schnelles Auto [8.69](Spannung: 12.166)
+Blauer Wichtel GEROSLE bearbeitet nun #70 
+ --> Duftende Badesalze [2.59]
+Gelber Wichtel TAZWELUMA bearbeitet nun #71 
+ --> Leckere Papaya [5.54](Gesund :nein)
 ----------------------------------------
 Runde 16
-Gelber Wichtel BORWEL bearbeitet nun #67 
- --> Bequeme Hose [4.22](Eleganz: 12)
-Blauer Wichtel SETILE bearbeitet nun #68 
- --> Duftende Badesalze [16.6]
-Gelber Wichtel FRIIOTI bearbeitet nun #69 
- --> Niedliche Puppe [8.08](Spannung: 12.120000000000001)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #70 
- --> Duftende Badesalze [4.54]
+Roter Wichtel MUDURSETI bearbeitet nun #72 
+ --> Stacheliger Kaktus [20.53]
+Gelber Wichtel KODUR bearbeitet nun #73 
+ --> Kuscheliger Schal [4.99](Eleganz: 17)
+Gelber Wichtel TAZVARXUL bearbeitet nun #74 
+ --> Schnelles Auto [2.24]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #75 
+ --> Aromatischer Tee [9.79](Gesund :nein)
+Roter Wichtel SETITAZ bearbeitet nun #76 
+ --> Selbstgemachtes Pesto [0.49](Gesund :ja)
 ----------------------------------------
 Runde 17
-Blauer Wichtel KOMUGEROS bearbeitet nun #71 
- --> Stacheliger Kaktus [3.42]
+Gelber Wichtel WELUMA bearbeitet nun #77 
+ --> Selbstgemachtes Pesto [11.31](Gesund :nein)
+Roter Wichtel YIFITAZSETI bearbeitet nun #78 
+ --> Knusprige Kekse [12.83](Gesund :ja)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #79 
+ --> Grosser Bagger [4.49](Spannung: 6.286)
+Gelber Wichtel TAZJOLA bearbeitet nun #80 
+ --> Schoko-Nikolaus [2.86](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #81 
+ --> Spannendes Buch [11.29]
 ----------------------------------------
 Runde 18
-Roter Wichtel ROMIMUEORL bearbeitet nun #72 
- --> Schoko-Nikolaus [9.86](Gesund :nein)
-Roter Wichtel MUEORLTAZ bearbeitet nun #73 
- --> Schnelles Auto [4.05](Spannung: 5.67)
-Roter Wichtel EORLUMA bearbeitet nun #74 
- --> Schnelles Auto [13.11]
-Gelber Wichtel GEROSHATI bearbeitet nun #75 
- --> Bequeme Hose [3.75](Eleganz: 12)
-Roter Wichtel XULBOR bearbeitet nun #76 
- --> Stacheliger Kaktus [14.67]
+Blauer Wichtel NORARI bearbeitet nun #82 
+ --> Saftige Kekse [13.08](Gesund :nein)
+Blauer Wichtel VARARISETI bearbeitet nun #83 
+ --> Bequeme Hose [0.55](Eleganz: 12)
 ----------------------------------------
 Runde 19
-Roter Wichtel BORLECAR bearbeitet nun #77 
- --> Schoko-Nikolaus [2.97](Gesund :ja)
-Gelber Wichtel OPOGEROS bearbeitet nun #78 
- --> Interessantes Brettspiel [3.71](Spannung: 8.904)
+Blauer Wichtel UMATAZ bearbeitet nun #84 
+ --> Schnelles Kartenspiel [2.59](Spannung: 5.439)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #85 
+ --> Grosser Bagger [9.63](Spannung: 13.482000000000003)
+Gelber Wichtel ARIEORL bearbeitet nun #86 
+ --> Leckere Papaya [8.13](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #87 
+ --> Rasende Eisenbahn [5.25](Spannung: 8.925)
 ----------------------------------------
 Runde 20
-Blauer Wichtel JOLAKO bearbeitet nun #79 
- --> Saftige Kekse [7.25](Gesund :nein)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #80 
- --> Niedliche Puppe [3.23](Spannung: 4.845000000000001)
+Gelber Wichtel TAZVARXUL bearbeitet nun #88 
+ --> Rote Unterbuxe [1.2](Eleganz: 14)
+Blauer Wichtel WELWELJOLA bearbeitet nun #89 
+ --> Rasende Eisenbahn [3.65](Spannung: 6.205)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #90 
+ --> Robuster Nussknacker [2.87]
+Roter Wichtel HATITAZLE bearbeitet nun #91 
+ --> Kuscheliger Schal [3.21](Eleganz: 17)
+Blauer Wichtel ROMINOROPO bearbeitet nun #92 
+ --> Dicker Pullover [2.57](Eleganz: 15)
 ----------------------------------------
 Runde 21
-Blauer Wichtel CARCAR bearbeitet nun #81 
- --> Grosser Bagger [9.92](Spannung: 13.888)
-Roter Wichtel BORLECAR bearbeitet nun #82 
- --> Bequeme Hose [3.1](Eleganz: 12)
-Blauer Wichtel CARKONOR bearbeitet nun #83 
- --> Thermo-Ski-Unterwaesche [4.78](Eleganz: 23)
+Blauer Wichtel DURBOR bearbeitet nun #93 
+ --> Schnelles Kartenspiel [1.66](Spannung: 3.4859999999999998)
+Blauer Wichtel UMATAZ bearbeitet nun #94 
+ --> Lange Struempfe [1.87](Eleganz: 15)
+Blauer Wichtel BORNOR bearbeitet nun #95 
+ --> Leckerer Essensgutschein [4.41]
 ----------------------------------------
 Runde 22
+Blauer Wichtel GEROSLE bearbeitet nun #96 
+ --> Spannendes Buch [6.73]
+Gelber Wichtel TAZJOLA bearbeitet nun #97 
+ --> Saftige Kekse [8.77](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #98 
+ --> Leckerer Essensgutschein [22.19]
 ----------------------------------------
 Runde 23
-Gelber Wichtel BORWEL bearbeitet nun #84 
- --> Lange Struempfe [4.44](Eleganz: 15)
-Roter Wichtel MUEORLTAZ bearbeitet nun #85 
- --> Dicker Pullover [2.64](Eleganz: 15)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #86 
- --> Leckere Papaya [6.56](Gesund :ja)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #87 
- --> Spannendes Buch [23.57]
-Roter Wichtel BORLECAR bearbeitet nun #88 
- --> Aromatischer Tee [8.87](Gesund :ja)
-Gelber Wichtel UMAMUARI bearbeitet nun #89 
- --> Spannendes Buch [18.09]
+Blauer Wichtel DURBOR bearbeitet nun #99 
+ --> Leckerer Essensgutschein [12.61]
+Blauer Wichtel WELWELJOLA bearbeitet nun #100 
+ --> Aromatischer Tee [3.88](Gesund :nein)
+Blauer Wichtel VARARISETI bearbeitet nun #101 
+ --> Robuster Nussknacker [4.76]
+Gelber Wichtel TAZWELUMA bearbeitet nun #102 
+ --> Schnelles Auto [5.88](Spannung: 8.232)
 ----------------------------------------
 Runde 24
-Blauer Wichtel KOMUGEROS bearbeitet nun #90 
- --> Schoko-Nikolaus [4.94](Gesund :ja)
-Gelber Wichtel BORXULDUR bearbeitet nun #91 
- --> Selbstgemachtes Pesto [8.52](Gesund :ja)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #103 
+ --> Schnelles Kartenspiel [7.81](Spannung: 16.401)
+Gelber Wichtel KODUR bearbeitet nun #104 
+ --> Lange Struempfe [3.46](Eleganz: 15)
+Gelber Wichtel TAZVARXUL bearbeitet nun #105 
+ --> Zipfelige Muetze [3.08](Eleganz: 16)
 ----------------------------------------
 Runde 25
-Roter Wichtel MUEORLTAZ bearbeitet nun #92 
- --> Thermo-Ski-Unterwaesche [4.11](Eleganz: 23)
-Roter Wichtel HATINORGEROS bearbeitet nun #93 
- --> Selbstgemachtes Pesto [1.39](Gesund :nein)
-Gelber Wichtel GEROSHATI bearbeitet nun #94 
- --> Schnelles Auto [8.99]
-Gelber Wichtel OPOGEROS bearbeitet nun #95 
- --> Gemaltes Memory [2.65](Spannung: 3.975)
-Roter Wichtel SETIJOLA bearbeitet nun #96 
- --> Leckerer Essensgutschein [18.86]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #97 
- --> Aromatischer Tee [7.68](Gesund :nein)
-Roter Wichtel GEROSJOLA bearbeitet nun #98 
- --> Saftige Kekse [11.51](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #106 
+ --> Kuscheliger Schal [4.34](Eleganz: 17)
+Roter Wichtel NORTAZ bearbeitet nun #107 
+ --> Schnelles Auto [1.78]
+Roter Wichtel CARMU bearbeitet nun #108 
+ --> Interessantes Brettspiel [4.55](Spannung: 10.919999999999998)
+Roter Wichtel SETICARNOR bearbeitet nun #109 
+ --> Grosser Bagger [0.22](Spannung: 0.308)
 ----------------------------------------
 Runde 26
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #99 
- --> Schoko-Nikolaus [11.86](Gesund :nein)
-Roter Wichtel HATINORGEROS bearbeitet nun #100 
- --> Leckerer Essensgutschein [19.79]
-Gelber Wichtel FRIIOTI bearbeitet nun #101 
- --> Robuster Nussknacker [14.73]
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #110 
+ --> Gemaltes Memory [6.79](Spannung: 10.184999999999999)
+Roter Wichtel NORTAZ bearbeitet nun #111 
+ --> Stacheliger Kaktus [0.58]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #112 
+ --> Knusprige Kekse [13.69](Gesund :nein)
+Roter Wichtel SETICARNOR bearbeitet nun #113 
+ --> Aromatischer Tee [5.32](Gesund :nein)
 ----------------------------------------
 Runde 27
-Roter Wichtel ROMIMUEORL bearbeitet nun #102 
- --> Bequeme Hose [3.34](Eleganz: 12)
-Blauer Wichtel CARCAR bearbeitet nun #103 
- --> Niedliche Puppe [2.25](Spannung: 3.375)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #104 
- --> Gemaltes Memory [1.99](Spannung: 2.9850000000000003)
-Blauer Wichtel DURCARJOLA bearbeitet nun #105 
- --> Leckere Papaya [3.24](Gesund :nein)
+Blauer Wichtel UMATAZ bearbeitet nun #114 
+ --> Lange Struempfe [2.83](Eleganz: 15)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #115 
+ --> Schnelles Kartenspiel [8.62](Spannung: 18.101999999999997)
+Roter Wichtel NORTAZ bearbeitet nun #116 
+ --> Grosser Bagger [6.02](Spannung: 8.428)
+Roter Wichtel SETITAZ bearbeitet nun #117 
+ --> Selbstgemachtes Pesto [0.64](Gesund :ja)
+Blauer Wichtel ROMINOROPO bearbeitet nun #118 
+ --> Rasende Eisenbahn [5.69](Spannung: 9.673)
 ----------------------------------------
 Runde 28
-Blauer Wichtel SETIIOTISETI bearbeitet nun #106 
- --> Interessantes Brettspiel [5.19](Spannung: 12.456)
-Roter Wichtel MUEORLTAZ bearbeitet nun #107 
- --> Robuster Nussknacker [15.42]
-Blauer Wichtel EORLMUFRI bearbeitet nun #108 
- --> Lange Struempfe [0.41](Eleganz: 15)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #119 
+ --> Spannendes Buch [8.24]
+Roter Wichtel SETITAZ bearbeitet nun #120 
+ --> Robuster Nussknacker [4.96]
 ----------------------------------------
 Runde 29
-Blauer Wichtel TAZKO bearbeitet nun #109 
- --> Duftende Badesalze [14.01]
-Roter Wichtel ROMIMUEORL bearbeitet nun #110 
- --> Leckerer Essensgutschein [19.11]
-Blauer Wichtel CARCAR bearbeitet nun #111 
- --> Interessantes Brettspiel [9.99](Spannung: 23.976)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #112 
- --> Leckerer Essensgutschein [4.16]
+Blauer Wichtel FRIOPOOPO bearbeitet nun #121 
+ --> Spannendes Buch [24.94]
+Blauer Wichtel YIFIMUCAR bearbeitet nun #122 
+ --> Rote Unterbuxe [0.19](Eleganz: 14)
+Blauer Wichtel BORNOR bearbeitet nun #123 
+ --> Grosser Bagger [9.1](Spannung: 12.739999999999998)
+Roter Wichtel YIFITAZSETI bearbeitet nun #124 
+ --> Rote Unterbuxe [1.3](Eleganz: 14)
+Gelber Wichtel ARIEORL bearbeitet nun #125 
+ --> Dicker Pullover [2.14](Eleganz: 15)
 ----------------------------------------
 Runde 30
-Gelber Wichtel BORWEL bearbeitet nun #113 
- --> Zipfelige Muetze [4.15](Eleganz: 16)
-Roter Wichtel EORLUMA bearbeitet nun #114 
- --> Knusprige Kekse [8.58](Gesund :ja)
-Blauer Wichtel CARKONOR bearbeitet nun #115 
- --> Rote Unterbuxe [4.74](Eleganz: 14)
-Gelber Wichtel OPOGEROS bearbeitet nun #116 
- --> Duftende Badesalze [12.8]
+Gelber Wichtel KODUR bearbeitet nun #126 
+ --> Zipfelige Muetze [3.91](Eleganz: 16)
+Gelber Wichtel TAZVARXUL bearbeitet nun #127 
+ --> Leckere Papaya [7.07](Gesund :nein)
+Gelber Wichtel WELUMA bearbeitet nun #128 
+ --> Duftende Badesalze [2.71]
+Roter Wichtel YIFITAZSETI bearbeitet nun #129 
+ --> Warme Socken [3.65](Eleganz: 12)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #130 
+ --> Saftige Kekse [8.54](Gesund :ja)
+Roter Wichtel EORLVARWEL bearbeitet nun #131 
+ --> Schnelles Auto [5.17](Spannung: 7.2379999999999995)
+Roter Wichtel SETICARNOR bearbeitet nun #132 
+ --> Stacheliger Kaktus [5.35]
 ----------------------------------------
 Runde 31
-Blauer Wichtel JOLAKO bearbeitet nun #117 
- --> Saftige Kekse [1.66](Gesund :nein)
-Roter Wichtel BORLECAR bearbeitet nun #118 
- --> Bequeme Hose [0.75](Eleganz: 12)
+Blauer Wichtel WELWELJOLA bearbeitet nun #133 
+ --> Knusprige Kekse [5.61](Gesund :nein)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #134 
+ --> Schnelles Kartenspiel [2.34](Spannung: 4.914)
+Blauer Wichtel ROMINOROPO bearbeitet nun #135 
+ --> Dicker Pullover [3.87](Eleganz: 15)
+Roter Wichtel CARMU bearbeitet nun #136 
+ --> Rasende Eisenbahn [4.03](Spannung: 6.851000000000001)
+Gelber Wichtel TAZWELUMA bearbeitet nun #137 
+ --> Schnelles Auto [4.89](Spannung: 6.845999999999999)
 ----------------------------------------
 Runde 32
-Blauer Wichtel SETIIOTISETI bearbeitet nun #119 
- --> Leckerer Essensgutschein [3.5]
-Blauer Wichtel WELGEROSFRI bearbeitet nun #120 
- --> Schnelles Kartenspiel [8.38](Spannung: 17.598000000000003)
-Blauer Wichtel TAZEORL bearbeitet nun #121 
- --> Schnelles Kartenspiel [3.02](Spannung: 6.3420000000000005)
-Roter Wichtel BORLECAR bearbeitet nun #122 
- --> Schnelles Kartenspiel [4.61](Spannung: 9.681000000000001)
-Roter Wichtel XULBOR bearbeitet nun #123 
- --> Schoko-Nikolaus [4.13](Gesund :ja)
-Blauer Wichtel EORLMUFRI bearbeitet nun #124 
- --> Leckere Papaya [2.6](Gesund :ja)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #138 
+ --> Grosser Bagger [2.63](Spannung: 3.682)
+Blauer Wichtel VARARISETI bearbeitet nun #139 
+ --> Gemaltes Memory [8.61](Spannung: 12.914999999999997)
+Roter Wichtel SETITAZ bearbeitet nun #140 
+ --> Leckere Papaya [12.07](Gesund :ja)
 ----------------------------------------
 Runde 33
-Blauer Wichtel KOMUGEROS bearbeitet nun #125 
- --> Knusprige Kekse [12.66](Gesund :ja)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #141 
+ --> Robuster Nussknacker [8.57]
+Blauer Wichtel GEROSLE bearbeitet nun #142 
+ --> Stacheliger Kaktus [17.28]
+Roter Wichtel YIFITAZSETI bearbeitet nun #143 
+ --> Zipfelige Muetze [4.82](Eleganz: 16)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #144 
+ --> Rasende Eisenbahn [8.3](Spannung: 14.110000000000003)
+Gelber Wichtel TAZJOLA bearbeitet nun #145 
+ --> Interessantes Brettspiel [0.24](Spannung: 0.576)
 ----------------------------------------
 Runde 34
-Blauer Wichtel DURCARJOLA bearbeitet nun #126 
- --> Schnelles Kartenspiel [2.21](Spannung: 4.641)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #127 
- --> Bequeme Hose [3.83](Eleganz: 12)
+Blauer Wichtel UMATAZ bearbeitet nun #146 
+ --> Niedliche Puppe [9.12](Spannung: 13.679999999999998)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #147 
+ --> Robuster Nussknacker [14.03]
+Roter Wichtel NORTAZ bearbeitet nun #148 
+ --> Grosser Bagger [2.04](Spannung: 2.8560000000000003)
+Gelber Wichtel ARIEORL bearbeitet nun #149 
+ --> Bequeme Hose [4.15](Eleganz: 12)
+Roter Wichtel SETICARNOR bearbeitet nun #150 
+ --> Zipfelige Muetze [2.56](Eleganz: 16)
 ----------------------------------------
 Runde 35
-Blauer Wichtel CARCAR bearbeitet nun #128 
- --> Kuscheliger Schal [1.97](Eleganz: 17)
-Blauer Wichtel TAZEORL bearbeitet nun #129 
- --> Schnelles Auto [19.3]
-Gelber Wichtel BORXULDUR bearbeitet nun #130 
- --> Rasende Eisenbahn [1.33](Spannung: 2.261)
-Roter Wichtel XULBOR bearbeitet nun #131 
- --> Thermo-Ski-Unterwaesche [0.56](Eleganz: 23)
+Blauer Wichtel NORARI bearbeitet nun #151 
+ --> Leckere Papaya [11.9](Gesund :nein)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #152 
+ --> Schoko-Nikolaus [9.56](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #153 
+ --> Robuster Nussknacker [15.26]
+Blauer Wichtel BORNOR bearbeitet nun #154 
+ --> Kuscheliger Schal [3.2](Eleganz: 17)
+Gelber Wichtel WELUMA bearbeitet nun #155 
+ --> Dicker Pullover [1.89](Eleganz: 15)
+Gelber Wichtel TAZJOLA bearbeitet nun #156 
+ --> Spannendes Buch [16.9]
 ----------------------------------------
 Runde 36
-Blauer Wichtel DURCARJOLA bearbeitet nun #132 
- --> Selbstgemachtes Pesto [3.53](Gesund :nein)
-Gelber Wichtel GEROSHATI bearbeitet nun #133 
- --> Schnelles Auto [7.2](Spannung: 10.08)
-Roter Wichtel XULBOR bearbeitet nun #134 
- --> Saftige Kekse [12.94](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #135 
- --> Kuscheliger Schal [0.6](Eleganz: 17)
+Roter Wichtel MUDURSETI bearbeitet nun #157 
+ --> Leckerer Essensgutschein [0.83]
+Roter Wichtel EORLVARWEL bearbeitet nun #158 
+ --> Knusprige Kekse [1.62](Gesund :nein)
+Roter Wichtel CARMU bearbeitet nun #159 
+ --> Aromatischer Tee [6.29](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #160 
+ --> Lange Struempfe [2.86](Eleganz: 15)
 ----------------------------------------
 Runde 37
-Blauer Wichtel WELGEROSFRI bearbeitet nun #136 
- --> Knusprige Kekse [9.95](Gesund :nein)
-Gelber Wichtel BORWEL bearbeitet nun #137 
- --> Rote Unterbuxe [4.9](Eleganz: 14)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #138 
- --> Rote Unterbuxe [3.27](Eleganz: 14)
-Blauer Wichtel JOLAKO bearbeitet nun #139 
- --> Rasende Eisenbahn [6.91](Spannung: 11.747)
-Blauer Wichtel SETILE bearbeitet nun #140 
- --> Zipfelige Muetze [0.81](Eleganz: 16)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #141 
- --> Rote Unterbuxe [2.54](Eleganz: 14)
-Roter Wichtel GEROSJOLA bearbeitet nun #142 
- --> Kuscheliger Schal [1.3](Eleganz: 17)
+Roter Wichtel MUDURSETI bearbeitet nun #161 
+ --> Thermo-Ski-Unterwaesche [2.03](Eleganz: 23)
+Gelber Wichtel KODUR bearbeitet nun #162 
+ --> Rote Unterbuxe [2.04](Eleganz: 14)
+Roter Wichtel YIFITAZSETI bearbeitet nun #163 
+ --> Lange Struempfe [4.38](Eleganz: 15)
+Blauer Wichtel VARARISETI bearbeitet nun #164 
+ --> Thermo-Ski-Unterwaesche [0.95](Eleganz: 23)
+Roter Wichtel NORTAZ bearbeitet nun #165 
+ --> Aromatischer Tee [2.1](Gesund :ja)
+Roter Wichtel EORLVARWEL bearbeitet nun #166 
+ --> Spannendes Buch [2.98]
 ----------------------------------------
 Runde 38
-Roter Wichtel BORLECAR bearbeitet nun #143 
- --> Robuster Nussknacker [15.0]
-Roter Wichtel EORLUMA bearbeitet nun #144 
- --> Aromatischer Tee [2.16](Gesund :ja)
-Gelber Wichtel BORXULDUR bearbeitet nun #145 
- --> Dicker Pullover [1.87](Eleganz: 15)
-Roter Wichtel GEROSJOLA bearbeitet nun #146 
- --> Kuscheliger Schal [2.41](Eleganz: 17)
+Roter Wichtel MUDURSETI bearbeitet nun #167 
+ --> Robuster Nussknacker [6.02]
+Roter Wichtel HATIIOTIDUR bearbeitet nun #168 
+ --> Niedliche Puppe [9.9](Spannung: 14.85)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #169 
+ --> Leckerer Essensgutschein [17.94]
+Roter Wichtel NORTAZ bearbeitet nun #170 
+ --> Rasende Eisenbahn [7.27](Spannung: 12.358999999999998)
+Gelber Wichtel TAZWELUMA bearbeitet nun #171 
+ --> Niedliche Puppe [8.95](Spannung: 13.425)
+Roter Wichtel SETICARNOR bearbeitet nun #172 
+ --> Schnelles Auto [5.95](Spannung: 8.33)
 ----------------------------------------
 Runde 39
-Roter Wichtel EORLUMA bearbeitet nun #147 
- --> Stacheliger Kaktus [16.86]
-Blauer Wichtel CARKONOR bearbeitet nun #148 
- --> Selbstgemachtes Pesto [2.64](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #149 
- --> Robuster Nussknacker [15.19]
-Blauer Wichtel EORLMUFRI bearbeitet nun #150 
- --> Rote Unterbuxe [4.51](Eleganz: 14)
+Gelber Wichtel TAZVARXUL bearbeitet nun #173 
+ --> Gemaltes Memory [6.32](Spannung: 9.48)
+Roter Wichtel EORLVARWEL bearbeitet nun #174 
+ --> Stacheliger Kaktus [23.24]
+Blauer Wichtel ROMINOROPO bearbeitet nun #175 
+ --> Warme Socken [1.98](Eleganz: 12)
 ----------------------------------------
 Runde 40
-Blauer Wichtel SETIIOTISETI bearbeitet nun #151 
- --> Warme Socken [4.86](Eleganz: 12)
+Blauer Wichtel DURBOR bearbeitet nun #176 
+ --> Schoko-Nikolaus [10.73](Gesund :ja)
+Blauer Wichtel UMATAZ bearbeitet nun #177 
+ --> Dicker Pullover [2.75](Eleganz: 15)
+Gelber Wichtel WELUMA bearbeitet nun #178 
+ --> Schnelles Kartenspiel [1.06](Spannung: 2.226)
+Roter Wichtel YIFITAZSETI bearbeitet nun #179 
+ --> Rote Unterbuxe [1.94](Eleganz: 14)
 ----------------------------------------
 Runde 41
-Blauer Wichtel CARCAR bearbeitet nun #152 
- --> Interessantes Brettspiel [8.82](Spannung: 21.168)
-Blauer Wichtel JOLAKO bearbeitet nun #153 
- --> Duftende Badesalze [21.99]
+Blauer Wichtel WELWELJOLA bearbeitet nun #180 
+ --> Gemaltes Memory [1.26](Spannung: 1.89)
+Roter Wichtel YIFITAZSETI bearbeitet nun #181 
+ --> Zipfelige Muetze [2.7](Eleganz: 16)
+Roter Wichtel CARMU bearbeitet nun #182 
+ --> Schnelles Auto [4.75](Spannung: 6.65)
+Gelber Wichtel ARIEORL bearbeitet nun #183 
+ --> Saftige Kekse [9.45](Gesund :nein)
 ----------------------------------------
 Runde 42
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #154 
- --> Selbstgemachtes Pesto [4.01](Gesund :ja)
-Roter Wichtel MUEORLTAZ bearbeitet nun #155 
- --> Lange Struempfe [1.17](Eleganz: 15)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #156 
- --> Lange Struempfe [3.66](Eleganz: 15)
-Blauer Wichtel SETILE bearbeitet nun #157 
- --> Schnelles Auto [4.18]
+Gelber Wichtel KODUR bearbeitet nun #184 
+ --> Schoko-Nikolaus [7.29](Gesund :nein)
+Blauer Wichtel BORNOR bearbeitet nun #185 
+ --> Saftige Kekse [11.6](Gesund :nein)
+Blauer Wichtel VARARISETI bearbeitet nun #186 
+ --> Robuster Nussknacker [1.06]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #187 
+ --> Saftige Kekse [4.65](Gesund :ja)
 ----------------------------------------
 Runde 43
-Roter Wichtel MUEORLTAZ bearbeitet nun #158 
- --> Leckerer Essensgutschein [7.36]
-Gelber Wichtel UMAMUARI bearbeitet nun #159 
- --> Gemaltes Memory [1.34](Spannung: 2.0100000000000002)
-Roter Wichtel SETIJOLA bearbeitet nun #160 
- --> Schoko-Nikolaus [3.81](Gesund :nein)
-Gelber Wichtel BORXULDUR bearbeitet nun #161 
- --> Dicker Pullover [3.39](Eleganz: 15)
-Gelber Wichtel FRIIOTI bearbeitet nun #162 
- --> Schnelles Auto [21.79]
+Roter Wichtel MUDURSETI bearbeitet nun #188 
+ --> Schnelles Auto [18.93]
+Gelber Wichtel WELUMA bearbeitet nun #189 
+ --> Rote Unterbuxe [0.03](Eleganz: 14)
+Blauer Wichtel WELWELJOLA bearbeitet nun #190 
+ --> Dicker Pullover [2.2](Eleganz: 15)
+Roter Wichtel YIFITAZSETI bearbeitet nun #191 
+ --> Thermo-Ski-Unterwaesche [0.08](Eleganz: 23)
+Roter Wichtel SETITAZ bearbeitet nun #192 
+ --> Rote Unterbuxe [4.88](Eleganz: 14)
+Roter Wichtel HATITAZLE bearbeitet nun #193 
+ --> Rote Unterbuxe [4.51](Eleganz: 14)
 ----------------------------------------
 Runde 44
-Blauer Wichtel TAZUMAFRI bearbeitet nun #163 
- --> Gemaltes Memory [4.58](Spannung: 6.87)
-Blauer Wichtel DURCARJOLA bearbeitet nun #164 
- --> Rote Unterbuxe [1.07](Eleganz: 14)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #165 
- --> Bequeme Hose [0.79](Eleganz: 12)
+Roter Wichtel YIFITAZSETI bearbeitet nun #194 
+ --> Rasende Eisenbahn [9.14](Spannung: 15.538)
 ----------------------------------------
 Runde 45
-Gelber Wichtel BORWEL bearbeitet nun #166 
- --> Duftende Badesalze [15.81]
-Roter Wichtel HATINORGEROS bearbeitet nun #167 
- --> Schnelles Auto [17.03]
-Gelber Wichtel GEROSHATI bearbeitet nun #168 
- --> Kuscheliger Schal [1.93](Eleganz: 17)
-Gelber Wichtel OPOGEROS bearbeitet nun #169 
- --> Rote Unterbuxe [4.33](Eleganz: 14)
+Blauer Wichtel ROMINOROPO bearbeitet nun #195 
+ --> Robuster Nussknacker [11.63]
+Roter Wichtel SETICARNOR bearbeitet nun #196 
+ --> Duftende Badesalze [13.33]
 ----------------------------------------
 Runde 46
-Blauer Wichtel CARCAR bearbeitet nun #170 
- --> Spannendes Buch [6.46]
-Gelber Wichtel UMAMUARI bearbeitet nun #171 
- --> Selbstgemachtes Pesto [5.5](Gesund :nein)
-Blauer Wichtel CARKONOR bearbeitet nun #172 
- --> Schnelles Kartenspiel [8.19](Spannung: 17.198999999999998)
-Roter Wichtel SETIJOLA bearbeitet nun #173 
- --> Thermo-Ski-Unterwaesche [1.18](Eleganz: 23)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #197 
+ --> Rote Unterbuxe [3.37](Eleganz: 14)
+Gelber Wichtel WELUMA bearbeitet nun #198 
+ --> Dicker Pullover [0.18](Eleganz: 15)
+Roter Wichtel NORTAZ bearbeitet nun #199 
+ --> Duftende Badesalze [7.61]
 ----------------------------------------
 Runde 47
-Blauer Wichtel TAZKO bearbeitet nun #174 
- --> Rasende Eisenbahn [7.25](Spannung: 12.325)
-Roter Wichtel ROMIMUEORL bearbeitet nun #175 
- --> Interessantes Brettspiel [7.76](Spannung: 18.624000000000002)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #176 
- --> Knusprige Kekse [12.46](Gesund :ja)
-Roter Wichtel SETIJOLA bearbeitet nun #177 
- --> Interessantes Brettspiel [6.64](Spannung: 15.935999999999998)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #200 
+ --> Leckere Papaya [0.76](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #201 
+ --> Spannendes Buch [9.68]
+Blauer Wichtel UMATAZ bearbeitet nun #202 
+ --> Thermo-Ski-Unterwaesche [0.66](Eleganz: 23)
+Blauer Wichtel VARARISETI bearbeitet nun #203 
+ --> Rasende Eisenbahn [2.2](Spannung: 3.7400000000000007)
+Roter Wichtel SETITAZ bearbeitet nun #204 
+ --> Schoko-Nikolaus [5.95](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #205 
+ --> Schnelles Auto [5.71](Spannung: 7.994)
+Roter Wichtel CARMU bearbeitet nun #206 
+ --> Dicker Pullover [0.93](Eleganz: 15)
 ----------------------------------------
 Runde 48
-Roter Wichtel XULBOR bearbeitet nun #178 
- --> Interessantes Brettspiel [1.83](Spannung: 4.392)
-Blauer Wichtel EORLMUFRI bearbeitet nun #179 
- --> Zipfelige Muetze [1.11](Eleganz: 16)
+Roter Wichtel CARMU bearbeitet nun #207 
+ --> Robuster Nussknacker [16.28]
 ----------------------------------------
 Runde 49
-Blauer Wichtel SETIIOTISETI bearbeitet nun #180 
- --> Thermo-Ski-Unterwaesche [0.5](Eleganz: 23)
-Roter Wichtel MUEORLTAZ bearbeitet nun #181 
- --> Schoko-Nikolaus [0.75](Gesund :ja)
-Blauer Wichtel DURCARJOLA bearbeitet nun #182 
- --> Thermo-Ski-Unterwaesche [2.73](Eleganz: 23)
-Gelber Wichtel BORXULDUR bearbeitet nun #183 
- --> Grosser Bagger [8.88](Spannung: 12.432)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #184 
- --> Robuster Nussknacker [3.34]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #208 
+ --> Gemaltes Memory [9.1](Spannung: 13.65)
+Gelber Wichtel WELUMA bearbeitet nun #209 
+ --> Kuscheliger Schal [0.26](Eleganz: 17)
+Blauer Wichtel WELWELJOLA bearbeitet nun #210 
+ --> Leckere Papaya [10.27](Gesund :ja)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #211 
+ --> Bequeme Hose [2.11](Eleganz: 12)
+Blauer Wichtel VARARISETI bearbeitet nun #212 
+ --> Stacheliger Kaktus [3.23]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #213 
+ --> Stacheliger Kaktus [18.88]
+Gelber Wichtel TAZWELUMA bearbeitet nun #214 
+ --> Lange Struempfe [2.13](Eleganz: 15)
 ----------------------------------------
 Runde 50
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #185 
- --> Duftende Badesalze [17.64]
-Roter Wichtel MUEORLTAZ bearbeitet nun #186 
- --> Grosser Bagger [6.82](Spannung: 9.548)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #187 
- --> Leckere Papaya [1.5](Gesund :nein)
-Blauer Wichtel SETILE bearbeitet nun #188 
- --> Interessantes Brettspiel [2.51](Spannung: 6.023999999999999)
-Blauer Wichtel KOMUGEROS bearbeitet nun #189 
- --> Spannendes Buch [3.85]
-Gelber Wichtel GEROSHATI bearbeitet nun #190 
- --> Gemaltes Memory [3.84](Spannung: 5.76)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #215 
+ --> Gemaltes Memory [8.86](Spannung: 13.289999999999997)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #216 
+ --> Rasende Eisenbahn [5.28](Spannung: 8.976)
 ----------------------------------------
 Runde 51
-Blauer Wichtel WELGEROSFRI bearbeitet nun #191 
- --> Bequeme Hose [0.31](Eleganz: 12)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #192 
- --> Gemaltes Memory [6.84](Spannung: 10.26)
-Blauer Wichtel CARKONOR bearbeitet nun #193 
- --> Grosser Bagger [3.15](Spannung: 4.41)
-Roter Wichtel XULBOR bearbeitet nun #194 
- --> Interessantes Brettspiel [3.11](Spannung: 7.464)
+Blauer Wichtel NORARI bearbeitet nun #217 
+ --> Schoko-Nikolaus [2.06](Gesund :ja)
+Gelber Wichtel KODUR bearbeitet nun #218 
+ --> Duftende Badesalze [24.81]
 ----------------------------------------
 Runde 52
-Blauer Wichtel TAZKO bearbeitet nun #195 
- --> Leckere Papaya [2.82](Gesund :ja)
-Blauer Wichtel SETILE bearbeitet nun #196 
- --> Kuscheliger Schal [3.09](Eleganz: 17)
-Roter Wichtel BORLECAR bearbeitet nun #197 
- --> Dicker Pullover [3.7](Eleganz: 15)
-Gelber Wichtel OPOGEROS bearbeitet nun #198 
- --> Knusprige Kekse [3.93](Gesund :nein)
+Blauer Wichtel UMATAZ bearbeitet nun #219 
+ --> Kuscheliger Schal [1.07](Eleganz: 17)
+Gelber Wichtel WELUMA bearbeitet nun #220 
+ --> Spannendes Buch [1.58]
+Blauer Wichtel HATIEORLROMI bearbeitet nun #221 
+ --> Robuster Nussknacker [17.09]
+Roter Wichtel SETITAZ bearbeitet nun #222 
+ --> Leckerer Essensgutschein [0.23]
+Gelber Wichtel ARIEORL bearbeitet nun #223 
+ --> Dicker Pullover [3.52](Eleganz: 15)
 ----------------------------------------
 Runde 53
-Roter Wichtel GEROSJOLA bearbeitet nun #199 
- --> Lange Struempfe [3.91](Eleganz: 15)
-Blauer Wichtel EORLMUFRI bearbeitet nun #200 
- --> Leckerer Essensgutschein [13.27]
+Blauer Wichtel YIFIMUCAR bearbeitet nun #224 
+ --> Saftige Kekse [3.83](Gesund :nein)
+Roter Wichtel NORTAZ bearbeitet nun #225 
+ --> Thermo-Ski-Unterwaesche [3.48](Eleganz: 23)
+Roter Wichtel SETITAZ bearbeitet nun #226 
+ --> Leckerer Essensgutschein [9.67]
 ----------------------------------------
 Runde 54
-Blauer Wichtel SETIIOTISETI bearbeitet nun #201 
- --> Leckerer Essensgutschein [9.95]
-Gelber Wichtel UMAMUARI bearbeitet nun #202 
- --> Zipfelige Muetze [0.37](Eleganz: 16)
-Blauer Wichtel CARKONOR bearbeitet nun #203 
- --> Duftende Badesalze [10.26]
+Blauer Wichtel GEROSLE bearbeitet nun #227 
+ --> Warme Socken [4.72](Eleganz: 12)
+Roter Wichtel YIFITAZSETI bearbeitet nun #228 
+ --> Kuscheliger Schal [4.01](Eleganz: 17)
+Gelber Wichtel TAZJOLA bearbeitet nun #229 
+ --> Schnelles Auto [3.93](Spannung: 5.502000000000001)
+Roter Wichtel HATITAZLE bearbeitet nun #230 
+ --> Robuster Nussknacker [5.04]
+Gelber Wichtel TAZWELUMA bearbeitet nun #231 
+ --> Schnelles Kartenspiel [4.96](Spannung: 10.416)
 ----------------------------------------
 Runde 55
-Blauer Wichtel WELGEROSFRI bearbeitet nun #204 
- --> Schnelles Kartenspiel [1.03](Spannung: 2.163)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #205 
- --> Stacheliger Kaktus [12.05]
-Roter Wichtel BORLECAR bearbeitet nun #206 
- --> Spannendes Buch [21.06]
-Roter Wichtel EORLUMA bearbeitet nun #207 
- --> Grosser Bagger [2.12](Spannung: 2.968)
-Roter Wichtel SETIJOLA bearbeitet nun #208 
- --> Schnelles Auto [16.86]
-Roter Wichtel XULBOR bearbeitet nun #209 
- --> Robuster Nussknacker [3.66]
+Blauer Wichtel DURBOR bearbeitet nun #232 
+ --> Knusprige Kekse [7.02](Gesund :nein)
+Roter Wichtel NORTAZ bearbeitet nun #233 
+ --> Niedliche Puppe [2.83](Spannung: 4.245)
 ----------------------------------------
 Runde 56
-Roter Wichtel ROMIMUEORL bearbeitet nun #210 
- --> Zipfelige Muetze [0.11](Eleganz: 16)
-Blauer Wichtel CARCAR bearbeitet nun #211 
- --> Stacheliger Kaktus [8.85]
-Blauer Wichtel DURCARJOLA bearbeitet nun #212 
- --> Dicker Pullover [0.5](Eleganz: 15)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #213 
- --> Warme Socken [2.93](Eleganz: 12)
-Gelber Wichtel GEROSHATI bearbeitet nun #214 
- --> Leckere Papaya [0.22](Gesund :ja)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #215 
- --> Duftende Badesalze [17.29]
-Roter Wichtel GEROSJOLA bearbeitet nun #216 
- --> Gemaltes Memory [3.0](Spannung: 4.5)
+Gelber Wichtel WELUMA bearbeitet nun #234 
+ --> Lange Struempfe [1.92](Eleganz: 15)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #235 
+ --> Lange Struempfe [4.93](Eleganz: 15)
+Blauer Wichtel VARARISETI bearbeitet nun #236 
+ --> Aromatischer Tee [10.24](Gesund :ja)
 ----------------------------------------
 Runde 57
-Roter Wichtel ROMIMUEORL bearbeitet nun #217 
- --> Stacheliger Kaktus [0.97]
-Blauer Wichtel WELGEROSFRI bearbeitet nun #218 
- --> Bequeme Hose [0.1](Eleganz: 12)
-Gelber Wichtel UMAMUARI bearbeitet nun #219 
- --> Selbstgemachtes Pesto [7.1](Gesund :nein)
+Blauer Wichtel NORARI bearbeitet nun #237 
+ --> Robuster Nussknacker [12.11]
+Blauer Wichtel UMATAZ bearbeitet nun #238 
+ --> Saftige Kekse [10.03](Gesund :ja)
+Roter Wichtel YIFITAZSETI bearbeitet nun #239 
+ --> Kuscheliger Schal [3.05](Eleganz: 17)
+Roter Wichtel SETICARNOR bearbeitet nun #240 
+ --> Leckere Papaya [4.33](Gesund :ja)
 ----------------------------------------
 Runde 58
-Roter Wichtel ROMIMUEORL bearbeitet nun #220 
- --> Schnelles Auto [11.86]
-Roter Wichtel MUEORLTAZ bearbeitet nun #221 
- --> Schnelles Kartenspiel [5.2](Spannung: 10.92)
-Blauer Wichtel TAZEORL bearbeitet nun #222 
- --> Interessantes Brettspiel [4.74](Spannung: 11.376000000000001)
-Blauer Wichtel KOMUGEROS bearbeitet nun #223 
- --> Stacheliger Kaktus [4.45]
-Roter Wichtel EORLUMA bearbeitet nun #224 
- --> Niedliche Puppe [7.19](Spannung: 10.785)
-Gelber Wichtel GEROSHATI bearbeitet nun #225 
- --> Leckere Papaya [4.94](Gesund :ja)
-Gelber Wichtel OPOGEROS bearbeitet nun #226 
- --> Robuster Nussknacker [17.99]
-Roter Wichtel XULBOR bearbeitet nun #227 
- --> Warme Socken [4.36](Eleganz: 12)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #241 
+ --> Bequeme Hose [0.04](Eleganz: 12)
+Blauer Wichtel BORNOR bearbeitet nun #242 
+ --> Leckerer Essensgutschein [8.41]
+Roter Wichtel HATITAZLE bearbeitet nun #243 
+ --> Dicker Pullover [3.52](Eleganz: 15)
 ----------------------------------------
 Runde 59
-Blauer Wichtel TAZKO bearbeitet nun #228 
- --> Schnelles Auto [8.3]
-Blauer Wichtel SETILE bearbeitet nun #229 
- --> Knusprige Kekse [1.9](Gesund :nein)
+Gelber Wichtel TAZVARXUL bearbeitet nun #244 
+ --> Zipfelige Muetze [0.28](Eleganz: 16)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #245 
+ --> Rasende Eisenbahn [6.92](Spannung: 11.764)
+Roter Wichtel YIFITAZSETI bearbeitet nun #246 
+ --> Warme Socken [3.7](Eleganz: 12)
+Roter Wichtel NORTAZ bearbeitet nun #247 
+ --> Spannendes Buch [19.01]
+Gelber Wichtel ARIEORL bearbeitet nun #248 
+ --> Robuster Nussknacker [22.75]
 ----------------------------------------
 Runde 60
-Gelber Wichtel BORXULDUR bearbeitet nun #230 
- --> Dicker Pullover [4.94](Eleganz: 15)
-Roter Wichtel GEROSJOLA bearbeitet nun #231 
- --> Spannendes Buch [7.95]
+Roter Wichtel HATIIOTIDUR bearbeitet nun #249 
+ --> Niedliche Puppe [3.17](Spannung: 4.755)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #250 
+ --> Thermo-Ski-Unterwaesche [2.8](Eleganz: 23)
+Gelber Wichtel TAZJOLA bearbeitet nun #251 
+ --> Aromatischer Tee [6.46](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #252 
+ --> Bequeme Hose [0.78](Eleganz: 12)
 ----------------------------------------
 Runde 61
-Blauer Wichtel WELGEROSFRI bearbeitet nun #232 
- --> Thermo-Ski-Unterwaesche [3.47](Eleganz: 23)
-Roter Wichtel HATINORGEROS bearbeitet nun #233 
- --> Schnelles Auto [23.59]
-Blauer Wichtel DURCARJOLA bearbeitet nun #234 
- --> Bequeme Hose [0.64](Eleganz: 12)
-Blauer Wichtel TAZEORL bearbeitet nun #235 
- --> Knusprige Kekse [0.65](Gesund :ja)
-Roter Wichtel XULBOR bearbeitet nun #236 
- --> Bequeme Hose [0.94](Eleganz: 12)
+Roter Wichtel MUDURSETI bearbeitet nun #253 
+ --> Leckerer Essensgutschein [1.37]
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #254 
+ --> Rote Unterbuxe [1.65](Eleganz: 14)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #255 
+ --> Schoko-Nikolaus [9.05](Gesund :nein)
+Gelber Wichtel WELUMA bearbeitet nun #256 
+ --> Schnelles Auto [4.42](Spannung: 6.188)
+Roter Wichtel EORLVARWEL bearbeitet nun #257 
+ --> Spannendes Buch [21.47]
+Roter Wichtel HATITAZLE bearbeitet nun #258 
+ --> Gemaltes Memory [8.41](Spannung: 12.615)
+Blauer Wichtel ROMINOROPO bearbeitet nun #259 
+ --> Bequeme Hose [1.62](Eleganz: 12)
+Gelber Wichtel TAZWELUMA bearbeitet nun #260 
+ --> Zipfelige Muetze [2.02](Eleganz: 16)
+Roter Wichtel SETICARNOR bearbeitet nun #261 
+ --> Grosser Bagger [3.98](Spannung: 5.572)
 ----------------------------------------
 Runde 62
-Roter Wichtel XULBOR bearbeitet nun #237 
- --> Stacheliger Kaktus [13.84]
+Blauer Wichtel FRIOPOOPO bearbeitet nun #262 
+ --> Grosser Bagger [4.56](Spannung: 6.3839999999999995)
+Roter Wichtel MUDURSETI bearbeitet nun #263 
+ --> Saftige Kekse [2.54](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #264 
+ --> Zipfelige Muetze [2.26](Eleganz: 16)
+Roter Wichtel YIFITAZSETI bearbeitet nun #265 
+ --> Leckere Papaya [13.23](Gesund :nein)
+Roter Wichtel SETITAZ bearbeitet nun #266 
+ --> Thermo-Ski-Unterwaesche [0.12](Eleganz: 23)
 ----------------------------------------
 Runde 63
-Gelber Wichtel BORWEL bearbeitet nun #238 
- --> Interessantes Brettspiel [8.79](Spannung: 21.095999999999997)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #239 
- --> Selbstgemachtes Pesto [8.59](Gesund :ja)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #240 
- --> Knusprige Kekse [10.63](Gesund :ja)
+Blauer Wichtel GEROSLE bearbeitet nun #267 
+ --> Stacheliger Kaktus [4.53]
+Blauer Wichtel WELWELJOLA bearbeitet nun #268 
+ --> Stacheliger Kaktus [2.93]
+Roter Wichtel SETITAZ bearbeitet nun #269 
+ --> Leckerer Essensgutschein [24.67]
+Roter Wichtel CARMU bearbeitet nun #270 
+ --> Schnelles Auto [8.64](Spannung: 12.096)
 ----------------------------------------
 Runde 64
-Roter Wichtel MUEORLTAZ bearbeitet nun #241 
- --> Leckerer Essensgutschein [24.41]
+Roter Wichtel MUDURSETI bearbeitet nun #271 
+ --> Rasende Eisenbahn [5.53](Spannung: 9.401)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #272 
+ --> Saftige Kekse [14.46](Gesund :ja)
 ----------------------------------------
 Runde 65
-Blauer Wichtel SETILE bearbeitet nun #242 
- --> Leckere Papaya [8.98](Gesund :ja)
-Gelber Wichtel GEROSHATI bearbeitet nun #243 
- --> Knusprige Kekse [12.56](Gesund :ja)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #273 
+ --> Stacheliger Kaktus [16.39]
 ----------------------------------------
 Runde 66
-Blauer Wichtel DURCARJOLA bearbeitet nun #244 
- --> Thermo-Ski-Unterwaesche [0.99](Eleganz: 23)
-Blauer Wichtel TAZEORL bearbeitet nun #245 
- --> Spannendes Buch [1.54]
-Blauer Wichtel KOMUGEROS bearbeitet nun #246 
- --> Knusprige Kekse [14.85](Gesund :ja)
-Roter Wichtel EORLUMA bearbeitet nun #247 
- --> Aromatischer Tee [14.07](Gesund :ja)
-Gelber Wichtel UMAMUARI bearbeitet nun #248 
- --> Gemaltes Memory [1.14](Spannung: 1.7099999999999997)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #274 
+ --> Thermo-Ski-Unterwaesche [1.37](Eleganz: 23)
+Blauer Wichtel DURBOR bearbeitet nun #275 
+ --> Warme Socken [4.9](Eleganz: 12)
+Gelber Wichtel TAZWELUMA bearbeitet nun #276 
+ --> Spannendes Buch [2.61]
+Roter Wichtel SETICARNOR bearbeitet nun #277 
+ --> Niedliche Puppe [4.01](Spannung: 6.015)
 ----------------------------------------
 Runde 67
-Blauer Wichtel JOLAKO bearbeitet nun #249 
- --> Rote Unterbuxe [3.62](Eleganz: 14)
-Gelber Wichtel FRIIOTI bearbeitet nun #250 
- --> Bequeme Hose [1.31](Eleganz: 12)
-Roter Wichtel GEROSJOLA bearbeitet nun #251 
- --> Bequeme Hose [1.45](Eleganz: 12)
+Gelber Wichtel TAZVARXUL bearbeitet nun #278 
+ --> Robuster Nussknacker [19.02]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #279 
+ --> Leckere Papaya [11.38](Gesund :nein)
+Gelber Wichtel WELUMA bearbeitet nun #280 
+ --> Niedliche Puppe [8.76](Spannung: 13.14)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #281 
+ --> Saftige Kekse [6.32](Gesund :ja)
+Blauer Wichtel ROMINOROPO bearbeitet nun #282 
+ --> Saftige Kekse [2.84](Gesund :ja)
 ----------------------------------------
 Runde 68
-Blauer Wichtel SETIIOTISETI bearbeitet nun #252 
- --> Lange Struempfe [3.44](Eleganz: 15)
-Blauer Wichtel WELGEROSFRI bearbeitet nun #253 
- --> Rote Unterbuxe [1.97](Eleganz: 14)
-Blauer Wichtel CARKONOR bearbeitet nun #254 
- --> Schnelles Kartenspiel [8.0](Spannung: 16.8)
-Gelber Wichtel BORXULDUR bearbeitet nun #255 
- --> Schnelles Auto [3.76](Spannung: 5.264)
-Roter Wichtel GEROSJOLA bearbeitet nun #256 
- --> Thermo-Ski-Unterwaesche [2.74](Eleganz: 23)
+Gelber Wichtel TAZJOLA bearbeitet nun #283 
+ --> Aromatischer Tee [12.15](Gesund :ja)
 ----------------------------------------
 Runde 69
-Roter Wichtel ROMIMUEORL bearbeitet nun #257 
- --> Interessantes Brettspiel [4.92](Spannung: 11.808)
-Blauer Wichtel CARCAR bearbeitet nun #258 
- --> Knusprige Kekse [8.92](Gesund :ja)
-Gelber Wichtel UMAMUARI bearbeitet nun #259 
- --> Saftige Kekse [13.5](Gesund :nein)
 ----------------------------------------
 Runde 70
-Roter Wichtel GEROSJOLA bearbeitet nun #260 
- --> Selbstgemachtes Pesto [0.46](Gesund :ja)
-Blauer Wichtel EORLMUFRI bearbeitet nun #261 
- --> Interessantes Brettspiel [1.18](Spannung: 2.832)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #284 
+ --> Saftige Kekse [9.4](Gesund :nein)
+Blauer Wichtel BORNOR bearbeitet nun #285 
+ --> Schnelles Auto [7.99](Spannung: 11.186)
+Blauer Wichtel WELWELJOLA bearbeitet nun #286 
+ --> Knusprige Kekse [10.85](Gesund :ja)
+Blauer Wichtel VARARISETI bearbeitet nun #287 
+ --> Spannendes Buch [11.23]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #288 
+ --> Duftende Badesalze [7.12]
+Roter Wichtel HATITAZLE bearbeitet nun #289 
+ --> Bequeme Hose [2.11](Eleganz: 12)
 ----------------------------------------
 Runde 71
-Blauer Wichtel TAZKO bearbeitet nun #262 
- --> Bequeme Hose [4.18](Eleganz: 12)
-Blauer Wichtel DURCARJOLA bearbeitet nun #263 
- --> Aromatischer Tee [6.75](Gesund :ja)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #264 
- --> Interessantes Brettspiel [1.47](Spannung: 3.528)
-Roter Wichtel SETIJOLA bearbeitet nun #265 
- --> Dicker Pullover [3.24](Eleganz: 15)
-Gelber Wichtel FRIIOTI bearbeitet nun #266 
- --> Aromatischer Tee [1.38](Gesund :nein)
-Roter Wichtel GEROSJOLA bearbeitet nun #267 
- --> Zipfelige Muetze [0.33](Eleganz: 16)
+Roter Wichtel MUDURSETI bearbeitet nun #290 
+ --> Schnelles Auto [7.82](Spannung: 10.948)
+Blauer Wichtel UMATAZ bearbeitet nun #291 
+ --> Bequeme Hose [4.08](Eleganz: 12)
+Roter Wichtel HATITAZLE bearbeitet nun #292 
+ --> Schnelles Auto [9.97]
+Gelber Wichtel TAZWELUMA bearbeitet nun #293 
+ --> Leckere Papaya [7.12](Gesund :nein)
+Roter Wichtel SETICARNOR bearbeitet nun #294 
+ --> Gemaltes Memory [9.68](Spannung: 14.52)
 ----------------------------------------
 Runde 72
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #268 
- --> Zipfelige Muetze [2.2](Eleganz: 16)
-Blauer Wichtel TAZEORL bearbeitet nun #269 
- --> Schnelles Kartenspiel [6.78](Spannung: 14.238)
-Roter Wichtel GEROSJOLA bearbeitet nun #270 
- --> Grosser Bagger [5.54](Spannung: 7.756)
-Blauer Wichtel EORLMUFRI bearbeitet nun #271 
- --> Interessantes Brettspiel [8.61](Spannung: 20.663999999999998)
+Blauer Wichtel GEROSLE bearbeitet nun #295 
+ --> Duftende Badesalze [3.85]
 ----------------------------------------
 Runde 73
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #272 
- --> Aromatischer Tee [14.7](Gesund :ja)
-Blauer Wichtel CARKONOR bearbeitet nun #273 
- --> Stacheliger Kaktus [20.85]
-Roter Wichtel SETIJOLA bearbeitet nun #274 
- --> Schnelles Auto [22.6]
+Blauer Wichtel NORARI bearbeitet nun #296 
+ --> Niedliche Puppe [9.86](Spannung: 14.789999999999997)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #297 
+ --> Leckere Papaya [4.15](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #298 
+ --> Saftige Kekse [4.91](Gesund :ja)
 ----------------------------------------
 Runde 74
-Blauer Wichtel WELGEROSFRI bearbeitet nun #275 
- --> Knusprige Kekse [2.67](Gesund :ja)
-Gelber Wichtel BORWEL bearbeitet nun #276 
- --> Schnelles Kartenspiel [4.61](Spannung: 9.681000000000001)
-Gelber Wichtel BORXULDUR bearbeitet nun #277 
- --> Kuscheliger Schal [2.57](Eleganz: 17)
-Gelber Wichtel FRIIOTI bearbeitet nun #278 
- --> Dicker Pullover [1.17](Eleganz: 15)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #299 
+ --> Stacheliger Kaktus [15.65]
+Roter Wichtel YIFITAZSETI bearbeitet nun #300 
+ --> Zipfelige Muetze [0.35](Eleganz: 16)
+Blauer Wichtel ROMINOROPO bearbeitet nun #301 
+ --> Schnelles Auto [6.38](Spannung: 8.931999999999999)
 ----------------------------------------
 Runde 75
-Roter Wichtel ROMIMUEORL bearbeitet nun #279 
- --> Bequeme Hose [3.96](Eleganz: 12)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #280 
- --> Interessantes Brettspiel [8.73](Spannung: 20.952)
-Blauer Wichtel JOLAKO bearbeitet nun #281 
- --> Grosser Bagger [8.59](Spannung: 12.026)
-Roter Wichtel BORLECAR bearbeitet nun #282 
- --> Gemaltes Memory [4.53](Spannung: 6.795)
-Roter Wichtel XULBOR bearbeitet nun #283 
- --> Lange Struempfe [3.33](Eleganz: 15)
+Blauer Wichtel DURBOR bearbeitet nun #302 
+ --> Duftende Badesalze [6.7]
+Blauer Wichtel BORNOR bearbeitet nun #303 
+ --> Rote Unterbuxe [4.63](Eleganz: 14)
+Roter Wichtel YIFITAZSETI bearbeitet nun #304 
+ --> Stacheliger Kaktus [5.05]
 ----------------------------------------
 Runde 76
-Blauer Wichtel TAZUMAFRI bearbeitet nun #284 
- --> Leckerer Essensgutschein [5.48]
-Blauer Wichtel TAZEORL bearbeitet nun #285 
- --> Duftende Badesalze [23.16]
 ----------------------------------------
 Runde 77
-Roter Wichtel XULBOR bearbeitet nun #286 
- --> Aromatischer Tee [11.16](Gesund :nein)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #287 
- --> Schnelles Kartenspiel [5.68](Spannung: 11.928)
-Blauer Wichtel EORLMUFRI bearbeitet nun #288 
- --> Robuster Nussknacker [12.17]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #305 
+ --> Knusprige Kekse [2.36](Gesund :ja)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #306 
+ --> Schoko-Nikolaus [1.78](Gesund :nein)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #307 
+ --> Spannendes Buch [14.15]
+Roter Wichtel NORTAZ bearbeitet nun #308 
+ --> Leckere Papaya [8.93](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #309 
+ --> Robuster Nussknacker [18.32]
 ----------------------------------------
 Runde 78
-Roter Wichtel ROMIMUEORL bearbeitet nun #289 
- --> Knusprige Kekse [13.93](Gesund :nein)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #290 
- --> Grosser Bagger [5.81](Spannung: 8.133999999999999)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #291 
- --> Duftende Badesalze [23.14]
-Blauer Wichtel SETILE bearbeitet nun #292 
- --> Rote Unterbuxe [4.29](Eleganz: 14)
-Gelber Wichtel OPOGEROS bearbeitet nun #293 
- --> Zipfelige Muetze [3.95](Eleganz: 16)
-Gelber Wichtel FRIIOTI bearbeitet nun #294 
- --> Thermo-Ski-Unterwaesche [0.7](Eleganz: 23)
+Gelber Wichtel KODUR bearbeitet nun #310 
+ --> Warme Socken [2.46](Eleganz: 12)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #311 
+ --> Niedliche Puppe [4.37](Spannung: 6.555)
+Gelber Wichtel WELUMA bearbeitet nun #312 
+ --> Bequeme Hose [4.37](Eleganz: 12)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #313 
+ --> Saftige Kekse [8.17](Gesund :ja)
+Blauer Wichtel ROMINOROPO bearbeitet nun #314 
+ --> Leckere Papaya [6.41](Gesund :ja)
 ----------------------------------------
 Runde 79
-Blauer Wichtel TAZKO bearbeitet nun #295 
- --> Grosser Bagger [2.12](Spannung: 2.968)
-Roter Wichtel EORLUMA bearbeitet nun #296 
- --> Schnelles Auto [11.93]
-Roter Wichtel GEROSJOLA bearbeitet nun #297 
- --> Aromatischer Tee [14.92](Gesund :ja)
+Blauer Wichtel NORARI bearbeitet nun #315 
+ --> Kuscheliger Schal [4.68](Eleganz: 17)
+Blauer Wichtel UMATAZ bearbeitet nun #316 
+ --> Schoko-Nikolaus [1.89](Gesund :nein)
+Roter Wichtel YIFITAZSETI bearbeitet nun #317 
+ --> Schnelles Kartenspiel [2.76](Spannung: 5.795999999999999)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #318 
+ --> Rote Unterbuxe [3.04](Eleganz: 14)
 ----------------------------------------
 Runde 80
-Blauer Wichtel SETIIOTISETI bearbeitet nun #298 
- --> Interessantes Brettspiel [9.52](Spannung: 22.848)
-Blauer Wichtel JOLAKO bearbeitet nun #299 
- --> Stacheliger Kaktus [7.59]
-Gelber Wichtel GEROSHATI bearbeitet nun #300 
- --> Bequeme Hose [2.52](Eleganz: 12)
-Gelber Wichtel BORXULDUR bearbeitet nun #301 
- --> Schnelles Auto [2.52](Spannung: 3.528)
+Roter Wichtel MUDURSETI bearbeitet nun #319 
+ --> Duftende Badesalze [8.26]
+Blauer Wichtel GEROSLE bearbeitet nun #320 
+ --> Lange Struempfe [0.47](Eleganz: 15)
+Roter Wichtel HATITAZLE bearbeitet nun #321 
+ --> Kuscheliger Schal [1.17](Eleganz: 17)
+Gelber Wichtel TAZWELUMA bearbeitet nun #322 
+ --> Dicker Pullover [0.59](Eleganz: 15)
 ----------------------------------------
 Runde 81
-Blauer Wichtel TAZKO bearbeitet nun #302 
- --> Leckerer Essensgutschein [0.57]
-Blauer Wichtel WELGEROSFRI bearbeitet nun #303 
- --> Dicker Pullover [4.27](Eleganz: 15)
-Gelber Wichtel BORWEL bearbeitet nun #304 
- --> Zipfelige Muetze [3.84](Eleganz: 16)
-Roter Wichtel BORLECAR bearbeitet nun #305 
- --> Schoko-Nikolaus [2.42](Gesund :ja)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #306 
- --> Rasende Eisenbahn [9.92](Spannung: 16.863999999999997)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #323 
+ --> Interessantes Brettspiel [6.99](Spannung: 16.776)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #324 
+ --> Kuscheliger Schal [0.69](Eleganz: 17)
+Roter Wichtel EORLVARWEL bearbeitet nun #325 
+ --> Knusprige Kekse [4.87](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #326 
+ --> Kuscheliger Schal [1.86](Eleganz: 17)
 ----------------------------------------
 Runde 82
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #307 
- --> Schnelles Kartenspiel [7.04](Spannung: 14.784)
-Blauer Wichtel CARCAR bearbeitet nun #308 
- --> Leckere Papaya [14.97](Gesund :ja)
-Blauer Wichtel DURCARJOLA bearbeitet nun #309 
- --> Niedliche Puppe [5.19](Spannung: 7.785000000000001)
-Roter Wichtel BORLECAR bearbeitet nun #310 
- --> Rote Unterbuxe [4.0](Eleganz: 14)
-Gelber Wichtel FRIIOTI bearbeitet nun #311 
- --> Duftende Badesalze [22.59]
+Gelber Wichtel TAZJOLA bearbeitet nun #327 
+ --> Robuster Nussknacker [18.47]
+Roter Wichtel HATITAZLE bearbeitet nun #328 
+ --> Spannendes Buch [9.72]
+Roter Wichtel SETICARNOR bearbeitet nun #329 
+ --> Duftende Badesalze [20.88]
 ----------------------------------------
 Runde 83
+Gelber Wichtel KODUR bearbeitet nun #330 
+ --> Saftige Kekse [3.61](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #331 
+ --> Saftige Kekse [5.28](Gesund :nein)
+Roter Wichtel YIFITAZSETI bearbeitet nun #332 
+ --> Spannendes Buch [23.78]
 ----------------------------------------
 Runde 84
-Roter Wichtel HATINORGEROS bearbeitet nun #312 
- --> Zipfelige Muetze [0.37](Eleganz: 16)
+Blauer Wichtel GEROSLE bearbeitet nun #333 
+ --> Niedliche Puppe [8.98](Spannung: 13.470000000000002)
+Blauer Wichtel BORNOR bearbeitet nun #334 
+ --> Schoko-Nikolaus [4.96](Gesund :ja)
+Gelber Wichtel ARIEORL bearbeitet nun #335 
+ --> Thermo-Ski-Unterwaesche [1.21](Eleganz: 23)
+Gelber Wichtel TAZWELUMA bearbeitet nun #336 
+ --> Zipfelige Muetze [1.66](Eleganz: 16)
 ----------------------------------------
 Runde 85
-Roter Wichtel HATINORGEROS bearbeitet nun #313 
- --> Rote Unterbuxe [2.08](Eleganz: 14)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #314 
- --> Knusprige Kekse [0.42](Gesund :ja)
-Blauer Wichtel KOMUGEROS bearbeitet nun #315 
- --> Gemaltes Memory [2.2](Spannung: 3.3)
-Roter Wichtel BORLECAR bearbeitet nun #316 
- --> Stacheliger Kaktus [19.23]
-Gelber Wichtel UMAMUARI bearbeitet nun #317 
- --> Duftende Badesalze [7.4]
-Gelber Wichtel OPOGEROS bearbeitet nun #318 
- --> Zipfelige Muetze [1.37](Eleganz: 16)
-Gelber Wichtel BORXULDUR bearbeitet nun #319 
- --> Rote Unterbuxe [3.54](Eleganz: 14)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #337 
+ --> Warme Socken [0.7](Eleganz: 12)
+Blauer Wichtel UMATAZ bearbeitet nun #338 
+ --> Schnelles Kartenspiel [3.86](Spannung: 8.106)
+Gelber Wichtel WELUMA bearbeitet nun #339 
+ --> Leckerer Essensgutschein [18.78]
+Blauer Wichtel WELWELJOLA bearbeitet nun #340 
+ --> Grosser Bagger [8.44](Spannung: 11.815999999999999)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #341 
+ --> Bequeme Hose [3.06](Eleganz: 12)
+Blauer Wichtel VARARISETI bearbeitet nun #342 
+ --> Rote Unterbuxe [2.69](Eleganz: 14)
+Roter Wichtel NORTAZ bearbeitet nun #343 
+ --> Leckere Papaya [7.74](Gesund :nein)
+Roter Wichtel EORLVARWEL bearbeitet nun #344 
+ --> Leckere Papaya [9.44](Gesund :nein)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #345 
+ --> Stacheliger Kaktus [19.05]
 ----------------------------------------
 Runde 86
-Blauer Wichtel TAZKO bearbeitet nun #320 
- --> Grosser Bagger [8.31](Spannung: 11.634)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #321 
- --> Rote Unterbuxe [4.93](Eleganz: 14)
-Roter Wichtel HATINORGEROS bearbeitet nun #322 
- --> Schnelles Auto [12.59]
-Blauer Wichtel DURCARJOLA bearbeitet nun #323 
- --> Schnelles Auto [3.41](Spannung: 4.774)
-Blauer Wichtel SETILE bearbeitet nun #324 
- --> Warme Socken [0.6](Eleganz: 12)
-Gelber Wichtel GEROSHATI bearbeitet nun #325 
- --> Interessantes Brettspiel [0.77](Spannung: 1.848)
+Blauer Wichtel DURBOR bearbeitet nun #346 
+ --> Gemaltes Memory [0.31](Spannung: 0.465)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #347 
+ --> Lange Struempfe [1.4](Eleganz: 15)
 ----------------------------------------
 Runde 87
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #326 
- --> Niedliche Puppe [9.59](Spannung: 14.385)
-Roter Wichtel MUEORLTAZ bearbeitet nun #327 
- --> Robuster Nussknacker [14.12]
-Blauer Wichtel KOMUGEROS bearbeitet nun #328 
- --> Rasende Eisenbahn [3.86](Spannung: 6.562)
-Roter Wichtel XULBOR bearbeitet nun #329 
- --> Rasende Eisenbahn [7.94](Spannung: 13.498000000000001)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #330 
- --> Zipfelige Muetze [3.78](Eleganz: 16)
+Roter Wichtel MUDURSETI bearbeitet nun #348 
+ --> Robuster Nussknacker [14.24]
+Blauer Wichtel DURBOR bearbeitet nun #349 
+ --> Aromatischer Tee [9.82](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #350 
+ --> Schoko-Nikolaus [9.2](Gesund :nein)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #351 
+ --> Niedliche Puppe [7.57](Spannung: 11.355)
+Roter Wichtel SETITAZ bearbeitet nun #352 
+ --> Schnelles Auto [0.33](Spannung: 0.462)
 ----------------------------------------
 Runde 88
-Gelber Wichtel BORWEL bearbeitet nun #331 
- --> Leckere Papaya [2.47](Gesund :ja)
+Blauer Wichtel NORARI bearbeitet nun #353 
+ --> Aromatischer Tee [3.57](Gesund :nein)
+Gelber Wichtel TAZVARXUL bearbeitet nun #354 
+ --> Niedliche Puppe [4.48](Spannung: 6.720000000000001)
+Blauer Wichtel UMATAZ bearbeitet nun #355 
+ --> Rote Unterbuxe [4.38](Eleganz: 14)
+Roter Wichtel SETITAZ bearbeitet nun #356 
+ --> Stacheliger Kaktus [24.87]
+Blauer Wichtel ROMINOROPO bearbeitet nun #357 
+ --> Niedliche Puppe [5.88](Spannung: 8.82)
+Gelber Wichtel ARIEORL bearbeitet nun #358 
+ --> Interessantes Brettspiel [5.69](Spannung: 13.656)
 ----------------------------------------
 Runde 89
-Blauer Wichtel WELGEROSFRI bearbeitet nun #332 
- --> Dicker Pullover [2.34](Eleganz: 15)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #333 
- --> Rasende Eisenbahn [1.86](Spannung: 3.162)
-Blauer Wichtel DURCARJOLA bearbeitet nun #334 
- --> Leckere Papaya [12.43](Gesund :ja)
-Gelber Wichtel GEROSHATI bearbeitet nun #335 
- --> Grosser Bagger [4.11](Spannung: 5.7540000000000004)
-Gelber Wichtel OPOGEROS bearbeitet nun #336 
- --> Lange Struempfe [3.95](Eleganz: 15)
+Gelber Wichtel KODUR bearbeitet nun #359 
+ --> Spannendes Buch [8.41]
+Blauer Wichtel GEROSLE bearbeitet nun #360 
+ --> Lange Struempfe [4.38](Eleganz: 15)
+Gelber Wichtel TAZWELUMA bearbeitet nun #361 
+ --> Stacheliger Kaktus [22.3]
 ----------------------------------------
 Runde 90
-Blauer Wichtel KOMUGEROS bearbeitet nun #337 
- --> Warme Socken [3.72](Eleganz: 12)
-Roter Wichtel EORLUMA bearbeitet nun #338 
- --> Stacheliger Kaktus [8.87]
+Blauer Wichtel FRIOPOOPO bearbeitet nun #362 
+ --> Knusprige Kekse [8.65](Gesund :ja)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #363 
+ --> Bequeme Hose [3.95](Eleganz: 12)
+Blauer Wichtel WELWELJOLA bearbeitet nun #364 
+ --> Rasende Eisenbahn [6.65](Spannung: 11.305000000000001)
 ----------------------------------------
 Runde 91
-Blauer Wichtel TAZKO bearbeitet nun #339 
- --> Schnelles Auto [10.97]
-Roter Wichtel ROMIMUEORL bearbeitet nun #340 
- --> Bequeme Hose [3.38](Eleganz: 12)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #341 
- --> Schoko-Nikolaus [7.83](Gesund :nein)
-Blauer Wichtel SETILE bearbeitet nun #342 
- --> Lange Struempfe [3.5](Eleganz: 15)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #365 
+ --> Gemaltes Memory [7.7](Spannung: 11.55)
+Roter Wichtel HATITAZLE bearbeitet nun #366 
+ --> Schoko-Nikolaus [10.58](Gesund :ja)
 ----------------------------------------
 Runde 92
-Gelber Wichtel BORWEL bearbeitet nun #343 
- --> Schoko-Nikolaus [4.85](Gesund :ja)
-Blauer Wichtel JOLAKO bearbeitet nun #344 
- --> Rasende Eisenbahn [5.62](Spannung: 9.554)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #345 
- --> Stacheliger Kaktus [20.97]
-Gelber Wichtel BORXULDUR bearbeitet nun #346 
- --> Saftige Kekse [6.67](Gesund :ja)
+Blauer Wichtel VARARISETI bearbeitet nun #367 
+ --> Grosser Bagger [9.7](Spannung: 13.579999999999998)
+Roter Wichtel NORTAZ bearbeitet nun #368 
+ --> Aromatischer Tee [6.18](Gesund :ja)
+Blauer Wichtel ROMINOROPO bearbeitet nun #369 
+ --> Schoko-Nikolaus [4.27](Gesund :ja)
 ----------------------------------------
 Runde 93
-Roter Wichtel ROMIMUEORL bearbeitet nun #347 
- --> Selbstgemachtes Pesto [13.03](Gesund :nein)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #348 
- --> Knusprige Kekse [6.43](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #349 
- --> Stacheliger Kaktus [18.74]
-Blauer Wichtel EORLMUFRI bearbeitet nun #350 
- --> Saftige Kekse [1.95](Gesund :nein)
+Blauer Wichtel BORNOR bearbeitet nun #370 
+ --> Schoko-Nikolaus [13.27](Gesund :nein)
+Roter Wichtel EORLVARWEL bearbeitet nun #371 
+ --> Schnelles Auto [5.36](Spannung: 7.5040000000000004)
 ----------------------------------------
 Runde 94
-Gelber Wichtel UMAMUARI bearbeitet nun #351 
- --> Schnelles Auto [18.45]
+Blauer Wichtel YIFIMUCAR bearbeitet nun #372 
+ --> Knusprige Kekse [14.59](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #373 
+ --> Selbstgemachtes Pesto [2.24](Gesund :ja)
+Blauer Wichtel WELWELJOLA bearbeitet nun #374 
+ --> Leckere Papaya [2.43](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #375 
+ --> Schnelles Auto [9.69](Spannung: 13.565999999999999)
 ----------------------------------------
 Runde 95
-Blauer Wichtel SETIIOTISETI bearbeitet nun #352 
- --> Saftige Kekse [8.78](Gesund :ja)
-Blauer Wichtel WELGEROSFRI bearbeitet nun #353 
- --> Robuster Nussknacker [5.52]
-Gelber Wichtel GEROSHATI bearbeitet nun #354 
- --> Schnelles Kartenspiel [8.26](Spannung: 17.346)
-Roter Wichtel SETIJOLA bearbeitet nun #355 
- --> Rasende Eisenbahn [8.39](Spannung: 14.263)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #356 
- --> Leckere Papaya [1.95](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #376 
+ --> Stacheliger Kaktus [9.75]
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #377 
+ --> Aromatischer Tee [12.47](Gesund :ja)
 ----------------------------------------
 Runde 96
-Blauer Wichtel JOLAKO bearbeitet nun #357 
- --> Zipfelige Muetze [2.51](Eleganz: 16)
-Gelber Wichtel OPOGEROS bearbeitet nun #358 
- --> Leckerer Essensgutschein [24.52]
-Roter Wichtel XULBOR bearbeitet nun #359 
- --> Leckerer Essensgutschein [0.54]
+Blauer Wichtel NORARI bearbeitet nun #378 
+ --> Grosser Bagger [1.74](Spannung: 2.436)
+Blauer Wichtel UMATAZ bearbeitet nun #379 
+ --> Leckerer Essensgutschein [11.68]
+Blauer Wichtel HATIEORLROMI bearbeitet nun #380 
+ --> Warme Socken [2.82](Eleganz: 12)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #381 
+ --> Leckere Papaya [6.67](Gesund :ja)
+Gelber Wichtel ARIEORL bearbeitet nun #382 
+ --> Knusprige Kekse [11.87](Gesund :nein)
 ----------------------------------------
 Runde 97
-Roter Wichtel XULBOR bearbeitet nun #360 
- --> Schoko-Nikolaus [1.22](Gesund :nein)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #383 
+ --> Zipfelige Muetze [3.62](Eleganz: 16)
+Blauer Wichtel GEROSLE bearbeitet nun #384 
+ --> Schnelles Auto [23.64]
+Roter Wichtel NORTAZ bearbeitet nun #385 
+ --> Schnelles Kartenspiel [3.39](Spannung: 7.119)
 ----------------------------------------
 Runde 98
-Roter Wichtel HATINORGEROS bearbeitet nun #361 
- --> Knusprige Kekse [10.49](Gesund :ja)
-Blauer Wichtel KOMUGEROS bearbeitet nun #362 
- --> Aromatischer Tee [8.27](Gesund :ja)
-Roter Wichtel EORLUMA bearbeitet nun #363 
- --> Bequeme Hose [3.0](Eleganz: 12)
-Blauer Wichtel CARKONOR bearbeitet nun #364 
- --> Robuster Nussknacker [15.86]
-Roter Wichtel XULBOR bearbeitet nun #365 
- --> Niedliche Puppe [9.39](Spannung: 14.085000000000003)
+Blauer Wichtel NORARI bearbeitet nun #386 
+ --> Robuster Nussknacker [8.0]
+Gelber Wichtel TAZVARXUL bearbeitet nun #387 
+ --> Interessantes Brettspiel [3.41](Spannung: 8.184000000000001)
+Blauer Wichtel VARARISETI bearbeitet nun #388 
+ --> Spannendes Buch [24.62]
 ----------------------------------------
 Runde 99
-Gelber Wichtel BORWEL bearbeitet nun #366 
- --> Aromatischer Tee [2.09](Gesund :ja)
-Blauer Wichtel SETILE bearbeitet nun #367 
- --> Leckere Papaya [14.87](Gesund :ja)
-Blauer Wichtel EORLMUFRI bearbeitet nun #368 
- --> Stacheliger Kaktus [6.04]
+Gelber Wichtel KODUR bearbeitet nun #389 
+ --> Dicker Pullover [3.73](Eleganz: 15)
+Roter Wichtel EORLVARWEL bearbeitet nun #390 
+ --> Spannendes Buch [19.38]
 ----------------------------------------
 Runde 100
-Roter Wichtel MUEORLTAZ bearbeitet nun #369 
- --> Lange Struempfe [2.03](Eleganz: 15)
-Roter Wichtel EORLUMA bearbeitet nun #370 
- --> Thermo-Ski-Unterwaesche [3.64](Eleganz: 23)
+Roter Wichtel MUDURSETI bearbeitet nun #391 
+ --> Schnelles Auto [2.68](Spannung: 3.7520000000000002)
+Blauer Wichtel WELWELJOLA bearbeitet nun #392 
+ --> Schnelles Auto [20.62]
+Blauer Wichtel ROMINOROPO bearbeitet nun #393 
+ --> Schoko-Nikolaus [10.32](Gesund :ja)
 ----------------------------------------
 Runde 101
-Roter Wichtel MUEORLTAZ bearbeitet nun #371 
- --> Grosser Bagger [0.31](Spannung: 0.434)
-Blauer Wichtel CARCAR bearbeitet nun #372 
- --> Bequeme Hose [0.25](Eleganz: 12)
-Gelber Wichtel BORXULDUR bearbeitet nun #373 
- --> Rasende Eisenbahn [2.7](Spannung: 4.590000000000001)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #374 
- --> Knusprige Kekse [13.77](Gesund :nein)
+Blauer Wichtel DURBOR bearbeitet nun #394 
+ --> Robuster Nussknacker [14.73]
+Roter Wichtel NORTAZ bearbeitet nun #395 
+ --> Schnelles Auto [4.29](Spannung: 6.006)
+Roter Wichtel HATITAZLE bearbeitet nun #396 
+ --> Rote Unterbuxe [0.32](Eleganz: 14)
 ----------------------------------------
 Runde 102
-Roter Wichtel MUEORLTAZ bearbeitet nun #375 
- --> Rasende Eisenbahn [8.44](Spannung: 14.347999999999999)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #397 
+ --> Rasende Eisenbahn [6.51](Spannung: 11.067)
+Gelber Wichtel TAZJOLA bearbeitet nun #398 
+ --> Lange Struempfe [0.77](Eleganz: 15)
+Roter Wichtel HATITAZLE bearbeitet nun #399 
+ --> Zipfelige Muetze [0.57](Eleganz: 16)
+Roter Wichtel SETICARNOR bearbeitet nun #400 
+ --> Interessantes Brettspiel [7.43](Spannung: 17.832)
 ----------------------------------------
 Runde 103
-Gelber Wichtel BORWEL bearbeitet nun #376 
- --> Rote Unterbuxe [0.16](Eleganz: 14)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #377 
- --> Schnelles Auto [7.91](Spannung: 11.074000000000002)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #378 
- --> Schoko-Nikolaus [5.59](Gesund :nein)
-Blauer Wichtel TAZEORL bearbeitet nun #379 
- --> Kuscheliger Schal [4.34](Eleganz: 17)
-Blauer Wichtel JOLAKO bearbeitet nun #380 
- --> Leckere Papaya [12.91](Gesund :ja)
-Roter Wichtel BORLECAR bearbeitet nun #381 
- --> Saftige Kekse [10.5](Gesund :ja)
-Roter Wichtel EORLUMA bearbeitet nun #382 
- --> Rasende Eisenbahn [4.31](Spannung: 7.327)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #401 
+ --> Schnelles Auto [1.04](Spannung: 1.456)
+Gelber Wichtel TAZVARXUL bearbeitet nun #402 
+ --> Niedliche Puppe [9.34](Spannung: 14.01)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #403 
+ --> Selbstgemachtes Pesto [13.8](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #404 
+ --> Aromatischer Tee [5.9](Gesund :nein)
 ----------------------------------------
 Runde 104
-Roter Wichtel SETIJOLA bearbeitet nun #383 
- --> Niedliche Puppe [0.01](Spannung: 0.015)
+Roter Wichtel MUDURSETI bearbeitet nun #405 
+ --> Duftende Badesalze [8.56]
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #406 
+ --> Schoko-Nikolaus [12.89](Gesund :ja)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #407 
+ --> Selbstgemachtes Pesto [10.89](Gesund :ja)
 ----------------------------------------
 Runde 105
-Roter Wichtel ROMIMUEORL bearbeitet nun #384 
- --> Thermo-Ski-Unterwaesche [0.29](Eleganz: 23)
-Blauer Wichtel WELGEROSFRI bearbeitet nun #385 
- --> Schnelles Kartenspiel [9.7](Spannung: 20.369999999999997)
-Blauer Wichtel CARCAR bearbeitet nun #386 
- --> Lange Struempfe [2.57](Eleganz: 15)
-Blauer Wichtel DURCARJOLA bearbeitet nun #387 
- --> Zipfelige Muetze [0.8](Eleganz: 16)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #388 
- --> Grosser Bagger [3.08](Spannung: 4.312)
-Gelber Wichtel GEROSHATI bearbeitet nun #389 
- --> Schnelles Auto [3.82]
-Roter Wichtel SETIJOLA bearbeitet nun #390 
- --> Gemaltes Memory [1.01](Spannung: 1.5150000000000001)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #408 
+ --> Interessantes Brettspiel [6.16](Spannung: 14.784)
+Roter Wichtel CARMU bearbeitet nun #409 
+ --> Schnelles Auto [0.12](Spannung: 0.16799999999999998)
 ----------------------------------------
 Runde 106
-Blauer Wichtel TAZKO bearbeitet nun #391 
- --> Spannendes Buch [16.03]
-Roter Wichtel ROMIMUEORL bearbeitet nun #392 
- --> Schnelles Kartenspiel [8.37](Spannung: 17.576999999999998)
-Gelber Wichtel BORWEL bearbeitet nun #393 
- --> Rote Unterbuxe [2.95](Eleganz: 14)
-Gelber Wichtel BORXULDUR bearbeitet nun #394 
- --> Schnelles Auto [7.64](Spannung: 10.696)
+Gelber Wichtel KODUR bearbeitet nun #410 
+ --> Leckerer Essensgutschein [11.13]
+Gelber Wichtel WELUMA bearbeitet nun #411 
+ --> Schoko-Nikolaus [1.67](Gesund :nein)
+Roter Wichtel YIFITAZSETI bearbeitet nun #412 
+ --> Zipfelige Muetze [2.42](Eleganz: 16)
+Roter Wichtel NORTAZ bearbeitet nun #413 
+ --> Lange Struempfe [4.22](Eleganz: 15)
+Gelber Wichtel TAZJOLA bearbeitet nun #414 
+ --> Schnelles Auto [22.36]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #415 
+ --> Schoko-Nikolaus [10.95](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #416 
+ --> Duftende Badesalze [14.99]
 ----------------------------------------
 Runde 107
-Roter Wichtel HATINORGEROS bearbeitet nun #395 
- --> Knusprige Kekse [13.63](Gesund :nein)
-Roter Wichtel SETIJOLA bearbeitet nun #396 
- --> Leckerer Essensgutschein [16.17]
-Gelber Wichtel FRIIOTI bearbeitet nun #397 
- --> Knusprige Kekse [3.12](Gesund :nein)
+Roter Wichtel YIFITAZSETI bearbeitet nun #417 
+ --> Duftende Badesalze [22.66]
 ----------------------------------------
 Runde 108
-Blauer Wichtel SETIIOTISETI bearbeitet nun #398 
- --> Leckere Papaya [11.33](Gesund :nein)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #399 
- --> Gemaltes Memory [1.83](Spannung: 2.745)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #400 
- --> Spannendes Buch [7.19]
-Roter Wichtel EORLUMA bearbeitet nun #401 
- --> Duftende Badesalze [14.95]
-Roter Wichtel XULBOR bearbeitet nun #402 
- --> Schoko-Nikolaus [8.49](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #418 
+ --> Dicker Pullover [0.17](Eleganz: 15)
 ----------------------------------------
 Runde 109
-Blauer Wichtel EORLMUFRI bearbeitet nun #403 
- --> Thermo-Ski-Unterwaesche [3.81](Eleganz: 23)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #419 
+ --> Duftende Badesalze [8.37]
+Roter Wichtel NORTAZ bearbeitet nun #420 
+ --> Gemaltes Memory [4.71](Spannung: 7.065)
+Roter Wichtel HATITAZLE bearbeitet nun #421 
+ --> Rote Unterbuxe [0.08](Eleganz: 14)
 ----------------------------------------
 Runde 110
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #404 
- --> Gemaltes Memory [3.89](Spannung: 5.835)
-Blauer Wichtel DURCARJOLA bearbeitet nun #405 
- --> Niedliche Puppe [8.31](Spannung: 12.465)
-Blauer Wichtel KOMUGEROS bearbeitet nun #406 
- --> Selbstgemachtes Pesto [13.43](Gesund :nein)
+Blauer Wichtel NORARI bearbeitet nun #422 
+ --> Bequeme Hose [2.03](Eleganz: 12)
+Blauer Wichtel BORNOR bearbeitet nun #423 
+ --> Robuster Nussknacker [14.54]
+Gelber Wichtel WELUMA bearbeitet nun #424 
+ --> Spannendes Buch [20.82]
+Roter Wichtel HATIIOTIDUR bearbeitet nun #425 
+ --> Aromatischer Tee [8.23](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #426 
+ --> Zipfelige Muetze [0.27](Eleganz: 16)
+Gelber Wichtel ARIEORL bearbeitet nun #427 
+ --> Knusprige Kekse [10.7](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #428 
+ --> Leckere Papaya [7.04](Gesund :nein)
 ----------------------------------------
 Runde 111
-Blauer Wichtel WELGEROSFRI bearbeitet nun #407 
- --> Selbstgemachtes Pesto [0.11](Gesund :ja)
-Roter Wichtel MUEORLTAZ bearbeitet nun #408 
- --> Rote Unterbuxe [3.15](Eleganz: 14)
-Blauer Wichtel TAZEORL bearbeitet nun #409 
- --> Dicker Pullover [4.8](Eleganz: 15)
-Gelber Wichtel GEROSHATI bearbeitet nun #410 
- --> Knusprige Kekse [0.36](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #411 
- --> Selbstgemachtes Pesto [14.13](Gesund :ja)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #429 
+ --> Aromatischer Tee [12.99](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #430 
+ --> Thermo-Ski-Unterwaesche [4.96](Eleganz: 23)
 ----------------------------------------
 Runde 112
-Gelber Wichtel BORWEL bearbeitet nun #412 
- --> Saftige Kekse [5.44](Gesund :nein)
-Blauer Wichtel CARCAR bearbeitet nun #413 
- --> Stacheliger Kaktus [2.94]
-Gelber Wichtel FRIIOTI bearbeitet nun #414 
- --> Spannendes Buch [20.35]
+Roter Wichtel MUDURSETI bearbeitet nun #431 
+ --> Selbstgemachtes Pesto [5.92](Gesund :nein)
+Blauer Wichtel UMATAZ bearbeitet nun #432 
+ --> Interessantes Brettspiel [9.22](Spannung: 22.128000000000004)
+Roter Wichtel SETITAZ bearbeitet nun #433 
+ --> Gemaltes Memory [1.8](Spannung: 2.7)
 ----------------------------------------
 Runde 113
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #415 
- --> Dicker Pullover [1.94](Eleganz: 15)
-Roter Wichtel MUEORLTAZ bearbeitet nun #416 
- --> Stacheliger Kaktus [20.63]
-Blauer Wichtel TAZUMAFRI bearbeitet nun #417 
- --> Zipfelige Muetze [1.56](Eleganz: 16)
-Roter Wichtel BORLECAR bearbeitet nun #418 
- --> Saftige Kekse [14.05](Gesund :ja)
-Gelber Wichtel GEROSHATI bearbeitet nun #419 
- --> Rote Unterbuxe [3.0](Eleganz: 14)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #434 
+ --> Rasende Eisenbahn [4.71](Spannung: 8.007)
+Gelber Wichtel TAZWELUMA bearbeitet nun #435 
+ --> Thermo-Ski-Unterwaesche [0.23](Eleganz: 23)
 ----------------------------------------
 Runde 114
-Gelber Wichtel UMAMUARI bearbeitet nun #420 
- --> Leckerer Essensgutschein [7.74]
+Gelber Wichtel TAZVARXUL bearbeitet nun #436 
+ --> Stacheliger Kaktus [12.12]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #437 
+ --> Rasende Eisenbahn [7.88](Spannung: 13.396)
+Blauer Wichtel ROMINOROPO bearbeitet nun #438 
+ --> Zipfelige Muetze [3.58](Eleganz: 16)
 ----------------------------------------
 Runde 115
-Roter Wichtel ROMIMUEORL bearbeitet nun #421 
- --> Leckerer Essensgutschein [17.69]
-Blauer Wichtel WELGEROSFRI bearbeitet nun #422 
- --> Spannendes Buch [2.62]
-Blauer Wichtel DURCARJOLA bearbeitet nun #423 
- --> Knusprige Kekse [13.25](Gesund :nein)
-Roter Wichtel XULBOR bearbeitet nun #424 
- --> Spannendes Buch [24.07]
+Roter Wichtel NORTAZ bearbeitet nun #439 
+ --> Aromatischer Tee [12.88](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #440 
+ --> Leckerer Essensgutschein [13.38]
+Roter Wichtel HATITAZLE bearbeitet nun #441 
+ --> Gemaltes Memory [5.8](Spannung: 8.7)
 ----------------------------------------
 Runde 116
-Gelber Wichtel BORXULDUR bearbeitet nun #425 
- --> Schnelles Auto [1.55]
+Blauer Wichtel NORARI bearbeitet nun #442 
+ --> Schnelles Auto [6.77](Spannung: 9.478)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #443 
+ --> Stacheliger Kaktus [4.26]
+Gelber Wichtel TAZWELUMA bearbeitet nun #444 
+ --> Leckerer Essensgutschein [3.73]
+Roter Wichtel SETICARNOR bearbeitet nun #445 
+ --> Zipfelige Muetze [0.35](Eleganz: 16)
 ----------------------------------------
 Runde 117
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #426 
- --> Aromatischer Tee [6.76](Gesund :ja)
-Blauer Wichtel EORLMUFRI bearbeitet nun #427 
- --> Schnelles Kartenspiel [3.8](Spannung: 7.9799999999999995)
+Roter Wichtel MUDURSETI bearbeitet nun #446 
+ --> Leckere Papaya [9.56](Gesund :nein)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #447 
+ --> Rote Unterbuxe [3.62](Eleganz: 14)
+Roter Wichtel EORLVARWEL bearbeitet nun #448 
+ --> Lange Struempfe [2.3](Eleganz: 15)
+Roter Wichtel SETICARNOR bearbeitet nun #449 
+ --> Schnelles Auto [2.42](Spannung: 3.3879999999999995)
 ----------------------------------------
 Runde 118
-Blauer Wichtel SETILE bearbeitet nun #428 
- --> Robuster Nussknacker [10.43]
-Blauer Wichtel CARKONOR bearbeitet nun #429 
- --> Schnelles Kartenspiel [5.36](Spannung: 11.256)
+Blauer Wichtel UMATAZ bearbeitet nun #450 
+ --> Interessantes Brettspiel [4.33](Spannung: 10.392)
+Roter Wichtel EORLVARWEL bearbeitet nun #451 
+ --> Grosser Bagger [9.61](Spannung: 13.453999999999999)
 ----------------------------------------
 Runde 119
-Gelber Wichtel BORWEL bearbeitet nun #430 
- --> Robuster Nussknacker [12.44]
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #431 
- --> Schnelles Auto [23.93]
-Blauer Wichtel CARCAR bearbeitet nun #432 
- --> Grosser Bagger [4.28](Spannung: 5.992)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #433 
- --> Schnelles Auto [4.92](Spannung: 6.888)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #434 
- --> Leckere Papaya [2.55](Gesund :ja)
-Gelber Wichtel GEROSHATI bearbeitet nun #435 
- --> Kuscheliger Schal [2.77](Eleganz: 17)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #436 
- --> Schnelles Auto [1.02]
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #452 
+ --> Warme Socken [3.25](Eleganz: 12)
+Gelber Wichtel KODUR bearbeitet nun #453 
+ --> Rote Unterbuxe [2.8](Eleganz: 14)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #454 
+ --> Robuster Nussknacker [12.86]
 ----------------------------------------
 Runde 120
-Roter Wichtel HATINORGEROS bearbeitet nun #437 
- --> Aromatischer Tee [10.39](Gesund :ja)
-Blauer Wichtel TAZEORL bearbeitet nun #438 
- --> Spannendes Buch [21.22]
-Blauer Wichtel JOLAKO bearbeitet nun #439 
- --> Schnelles Kartenspiel [6.99](Spannung: 14.678999999999998)
-Gelber Wichtel BORXULDUR bearbeitet nun #440 
- --> Zipfelige Muetze [4.99](Eleganz: 16)
-Blauer Wichtel EORLMUFRI bearbeitet nun #441 
- --> Zipfelige Muetze [4.13](Eleganz: 16)
+Blauer Wichtel NORARI bearbeitet nun #455 
+ --> Knusprige Kekse [6.6](Gesund :ja)
+Blauer Wichtel DURBOR bearbeitet nun #456 
+ --> Schoko-Nikolaus [9.25](Gesund :nein)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #457 
+ --> Selbstgemachtes Pesto [9.42](Gesund :nein)
+Roter Wichtel CARMU bearbeitet nun #458 
+ --> Saftige Kekse [0.32](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #459 
+ --> Lange Struempfe [2.15](Eleganz: 15)
 ----------------------------------------
 Runde 121
+Blauer Wichtel FRIOPOOPO bearbeitet nun #460 
+ --> Warme Socken [0.73](Eleganz: 12)
+Blauer Wichtel UMATAZ bearbeitet nun #461 
+ --> Lange Struempfe [3.36](Eleganz: 15)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #462 
+ --> Gemaltes Memory [3.63](Spannung: 5.444999999999999)
+Roter Wichtel CARMU bearbeitet nun #463 
+ --> Knusprige Kekse [9.65](Gesund :nein)
+Roter Wichtel SETICARNOR bearbeitet nun #464 
+ --> Robuster Nussknacker [10.95]
 ----------------------------------------
 Runde 122
-Blauer Wichtel WELGEROSFRI bearbeitet nun #442 
- --> Duftende Badesalze [4.55]
-Blauer Wichtel CARCAR bearbeitet nun #443 
- --> Lange Struempfe [1.31](Eleganz: 15)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #444 
- --> Interessantes Brettspiel [7.61](Spannung: 18.264000000000003)
-Roter Wichtel EORLUMA bearbeitet nun #445 
- --> Bequeme Hose [3.41](Eleganz: 12)
-Blauer Wichtel CARKONOR bearbeitet nun #446 
- --> Interessantes Brettspiel [9.81](Spannung: 23.544)
-Roter Wichtel SETIJOLA bearbeitet nun #447 
- --> Grosser Bagger [4.09](Spannung: 5.726)
+Roter Wichtel HATITAZLE bearbeitet nun #465 
+ --> Dicker Pullover [3.28](Eleganz: 15)
+Blauer Wichtel ROMINOROPO bearbeitet nun #466 
+ --> Bequeme Hose [3.37](Eleganz: 12)
+Gelber Wichtel TAZWELUMA bearbeitet nun #467 
+ --> Schoko-Nikolaus [3.4](Gesund :nein)
 ----------------------------------------
 Runde 123
-Blauer Wichtel SETIIOTISETI bearbeitet nun #448 
- --> Bequeme Hose [0.54](Eleganz: 12)
-Gelber Wichtel OPOGEROS bearbeitet nun #449 
- --> Stacheliger Kaktus [0.2]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #468 
+ --> Schoko-Nikolaus [1.17](Gesund :nein)
+Gelber Wichtel ARIEORL bearbeitet nun #469 
+ --> Rasende Eisenbahn [7.91](Spannung: 13.447)
 ----------------------------------------
 Runde 124
-Blauer Wichtel JOLAKO bearbeitet nun #450 
- --> Aromatischer Tee [11.46](Gesund :nein)
-Roter Wichtel EORLUMA bearbeitet nun #451 
- --> Duftende Badesalze [3.7]
-Gelber Wichtel UMAMUARI bearbeitet nun #452 
- --> Aromatischer Tee [10.26](Gesund :ja)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #453 
- --> Gemaltes Memory [0.24](Spannung: 0.36)
-Roter Wichtel GEROSJOLA bearbeitet nun #454 
- --> Schnelles Auto [6.91](Spannung: 9.674000000000001)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #470 
+ --> Schnelles Kartenspiel [5.22](Spannung: 10.962)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #471 
+ --> Gemaltes Memory [2.76](Spannung: 4.14)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #472 
+ --> Schoko-Nikolaus [1.44](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #473 
+ --> Robuster Nussknacker [9.06]
 ----------------------------------------
 Runde 125
-Gelber Wichtel GEROSHATI bearbeitet nun #455 
- --> Leckerer Essensgutschein [4.23]
-Gelber Wichtel OPOGEROS bearbeitet nun #456 
- --> Aromatischer Tee [13.6](Gesund :nein)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #457 
- --> Niedliche Puppe [7.81](Spannung: 11.715)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #474 
+ --> Robuster Nussknacker [1.98]
+Gelber Wichtel KODUR bearbeitet nun #475 
+ --> Knusprige Kekse [5.91](Gesund :nein)
+Blauer Wichtel GEROSLE bearbeitet nun #476 
+ --> Duftende Badesalze [2.62]
+Blauer Wichtel WELWELJOLA bearbeitet nun #477 
+ --> Schoko-Nikolaus [0.98](Gesund :ja)
 ----------------------------------------
 Runde 126
-Blauer Wichtel TAZKO bearbeitet nun #458 
- --> Leckere Papaya [13.69](Gesund :nein)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #459 
- --> Schnelles Auto [21.67]
-Roter Wichtel BORLECAR bearbeitet nun #460 
- --> Selbstgemachtes Pesto [0.83](Gesund :ja)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #478 
+ --> Robuster Nussknacker [10.02]
+Roter Wichtel MUDURSETI bearbeitet nun #479 
+ --> Kuscheliger Schal [1.89](Eleganz: 17)
 ----------------------------------------
 Runde 127
-Blauer Wichtel CARCAR bearbeitet nun #461 
- --> Schoko-Nikolaus [12.51](Gesund :ja)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #462 
- --> Knusprige Kekse [3.19](Gesund :nein)
-Blauer Wichtel KOMUGEROS bearbeitet nun #463 
- --> Knusprige Kekse [1.75](Gesund :nein)
-Roter Wichtel BORLECAR bearbeitet nun #464 
- --> Kuscheliger Schal [1.07](Eleganz: 17)
-Roter Wichtel EORLUMA bearbeitet nun #465 
- --> Aromatischer Tee [4.23](Gesund :ja)
-Roter Wichtel SETIJOLA bearbeitet nun #466 
- --> Schnelles Kartenspiel [5.69](Spannung: 11.949000000000002)
+Roter Wichtel MUDURSETI bearbeitet nun #480 
+ --> Kuscheliger Schal [1.12](Eleganz: 17)
+Blauer Wichtel VARARISETI bearbeitet nun #481 
+ --> Knusprige Kekse [13.49](Gesund :nein)
+Roter Wichtel NORTAZ bearbeitet nun #482 
+ --> Niedliche Puppe [7.05](Spannung: 10.575)
+Roter Wichtel SETITAZ bearbeitet nun #483 
+ --> Stacheliger Kaktus [20.18]
+Gelber Wichtel TAZWELUMA bearbeitet nun #484 
+ --> Schnelles Auto [2.81]
 ----------------------------------------
 Runde 128
-Blauer Wichtel SETIIOTISETI bearbeitet nun #467 
- --> Grosser Bagger [5.13](Spannung: 7.1819999999999995)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #468 
- --> Leckerer Essensgutschein [2.33]
-Roter Wichtel BORLECAR bearbeitet nun #469 
- --> Rasende Eisenbahn [7.7](Spannung: 13.09)
-Blauer Wichtel CARKONOR bearbeitet nun #470 
- --> Spannendes Buch [12.0]
-Gelber Wichtel BORXULDUR bearbeitet nun #471 
- --> Leckerer Essensgutschein [12.37]
-Blauer Wichtel EORLMUFRI bearbeitet nun #472 
- --> Rasende Eisenbahn [1.84](Spannung: 3.128)
+Roter Wichtel MUDURSETI bearbeitet nun #485 
+ --> Grosser Bagger [5.37](Spannung: 7.518000000000001)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #486 
+ --> Spannendes Buch [2.39]
+Gelber Wichtel TAZVARXUL bearbeitet nun #487 
+ --> Robuster Nussknacker [4.42]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #488 
+ --> Schnelles Kartenspiel [8.06](Spannung: 16.926000000000002)
+Blauer Wichtel UMATAZ bearbeitet nun #489 
+ --> Saftige Kekse [5.07](Gesund :nein)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #490 
+ --> Bequeme Hose [3.6](Eleganz: 12)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #491 
+ --> Grosser Bagger [3.79](Spannung: 5.306)
 ----------------------------------------
 Runde 129
-Roter Wichtel HATINORGEROS bearbeitet nun #473 
- --> Leckere Papaya [7.39](Gesund :nein)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #492 
+ --> Selbstgemachtes Pesto [1.82](Gesund :nein)
+Blauer Wichtel BORNOR bearbeitet nun #493 
+ --> Grosser Bagger [1.17](Spannung: 1.638)
+Roter Wichtel YIFITAZSETI bearbeitet nun #494 
+ --> Schnelles Kartenspiel [4.54](Spannung: 9.534)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #495 
+ --> Zipfelige Muetze [0.53](Eleganz: 16)
+Roter Wichtel EORLVARWEL bearbeitet nun #496 
+ --> Spannendes Buch [10.83]
+Blauer Wichtel ROMINOROPO bearbeitet nun #497 
+ --> Schoko-Nikolaus [9.04](Gesund :nein)
 ----------------------------------------
 Runde 130
-Roter Wichtel EORLUMA bearbeitet nun #474 
- --> Zipfelige Muetze [1.88](Eleganz: 16)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #475 
- --> Stacheliger Kaktus [19.3]
-Blauer Wichtel EORLMUFRI bearbeitet nun #476 
- --> Selbstgemachtes Pesto [5.91](Gesund :nein)
+Blauer Wichtel WELWELJOLA bearbeitet nun #498 
+ --> Grosser Bagger [5.14](Spannung: 7.196)
+Gelber Wichtel TAZJOLA bearbeitet nun #499 
+ --> Interessantes Brettspiel [7.27](Spannung: 17.448)
+Roter Wichtel CARMU bearbeitet nun #500 
+ --> Dicker Pullover [0.67](Eleganz: 15)
 ----------------------------------------
 Runde 131
-Blauer Wichtel WELGEROSFRI bearbeitet nun #477 
- --> Rote Unterbuxe [1.41](Eleganz: 14)
-Roter Wichtel EORLUMA bearbeitet nun #478 
- --> Knusprige Kekse [0.39](Gesund :ja)
-Gelber Wichtel GEROSHATI bearbeitet nun #479 
- --> Duftende Badesalze [16.77]
+Blauer Wichtel NORARI bearbeitet nun #501 
+ --> Interessantes Brettspiel [6.05](Spannung: 14.52)
+Blauer Wichtel BORNOR bearbeitet nun #502 
+ --> Warme Socken [3.57](Eleganz: 12)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #503 
+ --> Robuster Nussknacker [13.27]
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #504 
+ --> Rote Unterbuxe [1.56](Eleganz: 14)
+Roter Wichtel CARMU bearbeitet nun #505 
+ --> Zipfelige Muetze [4.71](Eleganz: 16)
+Roter Wichtel SETICARNOR bearbeitet nun #506 
+ --> Thermo-Ski-Unterwaesche [3.87](Eleganz: 23)
 ----------------------------------------
 Runde 132
-Roter Wichtel ROMIMUEORL bearbeitet nun #480 
- --> Leckerer Essensgutschein [18.08]
-Blauer Wichtel SETIIOTISETI bearbeitet nun #481 
- --> Niedliche Puppe [5.75](Spannung: 8.625)
-Blauer Wichtel DURCARJOLA bearbeitet nun #482 
- --> Niedliche Puppe [5.55](Spannung: 8.325)
-Blauer Wichtel SETILE bearbeitet nun #483 
- --> Leckere Papaya [8.99](Gesund :ja)
-Roter Wichtel EORLUMA bearbeitet nun #484 
- --> Stacheliger Kaktus [17.38]
-Roter Wichtel GEROSJOLA bearbeitet nun #485 
- --> Leckerer Essensgutschein [8.89]
+Blauer Wichtel GEROSLE bearbeitet nun #507 
+ --> Rote Unterbuxe [2.25](Eleganz: 14)
+Roter Wichtel HATITAZLE bearbeitet nun #508 
+ --> Gemaltes Memory [6.82](Spannung: 10.23)
+Gelber Wichtel TAZWELUMA bearbeitet nun #509 
+ --> Saftige Kekse [13.99](Gesund :nein)
 ----------------------------------------
 Runde 133
-Gelber Wichtel BORWEL bearbeitet nun #486 
- --> Gemaltes Memory [7.52](Spannung: 11.28)
-Roter Wichtel MUEORLTAZ bearbeitet nun #487 
- --> Duftende Badesalze [23.45]
-Blauer Wichtel KOMUGEROS bearbeitet nun #488 
- --> Schoko-Nikolaus [6.31](Gesund :ja)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #510 
+ --> Rasende Eisenbahn [1.98](Spannung: 3.3659999999999997)
+Blauer Wichtel DURBOR bearbeitet nun #511 
+ --> Interessantes Brettspiel [2.13](Spannung: 5.112)
+Gelber Wichtel KODUR bearbeitet nun #512 
+ --> Lange Struempfe [2.27](Eleganz: 15)
+Gelber Wichtel WELUMA bearbeitet nun #513 
+ --> Bequeme Hose [2.73](Eleganz: 12)
+Gelber Wichtel ARIEORL bearbeitet nun #514 
+ --> Kuscheliger Schal [2.93](Eleganz: 17)
 ----------------------------------------
 Runde 134
-Blauer Wichtel TAZUMAFRI bearbeitet nun #489 
- --> Grosser Bagger [7.24](Spannung: 10.136)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #490 
- --> Selbstgemachtes Pesto [10.44](Gesund :ja)
-Roter Wichtel SETIJOLA bearbeitet nun #491 
- --> Schnelles Kartenspiel [4.52](Spannung: 9.491999999999999)
-Gelber Wichtel FRIIOTI bearbeitet nun #492 
- --> Niedliche Puppe [1.57](Spannung: 2.355)
+Roter Wichtel MUDURSETI bearbeitet nun #515 
+ --> Bequeme Hose [2.15](Eleganz: 12)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #516 
+ --> Saftige Kekse [10.27](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #517 
+ --> Rote Unterbuxe [0.07](Eleganz: 14)
+Blauer Wichtel WELWELJOLA bearbeitet nun #518 
+ --> Rasende Eisenbahn [9.2](Spannung: 15.639999999999997)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #519 
+ --> Aromatischer Tee [10.15](Gesund :ja)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #520 
+ --> Knusprige Kekse [4.47](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #521 
+ --> Rasende Eisenbahn [5.67](Spannung: 9.639)
 ----------------------------------------
 Runde 135
-Roter Wichtel HATINORGEROS bearbeitet nun #493 
- --> Schnelles Kartenspiel [6.91](Spannung: 14.511000000000001)
+Blauer Wichtel NORARI bearbeitet nun #522 
+ --> Schnelles Kartenspiel [8.3](Spannung: 17.43)
+Roter Wichtel MUDURSETI bearbeitet nun #523 
+ --> Spannendes Buch [16.22]
+Blauer Wichtel DURBOR bearbeitet nun #524 
+ --> Interessantes Brettspiel [1.44](Spannung: 3.4560000000000004)
+Roter Wichtel YIFITAZSETI bearbeitet nun #525 
+ --> Schnelles Auto [10.93]
+Roter Wichtel NORTAZ bearbeitet nun #526 
+ --> Bequeme Hose [2.26](Eleganz: 12)
+Roter Wichtel CARMU bearbeitet nun #527 
+ --> Schnelles Kartenspiel [8.17](Spannung: 17.157)
 ----------------------------------------
 Runde 136
-Blauer Wichtel SETIIOTISETI bearbeitet nun #494 
- --> Spannendes Buch [16.17]
-Blauer Wichtel WELGEROSFRI bearbeitet nun #495 
- --> Stacheliger Kaktus [0.08]
-Blauer Wichtel DURCARJOLA bearbeitet nun #496 
- --> Bequeme Hose [4.68](Eleganz: 12)
-Gelber Wichtel UMAMUARI bearbeitet nun #497 
- --> Schoko-Nikolaus [9.1](Gesund :nein)
+Roter Wichtel NORTAZ bearbeitet nun #528 
+ --> Leckere Papaya [4.44](Gesund :ja)
 ----------------------------------------
 Runde 137
-Roter Wichtel BORLECAR bearbeitet nun #498 
- --> Schnelles Auto [0.85](Spannung: 1.19)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #529 
+ --> Saftige Kekse [7.75](Gesund :nein)
+Blauer Wichtel DURBOR bearbeitet nun #530 
+ --> Leckere Papaya [5.44](Gesund :nein)
+Gelber Wichtel TAZVARXUL bearbeitet nun #531 
+ --> Dicker Pullover [2.37](Eleganz: 15)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #532 
+ --> Aromatischer Tee [8.67](Gesund :ja)
+Blauer Wichtel UMATAZ bearbeitet nun #533 
+ --> Grosser Bagger [0.27](Spannung: 0.378)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #534 
+ --> Schnelles Auto [3.36]
 ----------------------------------------
 Runde 138
-Roter Wichtel XULBOR bearbeitet nun #499 
- --> Grosser Bagger [1.34](Spannung: 1.8760000000000001)
-Gelber Wichtel FRIIOTI bearbeitet nun #500 
- --> Robuster Nussknacker [10.57]
+Gelber Wichtel KODUR bearbeitet nun #535 
+ --> Bequeme Hose [3.75](Eleganz: 12)
+Blauer Wichtel GEROSLE bearbeitet nun #536 
+ --> Thermo-Ski-Unterwaesche [3.05](Eleganz: 23)
+Blauer Wichtel UMATAZ bearbeitet nun #537 
+ --> Leckere Papaya [9.91](Gesund :nein)
 ----------------------------------------
 Runde 139
-Blauer Wichtel TAZUMAFRI bearbeitet nun #501 
- --> Bequeme Hose [3.59](Eleganz: 12)
-Blauer Wichtel JOLAKO bearbeitet nun #502 
- --> Rote Unterbuxe [0.36](Eleganz: 14)
-Roter Wichtel BORLECAR bearbeitet nun #503 
- --> Stacheliger Kaktus [14.38]
+Blauer Wichtel BORNOR bearbeitet nun #538 
+ --> Niedliche Puppe [2.7](Spannung: 4.05)
+Gelber Wichtel WELUMA bearbeitet nun #539 
+ --> Rasende Eisenbahn [1.57](Spannung: 2.669)
+Roter Wichtel NORTAZ bearbeitet nun #540 
+ --> Spannendes Buch [2.73]
+Roter Wichtel EORLVARWEL bearbeitet nun #541 
+ --> Saftige Kekse [2.95](Gesund :ja)
+Gelber Wichtel TAZJOLA bearbeitet nun #542 
+ --> Kuscheliger Schal [0.0](Eleganz: 17)
+Gelber Wichtel ARIEORL bearbeitet nun #543 
+ --> Saftige Kekse [3.66](Gesund :nein)
 ----------------------------------------
 Runde 140
-Blauer Wichtel WELGEROSFRI bearbeitet nun #504 
- --> Leckere Papaya [3.29](Gesund :nein)
-Roter Wichtel SETIJOLA bearbeitet nun #505 
- --> Rote Unterbuxe [0.68](Eleganz: 14)
-Roter Wichtel XULBOR bearbeitet nun #506 
- --> Schnelles Auto [24.1]
-Roter Wichtel GEROSJOLA bearbeitet nun #507 
- --> Interessantes Brettspiel [0.6](Spannung: 1.44)
-Blauer Wichtel EORLMUFRI bearbeitet nun #508 
- --> Kuscheliger Schal [3.77](Eleganz: 17)
+Blauer Wichtel NORARI bearbeitet nun #544 
+ --> Duftende Badesalze [23.42]
+Blauer Wichtel FRIOPOOPO bearbeitet nun #545 
+ --> Schoko-Nikolaus [1.95](Gesund :nein)
+Blauer Wichtel WELWELJOLA bearbeitet nun #546 
+ --> Robuster Nussknacker [0.52]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #547 
+ --> Leckere Papaya [12.88](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #548 
+ --> Robuster Nussknacker [8.9]
 ----------------------------------------
 Runde 141
-Gelber Wichtel OPOGEROS bearbeitet nun #509 
- --> Knusprige Kekse [9.74](Gesund :nein)
-Roter Wichtel SETIJOLA bearbeitet nun #510 
- --> Aromatischer Tee [13.63](Gesund :nein)
+Blauer Wichtel BORNOR bearbeitet nun #549 
+ --> Spannendes Buch [5.67]
+Roter Wichtel NORTAZ bearbeitet nun #550 
+ --> Selbstgemachtes Pesto [14.03](Gesund :ja)
+Roter Wichtel EORLVARWEL bearbeitet nun #551 
+ --> Grosser Bagger [6.09](Spannung: 8.526)
+Roter Wichtel SETICARNOR bearbeitet nun #552 
+ --> Niedliche Puppe [2.83](Spannung: 4.245)
 ----------------------------------------
 Runde 142
-Gelber Wichtel BORXULDUR bearbeitet nun #511 
- --> Schnelles Kartenspiel [5.03](Spannung: 10.563)
-Roter Wichtel GEROSJOLA bearbeitet nun #512 
- --> Knusprige Kekse [10.06](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #553 
+ --> Gemaltes Memory [3.45](Spannung: 5.175)
+Gelber Wichtel TAZJOLA bearbeitet nun #554 
+ --> Schnelles Auto [19.56]
+Blauer Wichtel ROMINOROPO bearbeitet nun #555 
+ --> Duftende Badesalze [3.93]
 ----------------------------------------
 Runde 143
-Gelber Wichtel BORWEL bearbeitet nun #513 
- --> Schoko-Nikolaus [9.53](Gesund :nein)
-Roter Wichtel HATINORGEROS bearbeitet nun #514 
- --> Warme Socken [4.89](Eleganz: 12)
-Blauer Wichtel JOLAKO bearbeitet nun #515 
- --> Stacheliger Kaktus [22.35]
-Blauer Wichtel KOMUGEROS bearbeitet nun #516 
- --> Leckerer Essensgutschein [6.3]
+Gelber Wichtel WELUMA bearbeitet nun #556 
+ --> Stacheliger Kaktus [18.1]
+Roter Wichtel HATIIOTIDUR bearbeitet nun #557 
+ --> Schnelles Kartenspiel [9.63](Spannung: 20.223000000000003)
 ----------------------------------------
 Runde 144
-Blauer Wichtel TAZKO bearbeitet nun #517 
- --> Schoko-Nikolaus [13.37](Gesund :nein)
-Blauer Wichtel CARCAR bearbeitet nun #518 
- --> Selbstgemachtes Pesto [5.26](Gesund :nein)
-Blauer Wichtel CARKONOR bearbeitet nun #519 
- --> Leckere Papaya [7.39](Gesund :nein)
+Blauer Wichtel VARARISETI bearbeitet nun #558 
+ --> Spannendes Buch [10.46]
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #559 
+ --> Robuster Nussknacker [3.23]
+Roter Wichtel CARMU bearbeitet nun #560 
+ --> Kuscheliger Schal [3.19](Eleganz: 17)
 ----------------------------------------
 Runde 145
-Blauer Wichtel DURCARJOLA bearbeitet nun #520 
- --> Thermo-Ski-Unterwaesche [0.94](Eleganz: 23)
-Blauer Wichtel TAZEORL bearbeitet nun #521 
- --> Kuscheliger Schal [2.5](Eleganz: 17)
-Blauer Wichtel SETILE bearbeitet nun #522 
- --> Duftende Badesalze [19.16]
+Gelber Wichtel KODUR bearbeitet nun #561 
+ --> Knusprige Kekse [14.34](Gesund :ja)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #562 
+ --> Warme Socken [0.68](Eleganz: 12)
+Blauer Wichtel GEROSLE bearbeitet nun #563 
+ --> Leckere Papaya [9.53](Gesund :nein)
+Blauer Wichtel WELWELJOLA bearbeitet nun #564 
+ --> Lange Struempfe [1.91](Eleganz: 15)
+Roter Wichtel YIFITAZSETI bearbeitet nun #565 
+ --> Schnelles Auto [4.19](Spannung: 5.8660000000000005)
+Gelber Wichtel ARIEORL bearbeitet nun #566 
+ --> Saftige Kekse [4.06](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #567 
+ --> Leckerer Essensgutschein [8.33]
 ----------------------------------------
 Runde 146
+Blauer Wichtel FRIOPOOPO bearbeitet nun #568 
+ --> Stacheliger Kaktus [18.58]
+Blauer Wichtel DURBOR bearbeitet nun #569 
+ --> Spannendes Buch [23.81]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #570 
+ --> Rasende Eisenbahn [0.85](Spannung: 1.4449999999999998)
+Roter Wichtel SETITAZ bearbeitet nun #571 
+ --> Niedliche Puppe [4.58](Spannung: 6.87)
+Roter Wichtel CARMU bearbeitet nun #572 
+ --> Duftende Badesalze [2.74]
 ----------------------------------------
 Runde 147
-Blauer Wichtel WELGEROSFRI bearbeitet nun #523 
- --> Schoko-Nikolaus [12.78](Gesund :ja)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #524 
- --> Selbstgemachtes Pesto [3.06](Gesund :nein)
-Roter Wichtel HATINORGEROS bearbeitet nun #525 
- --> Schnelles Auto [24.29]
-Blauer Wichtel TAZUMAFRI bearbeitet nun #526 
- --> Kuscheliger Schal [1.86](Eleganz: 17)
-Gelber Wichtel UMAMUARI bearbeitet nun #527 
- --> Schnelles Kartenspiel [6.37](Spannung: 13.377)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #573 
+ --> Bequeme Hose [3.44](Eleganz: 12)
+Gelber Wichtel TAZVARXUL bearbeitet nun #574 
+ --> Schnelles Kartenspiel [0.33](Spannung: 0.6930000000000001)
 ----------------------------------------
 Runde 148
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #528 
- --> Saftige Kekse [0.42](Gesund :ja)
-Roter Wichtel EORLUMA bearbeitet nun #529 
- --> Duftende Badesalze [9.7]
-Blauer Wichtel EORLMUFRI bearbeitet nun #530 
- --> Lange Struempfe [4.48](Eleganz: 15)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #575 
+ --> Niedliche Puppe [1.68](Spannung: 2.52)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #576 
+ --> Rasende Eisenbahn [9.05](Spannung: 15.385000000000002)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #577 
+ --> Schnelles Auto [7.98](Spannung: 11.172)
+Roter Wichtel EORLVARWEL bearbeitet nun #578 
+ --> Schnelles Auto [6.31](Spannung: 8.834)
+Roter Wichtel HATITAZLE bearbeitet nun #579 
+ --> Leckere Papaya [4.34](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #580 
+ --> Leckere Papaya [8.7](Gesund :ja)
+Gelber Wichtel TAZWELUMA bearbeitet nun #581 
+ --> Schnelles Kartenspiel [6.87](Spannung: 14.427000000000001)
 ----------------------------------------
 Runde 149
-Roter Wichtel ROMIMUEORL bearbeitet nun #531 
- --> Spannendes Buch [9.11]
-Gelber Wichtel BORXULDUR bearbeitet nun #532 
- --> Leckere Papaya [14.71](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #582 
+ --> Knusprige Kekse [8.71](Gesund :ja)
 ----------------------------------------
 Runde 150
-Blauer Wichtel DURCARJOLA bearbeitet nun #533 
- --> Niedliche Puppe [7.9](Spannung: 11.85)
-Gelber Wichtel GEROSHATI bearbeitet nun #534 
- --> Thermo-Ski-Unterwaesche [3.66](Eleganz: 23)
+Roter Wichtel MUDURSETI bearbeitet nun #583 
+ --> Knusprige Kekse [6.67](Gesund :ja)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #584 
+ --> Aromatischer Tee [10.57](Gesund :ja)
+Roter Wichtel YIFITAZSETI bearbeitet nun #585 
+ --> Knusprige Kekse [14.31](Gesund :ja)
+Blauer Wichtel ROMINOROPO bearbeitet nun #586 
+ --> Rasende Eisenbahn [8.72](Spannung: 14.824000000000002)
 ----------------------------------------
 Runde 151
-Gelber Wichtel FRIIOTI bearbeitet nun #535 
- --> Gemaltes Memory [4.49](Spannung: 6.735000000000001)
-Roter Wichtel GEROSJOLA bearbeitet nun #536 
- --> Leckerer Essensgutschein [4.64]
+Blauer Wichtel BORNOR bearbeitet nun #587 
+ --> Dicker Pullover [2.99](Eleganz: 15)
+Blauer Wichtel WELWELJOLA bearbeitet nun #588 
+ --> Aromatischer Tee [13.97](Gesund :nein)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #589 
+ --> Schoko-Nikolaus [13.52](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #590 
+ --> Saftige Kekse [1.06](Gesund :nein)
+Gelber Wichtel ARIEORL bearbeitet nun #591 
+ --> Grosser Bagger [5.0](Spannung: 7.0)
 ----------------------------------------
 Runde 152
-Blauer Wichtel TAZEORL bearbeitet nun #537 
- --> Duftende Badesalze [2.93]
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #538 
- --> Robuster Nussknacker [15.18]
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #539 
- --> Schnelles Auto [12.85]
-Roter Wichtel BORLECAR bearbeitet nun #540 
- --> Kuscheliger Schal [0.23](Eleganz: 17)
+Blauer Wichtel UMATAZ bearbeitet nun #592 
+ --> Robuster Nussknacker [0.49]
+Roter Wichtel SETITAZ bearbeitet nun #593 
+ --> Zipfelige Muetze [0.85](Eleganz: 16)
+Roter Wichtel HATITAZLE bearbeitet nun #594 
+ --> Selbstgemachtes Pesto [6.33](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #595 
+ --> Schnelles Auto [8.03](Spannung: 11.241999999999999)
 ----------------------------------------
 Runde 153
-Blauer Wichtel CARCAR bearbeitet nun #541 
- --> Warme Socken [2.69](Eleganz: 12)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #542 
- --> Stacheliger Kaktus [4.28]
-Blauer Wichtel KOMUGEROS bearbeitet nun #543 
- --> Grosser Bagger [5.77](Spannung: 8.078)
-Roter Wichtel BORLECAR bearbeitet nun #544 
- --> Robuster Nussknacker [10.76]
-Gelber Wichtel OPOGEROS bearbeitet nun #545 
- --> Saftige Kekse [4.14](Gesund :ja)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #546 
- --> Dicker Pullover [4.88](Eleganz: 15)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #596 
+ --> Interessantes Brettspiel [2.47](Spannung: 5.928)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #597 
+ --> Spannendes Buch [14.39]
+Roter Wichtel SETITAZ bearbeitet nun #598 
+ --> Aromatischer Tee [3.39](Gesund :nein)
 ----------------------------------------
 Runde 154
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #547 
- --> Aromatischer Tee [9.17](Gesund :nein)
-Roter Wichtel SETIJOLA bearbeitet nun #548 
- --> Schoko-Nikolaus [9.69](Gesund :nein)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #599 
+ --> Leckere Papaya [0.25](Gesund :ja)
+Roter Wichtel NORTAZ bearbeitet nun #600 
+ --> Knusprige Kekse [1.13](Gesund :nein)
 ----------------------------------------
 Runde 155
-Gelber Wichtel BORWEL bearbeitet nun #549 
- --> Saftige Kekse [5.86](Gesund :nein)
-Roter Wichtel MUEORLTAZ bearbeitet nun #550 
- --> Niedliche Puppe [0.84](Spannung: 1.26)
-Blauer Wichtel DURCARJOLA bearbeitet nun #551 
- --> Robuster Nussknacker [17.38]
-Gelber Wichtel UMAMUARI bearbeitet nun #552 
- --> Leckere Papaya [14.99](Gesund :ja)
-Blauer Wichtel CARKONOR bearbeitet nun #553 
- --> Rasende Eisenbahn [4.1](Spannung: 6.969999999999999)
-Roter Wichtel GEROSJOLA bearbeitet nun #554 
- --> Leckerer Essensgutschein [13.99]
+Roter Wichtel HATIIOTIDUR bearbeitet nun #601 
+ --> Rasende Eisenbahn [0.22](Spannung: 0.374)
+Roter Wichtel NORTAZ bearbeitet nun #602 
+ --> Schnelles Auto [7.85](Spannung: 10.989999999999998)
+Roter Wichtel EORLVARWEL bearbeitet nun #603 
+ --> Aromatischer Tee [3.49](Gesund :nein)
+Roter Wichtel SETITAZ bearbeitet nun #604 
+ --> Kuscheliger Schal [0.37](Eleganz: 17)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #605 
+ --> Aromatischer Tee [1.68](Gesund :nein)
+Blauer Wichtel ROMINOROPO bearbeitet nun #606 
+ --> Aromatischer Tee [0.4](Gesund :ja)
 ----------------------------------------
 Runde 156
-Blauer Wichtel SETIIOTISETI bearbeitet nun #555 
- --> Schnelles Auto [20.78]
-Blauer Wichtel EORLMUFRI bearbeitet nun #556 
- --> Thermo-Ski-Unterwaesche [1.17](Eleganz: 23)
+Roter Wichtel MUDURSETI bearbeitet nun #607 
+ --> Warme Socken [1.31](Eleganz: 12)
+Blauer Wichtel UMATAZ bearbeitet nun #608 
+ --> Rasende Eisenbahn [2.0](Spannung: 3.4)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #609 
+ --> Leckerer Essensgutschein [15.55]
+Roter Wichtel SETITAZ bearbeitet nun #610 
+ --> Leckerer Essensgutschein [24.19]
+Roter Wichtel CARMU bearbeitet nun #611 
+ --> Gemaltes Memory [4.32](Spannung: 6.480000000000001)
 ----------------------------------------
 Runde 157
-Roter Wichtel ROMIMUEORL bearbeitet nun #557 
- --> Grosser Bagger [6.44](Spannung: 9.016000000000002)
-Roter Wichtel MUEORLTAZ bearbeitet nun #558 
- --> Selbstgemachtes Pesto [1.58](Gesund :nein)
-Blauer Wichtel KOMUGEROS bearbeitet nun #559 
- --> Rasende Eisenbahn [4.93](Spannung: 8.381)
-Roter Wichtel EORLUMA bearbeitet nun #560 
- --> Bequeme Hose [4.95](Eleganz: 12)
-Gelber Wichtel GEROSHATI bearbeitet nun #561 
- --> Grosser Bagger [9.55](Spannung: 13.370000000000001)
-Gelber Wichtel FRIIOTI bearbeitet nun #562 
- --> Spannendes Buch [6.49]
+Roter Wichtel MUDURSETI bearbeitet nun #612 
+ --> Thermo-Ski-Unterwaesche [1.16](Eleganz: 23)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #613 
+ --> Stacheliger Kaktus [11.49]
+Roter Wichtel EORLVARWEL bearbeitet nun #614 
+ --> Aromatischer Tee [1.56](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #615 
+ --> Zipfelige Muetze [4.12](Eleganz: 16)
+Gelber Wichtel TAZWELUMA bearbeitet nun #616 
+ --> Thermo-Ski-Unterwaesche [0.59](Eleganz: 23)
 ----------------------------------------
 Runde 158
-Roter Wichtel MUEORLTAZ bearbeitet nun #563 
- --> Gemaltes Memory [7.5](Spannung: 11.25)
-Blauer Wichtel CARKONOR bearbeitet nun #564 
- --> Schnelles Kartenspiel [4.74](Spannung: 9.954)
+Roter Wichtel MUDURSETI bearbeitet nun #617 
+ --> Dicker Pullover [1.94](Eleganz: 15)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #618 
+ --> Knusprige Kekse [1.19](Gesund :nein)
+Blauer Wichtel UMATAZ bearbeitet nun #619 
+ --> Lange Struempfe [4.85](Eleganz: 15)
+Blauer Wichtel BORNOR bearbeitet nun #620 
+ --> Zipfelige Muetze [2.32](Eleganz: 16)
+Blauer Wichtel VARARISETI bearbeitet nun #621 
+ --> Leckerer Essensgutschein [5.01]
+Roter Wichtel EORLVARWEL bearbeitet nun #622 
+ --> Saftige Kekse [14.31](Gesund :ja)
+Gelber Wichtel ARIEORL bearbeitet nun #623 
+ --> Saftige Kekse [8.27](Gesund :ja)
 ----------------------------------------
 Runde 159
-Blauer Wichtel TAZEORL bearbeitet nun #565 
- --> Spannendes Buch [18.84]
-Gelber Wichtel OPOGEROS bearbeitet nun #566 
- --> Leckerer Essensgutschein [21.1]
+Roter Wichtel MUDURSETI bearbeitet nun #624 
+ --> Knusprige Kekse [3.64](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #625 
+ --> Warme Socken [4.79](Eleganz: 12)
+Blauer Wichtel GEROSLE bearbeitet nun #626 
+ --> Knusprige Kekse [4.65](Gesund :ja)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #627 
+ --> Robuster Nussknacker [21.12]
+Blauer Wichtel ROMINOROPO bearbeitet nun #628 
+ --> Selbstgemachtes Pesto [11.1](Gesund :nein)
 ----------------------------------------
 Runde 160
-Blauer Wichtel CARCAR bearbeitet nun #567 
- --> Rasende Eisenbahn [1.71](Spannung: 2.907)
-Blauer Wichtel KOMUGEROS bearbeitet nun #568 
- --> Saftige Kekse [10.55](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #629 
+ --> Schnelles Auto [1.66](Spannung: 2.324)
+Roter Wichtel HATITAZLE bearbeitet nun #630 
+ --> Lange Struempfe [3.04](Eleganz: 15)
 ----------------------------------------
 Runde 161
-Blauer Wichtel TAZKO bearbeitet nun #569 
- --> Duftende Badesalze [16.07]
-Blauer Wichtel TAZUMAFRI bearbeitet nun #570 
- --> Warme Socken [2.59](Eleganz: 12)
-Roter Wichtel EORLUMA bearbeitet nun #571 
- --> Robuster Nussknacker [4.99]
-Blauer Wichtel CARKONOR bearbeitet nun #572 
- --> Gemaltes Memory [5.86](Spannung: 8.790000000000001)
-Blauer Wichtel EORLMUFRI bearbeitet nun #573 
- --> Grosser Bagger [8.66](Spannung: 12.124)
+Gelber Wichtel KODUR bearbeitet nun #631 
+ --> Schoko-Nikolaus [9.59](Gesund :nein)
+Roter Wichtel CARMU bearbeitet nun #632 
+ --> Stacheliger Kaktus [18.77]
+Gelber Wichtel TAZWELUMA bearbeitet nun #633 
+ --> Schnelles Auto [2.18](Spannung: 3.0520000000000005)
+Roter Wichtel SETICARNOR bearbeitet nun #634 
+ --> Schnelles Auto [5.02](Spannung: 7.0280000000000005)
 ----------------------------------------
 Runde 162
-Blauer Wichtel CARCAR bearbeitet nun #574 
- --> Leckerer Essensgutschein [15.59]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #575 
- --> Warme Socken [0.77](Eleganz: 12)
+Roter Wichtel MUDURSETI bearbeitet nun #635 
+ --> Niedliche Puppe [9.97](Spannung: 14.955000000000002)
+Roter Wichtel HATITAZLE bearbeitet nun #636 
+ --> Kuscheliger Schal [2.71](Eleganz: 17)
 ----------------------------------------
 Runde 163
-Gelber Wichtel BORWEL bearbeitet nun #576 
- --> Warme Socken [4.86](Eleganz: 12)
-Roter Wichtel BORLECAR bearbeitet nun #577 
- --> Schnelles Kartenspiel [0.95](Spannung: 1.9949999999999999)
-Roter Wichtel SETIJOLA bearbeitet nun #578 
- --> Kuscheliger Schal [3.43](Eleganz: 17)
-Roter Wichtel XULBOR bearbeitet nun #579 
- --> Spannendes Buch [22.75]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #637 
+ --> Interessantes Brettspiel [9.02](Spannung: 21.648)
+Gelber Wichtel WELUMA bearbeitet nun #638 
+ --> Leckerer Essensgutschein [21.49]
+Roter Wichtel YIFITAZSETI bearbeitet nun #639 
+ --> Zipfelige Muetze [2.47](Eleganz: 16)
 ----------------------------------------
 Runde 164
-Roter Wichtel ROMIMUEORL bearbeitet nun #580 
- --> Saftige Kekse [6.75](Gesund :ja)
-Blauer Wichtel WELGEROSFRI bearbeitet nun #581 
- --> Gemaltes Memory [2.04](Spannung: 3.06)
+Gelber Wichtel TAZVARXUL bearbeitet nun #640 
+ --> Rote Unterbuxe [4.59](Eleganz: 14)
+Blauer Wichtel BORNOR bearbeitet nun #641 
+ --> Saftige Kekse [2.86](Gesund :ja)
+Roter Wichtel YIFITAZSETI bearbeitet nun #642 
+ --> Selbstgemachtes Pesto [3.85](Gesund :nein)
+Roter Wichtel NORTAZ bearbeitet nun #643 
+ --> Niedliche Puppe [1.35](Spannung: 2.025)
+Gelber Wichtel TAZJOLA bearbeitet nun #644 
+ --> Selbstgemachtes Pesto [0.56](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #645 
+ --> Niedliche Puppe [8.76](Spannung: 13.14)
 ----------------------------------------
 Runde 165
-Roter Wichtel BORLECAR bearbeitet nun #582 
- --> Robuster Nussknacker [16.86]
-Roter Wichtel EORLUMA bearbeitet nun #583 
- --> Schnelles Kartenspiel [2.61](Spannung: 5.481)
-Blauer Wichtel CARKONOR bearbeitet nun #584 
- --> Gemaltes Memory [8.44](Spannung: 12.66)
-Roter Wichtel SETIJOLA bearbeitet nun #585 
- --> Dicker Pullover [2.64](Eleganz: 15)
-Gelber Wichtel FRIIOTI bearbeitet nun #586 
- --> Aromatischer Tee [3.54](Gesund :nein)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #646 
+ --> Schnelles Kartenspiel [3.07](Spannung: 6.447)
+Gelber Wichtel TAZWELUMA bearbeitet nun #647 
+ --> Bequeme Hose [1.34](Eleganz: 12)
 ----------------------------------------
 Runde 166
-Blauer Wichtel WELGEROSFRI bearbeitet nun #587 
- --> Spannendes Buch [16.08]
-Gelber Wichtel BORXULDUR bearbeitet nun #588 
- --> Leckere Papaya [11.18](Gesund :nein)
-Blauer Wichtel EORLMUFRI bearbeitet nun #589 
- --> Leckere Papaya [2.49](Gesund :ja)
+Roter Wichtel NORTAZ bearbeitet nun #648 
+ --> Leckerer Essensgutschein [3.28]
 ----------------------------------------
 Runde 167
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #590 
- --> Leckere Papaya [13.21](Gesund :nein)
-Roter Wichtel MUEORLTAZ bearbeitet nun #591 
- --> Leckerer Essensgutschein [24.16]
-Roter Wichtel SETIJOLA bearbeitet nun #592 
- --> Leckere Papaya [6.77](Gesund :ja)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #593 
- --> Leckerer Essensgutschein [11.22]
+Blauer Wichtel NORARI bearbeitet nun #649 
+ --> Kuscheliger Schal [3.57](Eleganz: 17)
+Blauer Wichtel UMATAZ bearbeitet nun #650 
+ --> Dicker Pullover [4.8](Eleganz: 15)
+Roter Wichtel YIFITAZSETI bearbeitet nun #651 
+ --> Knusprige Kekse [8.42](Gesund :ja)
+Blauer Wichtel VARARISETI bearbeitet nun #652 
+ --> Duftende Badesalze [17.72]
+Gelber Wichtel TAZJOLA bearbeitet nun #653 
+ --> Niedliche Puppe [6.11](Spannung: 9.165000000000001)
+Roter Wichtel SETICARNOR bearbeitet nun #654 
+ --> Stacheliger Kaktus [14.88]
 ----------------------------------------
 Runde 168
-Blauer Wichtel TAZUMAFRI bearbeitet nun #594 
- --> Thermo-Ski-Unterwaesche [3.58](Eleganz: 23)
-Blauer Wichtel SETILE bearbeitet nun #595 
- --> Schnelles Auto [15.81]
-Roter Wichtel GEROSJOLA bearbeitet nun #596 
- --> Schoko-Nikolaus [5.5](Gesund :nein)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #655 
+ --> Knusprige Kekse [4.82](Gesund :ja)
+Blauer Wichtel GEROSLE bearbeitet nun #656 
+ --> Stacheliger Kaktus [15.3]
+Roter Wichtel NORTAZ bearbeitet nun #657 
+ --> Lange Struempfe [4.69](Eleganz: 15)
+Gelber Wichtel ARIEORL bearbeitet nun #658 
+ --> Niedliche Puppe [6.94](Spannung: 10.41)
 ----------------------------------------
 Runde 169
-Blauer Wichtel JOLAKO bearbeitet nun #597 
- --> Zipfelige Muetze [4.41](Eleganz: 16)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #598 
- --> Rasende Eisenbahn [4.73](Spannung: 8.041)
-Roter Wichtel EORLUMA bearbeitet nun #599 
- --> Schoko-Nikolaus [1.51](Gesund :nein)
-Gelber Wichtel GEROSHATI bearbeitet nun #600 
- --> Dicker Pullover [4.88](Eleganz: 15)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #659 
+ --> Gemaltes Memory [4.4](Spannung: 6.6)
+Blauer Wichtel WELWELJOLA bearbeitet nun #660 
+ --> Stacheliger Kaktus [22.29]
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #661 
+ --> Aromatischer Tee [4.48](Gesund :ja)
+Gelber Wichtel TAZWELUMA bearbeitet nun #662 
+ --> Zipfelige Muetze [2.24](Eleganz: 16)
 ----------------------------------------
 Runde 170
-Roter Wichtel ROMIMUEORL bearbeitet nun #601 
- --> Leckerer Essensgutschein [20.84]
-Roter Wichtel HATINORGEROS bearbeitet nun #602 
- --> Bequeme Hose [1.07](Eleganz: 12)
-Roter Wichtel EORLUMA bearbeitet nun #603 
- --> Zipfelige Muetze [2.88](Eleganz: 16)
-Blauer Wichtel CARKONOR bearbeitet nun #604 
- --> Selbstgemachtes Pesto [2.49](Gesund :ja)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #663 
+ --> Warme Socken [1.87](Eleganz: 12)
 ----------------------------------------
 Runde 171
-Gelber Wichtel BORWEL bearbeitet nun #605 
- --> Aromatischer Tee [1.4](Gesund :nein)
-Roter Wichtel HATINORGEROS bearbeitet nun #606 
- --> Leckere Papaya [7.02](Gesund :nein)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #607 
- --> Grosser Bagger [6.02](Spannung: 8.428)
-Gelber Wichtel FRIIOTI bearbeitet nun #608 
- --> Zipfelige Muetze [1.08](Eleganz: 16)
+Blauer Wichtel BORNOR bearbeitet nun #664 
+ --> Leckere Papaya [3.98](Gesund :nein)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #665 
+ --> Lange Struempfe [2.72](Eleganz: 15)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #666 
+ --> Aromatischer Tee [6.27](Gesund :ja)
+Roter Wichtel EORLVARWEL bearbeitet nun #667 
+ --> Gemaltes Memory [5.38](Spannung: 8.07)
 ----------------------------------------
 Runde 172
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #609 
- --> Interessantes Brettspiel [9.46](Spannung: 22.704)
-Roter Wichtel EORLUMA bearbeitet nun #610 
- --> Warme Socken [2.67](Eleganz: 12)
-Gelber Wichtel UMAMUARI bearbeitet nun #611 
- --> Leckere Papaya [1.71](Gesund :nein)
-Blauer Wichtel EORLMUFRI bearbeitet nun #612 
- --> Duftende Badesalze [12.24]
+Blauer Wichtel FRIOPOOPO bearbeitet nun #668 
+ --> Thermo-Ski-Unterwaesche [3.04](Eleganz: 23)
+Gelber Wichtel TAZVARXUL bearbeitet nun #669 
+ --> Duftende Badesalze [4.46]
+Roter Wichtel NORTAZ bearbeitet nun #670 
+ --> Bequeme Hose [4.25](Eleganz: 12)
 ----------------------------------------
 Runde 173
-Roter Wichtel SETIJOLA bearbeitet nun #613 
- --> Gemaltes Memory [1.91](Spannung: 2.8649999999999998)
-Roter Wichtel GEROSJOLA bearbeitet nun #614 
- --> Robuster Nussknacker [0.32]
+Roter Wichtel MUDURSETI bearbeitet nun #671 
+ --> Gemaltes Memory [9.04](Spannung: 13.559999999999999)
+Gelber Wichtel KODUR bearbeitet nun #672 
+ --> Saftige Kekse [13.26](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #673 
+ --> Leckere Papaya [12.66](Gesund :ja)
 ----------------------------------------
 Runde 174
-Gelber Wichtel BORWEL bearbeitet nun #615 
- --> Rote Unterbuxe [3.17](Eleganz: 14)
-Roter Wichtel EORLUMA bearbeitet nun #616 
- --> Aromatischer Tee [7.39](Gesund :nein)
-Roter Wichtel GEROSJOLA bearbeitet nun #617 
- --> Zipfelige Muetze [0.68](Eleganz: 16)
+Blauer Wichtel DURBOR bearbeitet nun #674 
+ --> Schnelles Kartenspiel [6.52](Spannung: 13.691999999999998)
+Roter Wichtel YIFITAZSETI bearbeitet nun #675 
+ --> Zipfelige Muetze [4.42](Eleganz: 16)
+Roter Wichtel HATITAZLE bearbeitet nun #676 
+ --> Knusprige Kekse [6.21](Gesund :ja)
+Blauer Wichtel ROMINOROPO bearbeitet nun #677 
+ --> Schnelles Auto [19.8]
+Gelber Wichtel TAZWELUMA bearbeitet nun #678 
+ --> Lange Struempfe [1.99](Eleganz: 15)
 ----------------------------------------
 Runde 175
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #618 
- --> Interessantes Brettspiel [6.89](Spannung: 16.535999999999998)
-Blauer Wichtel KOMUGEROS bearbeitet nun #619 
- --> Schnelles Auto [2.0](Spannung: 2.8)
-Gelber Wichtel FRIIOTI bearbeitet nun #620 
- --> Knusprige Kekse [0.86](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #621 
- --> Leckere Papaya [10.27](Gesund :ja)
+Blauer Wichtel NORARI bearbeitet nun #679 
+ --> Duftende Badesalze [20.51]
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #680 
+ --> Warme Socken [2.68](Eleganz: 12)
+Roter Wichtel NORTAZ bearbeitet nun #681 
+ --> Dicker Pullover [3.02](Eleganz: 15)
+Gelber Wichtel TAZJOLA bearbeitet nun #682 
+ --> Schnelles Auto [13.93]
 ----------------------------------------
 Runde 176
-Blauer Wichtel TAZUMAFRI bearbeitet nun #622 
- --> Schoko-Nikolaus [5.72](Gesund :nein)
-Blauer Wichtel DURCARJOLA bearbeitet nun #623 
- --> Knusprige Kekse [8.5](Gesund :ja)
-Gelber Wichtel UMAMUARI bearbeitet nun #624 
- --> Leckerer Essensgutschein [10.14]
-Blauer Wichtel CARKONOR bearbeitet nun #625 
- --> Rote Unterbuxe [4.01](Eleganz: 14)
-Roter Wichtel SETIJOLA bearbeitet nun #626 
- --> Rasende Eisenbahn [4.88](Spannung: 8.296)
+Blauer Wichtel UMATAZ bearbeitet nun #683 
+ --> Schnelles Kartenspiel [0.87](Spannung: 1.827)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #684 
+ --> Leckere Papaya [12.96](Gesund :ja)
 ----------------------------------------
 Runde 177
-Roter Wichtel HATINORGEROS bearbeitet nun #627 
- --> Thermo-Ski-Unterwaesche [2.41](Eleganz: 23)
-Blauer Wichtel JOLAKO bearbeitet nun #628 
- --> Leckere Papaya [14.52](Gesund :ja)
-Blauer Wichtel KOMUGEROS bearbeitet nun #629 
- --> Interessantes Brettspiel [7.92](Spannung: 19.008)
-Gelber Wichtel GEROSHATI bearbeitet nun #630 
- --> Thermo-Ski-Unterwaesche [3.54](Eleganz: 23)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #685 
+ --> Spannendes Buch [16.44]
+Blauer Wichtel UMATAZ bearbeitet nun #686 
+ --> Dicker Pullover [1.57](Eleganz: 15)
+Roter Wichtel YIFITAZSETI bearbeitet nun #687 
+ --> Bequeme Hose [3.08](Eleganz: 12)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #688 
+ --> Knusprige Kekse [3.29](Gesund :nein)
+Roter Wichtel NORTAZ bearbeitet nun #689 
+ --> Leckerer Essensgutschein [16.59]
+Roter Wichtel EORLVARWEL bearbeitet nun #690 
+ --> Saftige Kekse [2.73](Gesund :ja)
+Gelber Wichtel ARIEORL bearbeitet nun #691 
+ --> Schoko-Nikolaus [2.17](Gesund :ja)
 ----------------------------------------
 Runde 178
-Roter Wichtel HATINORGEROS bearbeitet nun #631 
- --> Bequeme Hose [0.25](Eleganz: 12)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #632 
- --> Schnelles Auto [2.05](Spannung: 2.8699999999999997)
-Gelber Wichtel FRIIOTI bearbeitet nun #633 
- --> Selbstgemachtes Pesto [1.42](Gesund :nein)
+Blauer Wichtel DURBOR bearbeitet nun #692 
+ --> Leckerer Essensgutschein [3.48]
+Gelber Wichtel TAZVARXUL bearbeitet nun #693 
+ --> Rasende Eisenbahn [8.37](Spannung: 14.229)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #694 
+ --> Schnelles Auto [8.43](Spannung: 11.802)
 ----------------------------------------
 Runde 179
-Roter Wichtel HATINORGEROS bearbeitet nun #634 
- --> Grosser Bagger [5.07](Spannung: 7.098000000000001)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #635 
- --> Knusprige Kekse [2.61](Gesund :ja)
-Gelber Wichtel BORXULDUR bearbeitet nun #636 
- --> Leckerer Essensgutschein [7.68]
+Blauer Wichtel FRIOPOOPO bearbeitet nun #695 
+ --> Schoko-Nikolaus [0.57](Gesund :ja)
+Blauer Wichtel BORNOR bearbeitet nun #696 
+ --> Schnelles Auto [11.96]
+Roter Wichtel YIFITAZSETI bearbeitet nun #697 
+ --> Stacheliger Kaktus [21.13]
+Roter Wichtel EORLVARWEL bearbeitet nun #698 
+ --> Leckere Papaya [4.38](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #699 
+ --> Lange Struempfe [0.85](Eleganz: 15)
+Roter Wichtel HATITAZLE bearbeitet nun #700 
+ --> Aromatischer Tee [2.11](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #701 
+ --> Schnelles Auto [23.12]
+Gelber Wichtel TAZWELUMA bearbeitet nun #702 
+ --> Leckerer Essensgutschein [21.18]
 ----------------------------------------
 Runde 180
-Gelber Wichtel BORWEL bearbeitet nun #637 
- --> Schnelles Kartenspiel [3.67](Spannung: 7.706999999999999)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #638 
- --> Aromatischer Tee [14.9](Gesund :ja)
-Roter Wichtel EORLUMA bearbeitet nun #639 
- --> Rote Unterbuxe [0.49](Eleganz: 14)
+Roter Wichtel SETITAZ bearbeitet nun #703 
+ --> Stacheliger Kaktus [7.38]
+Roter Wichtel HATITAZLE bearbeitet nun #704 
+ --> Leckere Papaya [10.33](Gesund :ja)
 ----------------------------------------
 Runde 181
-Blauer Wichtel TAZKO bearbeitet nun #640 
- --> Saftige Kekse [3.14](Gesund :nein)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #641 
- --> Robuster Nussknacker [18.4]
-Roter Wichtel BORLECAR bearbeitet nun #642 
- --> Spannendes Buch [2.08]
-Roter Wichtel EORLUMA bearbeitet nun #643 
- --> Schnelles Auto [19.9]
-Gelber Wichtel FRIIOTI bearbeitet nun #644 
- --> Aromatischer Tee [13.77](Gesund :nein)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #705 
+ --> Dicker Pullover [0.96](Eleganz: 15)
+Gelber Wichtel ARIEORL bearbeitet nun #706 
+ --> Leckerer Essensgutschein [6.86]
+Roter Wichtel SETICARNOR bearbeitet nun #707 
+ --> Saftige Kekse [1.41](Gesund :nein)
 ----------------------------------------
 Runde 182
-Blauer Wichtel CARCAR bearbeitet nun #645 
- --> Leckerer Essensgutschein [3.33]
-Blauer Wichtel TAZEORL bearbeitet nun #646 
- --> Stacheliger Kaktus [2.1]
-Blauer Wichtel KOMUGEROS bearbeitet nun #647 
- --> Schnelles Auto [1.72](Spannung: 2.408)
-Roter Wichtel BORLECAR bearbeitet nun #648 
- --> Thermo-Ski-Unterwaesche [1.69](Eleganz: 23)
-Gelber Wichtel OPOGEROS bearbeitet nun #649 
- --> Knusprige Kekse [11.06](Gesund :nein)
-Roter Wichtel SETIJOLA bearbeitet nun #650 
- --> Duftende Badesalze [9.15]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #651 
- --> Leckere Papaya [10.82](Gesund :ja)
+Roter Wichtel EORLVARWEL bearbeitet nun #708 
+ --> Aromatischer Tee [14.79](Gesund :ja)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #709 
+ --> Leckere Papaya [8.37](Gesund :ja)
+Roter Wichtel SETICARNOR bearbeitet nun #710 
+ --> Rasende Eisenbahn [5.88](Spannung: 9.995999999999999)
 ----------------------------------------
 Runde 183
-Roter Wichtel BORLECAR bearbeitet nun #652 
- --> Aromatischer Tee [11.12](Gesund :nein)
+Roter Wichtel MUDURSETI bearbeitet nun #711 
+ --> Zipfelige Muetze [1.44](Eleganz: 16)
+Blauer Wichtel UMATAZ bearbeitet nun #712 
+ --> Schnelles Auto [0.27](Spannung: 0.378)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #713 
+ --> Kuscheliger Schal [0.54](Eleganz: 17)
 ----------------------------------------
 Runde 184
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #653 
- --> Robuster Nussknacker [11.47]
-Blauer Wichtel KOMUGEROS bearbeitet nun #654 
- --> Spannendes Buch [8.45]
-Gelber Wichtel GEROSHATI bearbeitet nun #655 
- --> Bequeme Hose [3.52](Eleganz: 12)
-Blauer Wichtel CARKONOR bearbeitet nun #656 
- --> Leckerer Essensgutschein [22.76]
-Roter Wichtel GEROSJOLA bearbeitet nun #657 
- --> Dicker Pullover [1.69](Eleganz: 15)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #714 
+ --> Aromatischer Tee [7.84](Gesund :nein)
+Roter Wichtel MUDURSETI bearbeitet nun #715 
+ --> Leckerer Essensgutschein [2.99]
+Blauer Wichtel UMATAZ bearbeitet nun #716 
+ --> Knusprige Kekse [14.09](Gesund :ja)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #717 
+ --> Schnelles Auto [1.18](Spannung: 1.652)
 ----------------------------------------
 Runde 185
-Roter Wichtel HATINORGEROS bearbeitet nun #658 
- --> Leckere Papaya [11.78](Gesund :nein)
-Roter Wichtel XULBOR bearbeitet nun #659 
- --> Selbstgemachtes Pesto [4.86](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #660 
- --> Niedliche Puppe [4.56](Spannung: 6.839999999999999)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #718 
+ --> Leckere Papaya [14.7](Gesund :ja)
+Blauer Wichtel DURBOR bearbeitet nun #719 
+ --> Spannendes Buch [18.89]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #720 
+ --> Aromatischer Tee [7.83](Gesund :nein)
 ----------------------------------------
 Runde 186
-Blauer Wichtel WELGEROSFRI bearbeitet nun #661 
- --> Grosser Bagger [4.21](Spannung: 5.894)
-Gelber Wichtel BORWEL bearbeitet nun #662 
- --> Warme Socken [3.4](Eleganz: 12)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #663 
- --> Bequeme Hose [4.57](Eleganz: 12)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #664 
- --> Schnelles Auto [3.83](Spannung: 5.362)
+Roter Wichtel MUDURSETI bearbeitet nun #721 
+ --> Knusprige Kekse [7.36](Gesund :nein)
+Gelber Wichtel WELUMA bearbeitet nun #722 
+ --> Knusprige Kekse [3.86](Gesund :nein)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #723 
+ --> Leckerer Essensgutschein [11.54]
+Roter Wichtel SETITAZ bearbeitet nun #724 
+ --> Rote Unterbuxe [2.65](Eleganz: 14)
 ----------------------------------------
 Runde 187
-----------------------------------------
-Runde 188
-Blauer Wichtel TAZKO bearbeitet nun #665 
- --> Spannendes Buch [8.15]
-Blauer Wichtel TAZEORL bearbeitet nun #666 
- --> Schnelles Auto [14.18]
-Blauer Wichtel SETILE bearbeitet nun #667 
- --> Leckere Papaya [6.54](Gesund :ja)
-Gelber Wichtel UMAMUARI bearbeitet nun #668 
- --> Interessantes Brettspiel [0.04](Spannung: 0.096)
-Blauer Wichtel EORLMUFRI bearbeitet nun #669 
- --> Robuster Nussknacker [0.04]
-----------------------------------------
-Runde 189
-Blauer Wichtel WELGEROSFRI bearbeitet nun #670 
- --> Schnelles Kartenspiel [2.56](Spannung: 5.3759999999999994)
-Blauer Wichtel CARCAR bearbeitet nun #671 
- --> Schoko-Nikolaus [13.28](Gesund :nein)
-Blauer Wichtel DURCARJOLA bearbeitet nun #672 
- --> Thermo-Ski-Unterwaesche [2.36](Eleganz: 23)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #673 
- --> Rasende Eisenbahn [5.34](Spannung: 9.078)
-Gelber Wichtel BORXULDUR bearbeitet nun #674 
- --> Grosser Bagger [3.37](Spannung: 4.718)
-Roter Wichtel XULBOR bearbeitet nun #675 
- --> Dicker Pullover [3.83](Eleganz: 15)
-----------------------------------------
-Runde 190
-Roter Wichtel ROMIMUEORL bearbeitet nun #676 
- --> Lange Struempfe [4.66](Eleganz: 15)
-Roter Wichtel MUEORLTAZ bearbeitet nun #677 
- --> Leckere Papaya [5.89](Gesund :nein)
-Gelber Wichtel UMAMUARI bearbeitet nun #678 
- --> Duftende Badesalze [22.4]
-Roter Wichtel SETIJOLA bearbeitet nun #679 
- --> Zipfelige Muetze [0.6](Eleganz: 16)
-----------------------------------------
-Runde 191
-Blauer Wichtel WELGEROSFRI bearbeitet nun #680 
- --> Bequeme Hose [3.82](Eleganz: 12)
-Gelber Wichtel GEROSHATI bearbeitet nun #681 
- --> Duftende Badesalze [14.34]
-Roter Wichtel SETIJOLA bearbeitet nun #682 
- --> Robuster Nussknacker [3.29]
-Roter Wichtel GEROSJOLA bearbeitet nun #683 
- --> Schoko-Nikolaus [10.13](Gesund :ja)
-----------------------------------------
-Runde 192
-Gelber Wichtel BORWEL bearbeitet nun #684 
- --> Schnelles Kartenspiel [2.37](Spannung: 4.977)
-Roter Wichtel XULBOR bearbeitet nun #685 
- --> Schnelles Kartenspiel [9.28](Spannung: 19.488)
-Blauer Wichtel EORLMUFRI bearbeitet nun #686 
- --> Interessantes Brettspiel [1.9](Spannung: 4.56)
-----------------------------------------
-Runde 193
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #687 
- --> Spannendes Buch [5.36]
-Roter Wichtel BORLECAR bearbeitet nun #688 
- --> Stacheliger Kaktus [0.4]
-Roter Wichtel SETIJOLA bearbeitet nun #689 
- --> Spannendes Buch [19.79]
-----------------------------------------
-Runde 194
-Roter Wichtel ROMIMUEORL bearbeitet nun #690 
- --> Schnelles Kartenspiel [9.62](Spannung: 20.201999999999998)
-Roter Wichtel BORLECAR bearbeitet nun #691 
- --> Robuster Nussknacker [19.32]
-Gelber Wichtel BORXULDUR bearbeitet nun #692 
- --> Grosser Bagger [2.6](Spannung: 3.6399999999999997)
-Blauer Wichtel EORLMUFRI bearbeitet nun #693 
- --> Niedliche Puppe [4.73](Spannung: 7.095000000000001)
-----------------------------------------
-Runde 195
-Roter Wichtel MUEORLTAZ bearbeitet nun #694 
- --> Spannendes Buch [20.69]
-Blauer Wichtel TAZUMAFRI bearbeitet nun #695 
- --> Dicker Pullover [2.71](Eleganz: 15)
-Blauer Wichtel DURCARJOLA bearbeitet nun #696 
- --> Stacheliger Kaktus [22.34]
-Gelber Wichtel OPOGEROS bearbeitet nun #697 
- --> Zipfelige Muetze [0.41](Eleganz: 16)
-----------------------------------------
-Runde 196
-Gelber Wichtel BORWEL bearbeitet nun #698 
- --> Zipfelige Muetze [3.42](Eleganz: 16)
-Roter Wichtel HATINORGEROS bearbeitet nun #699 
- --> Schnelles Kartenspiel [1.79](Spannung: 3.7590000000000003)
-Blauer Wichtel JOLAKO bearbeitet nun #700 
- --> Gemaltes Memory [1.05](Spannung: 1.575)
-Blauer Wichtel KOMUGEROS bearbeitet nun #701 
- --> Leckerer Essensgutschein [23.55]
-----------------------------------------
-Runde 197
-Gelber Wichtel FRIIOTI bearbeitet nun #702 
- --> Robuster Nussknacker [19.23]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #703 
- --> Robuster Nussknacker [9.09]
-Blauer Wichtel EORLMUFRI bearbeitet nun #704 
+Blauer Wichtel GEROSLE bearbeitet nun #725 
  --> Schnelles Auto [4.41](Spannung: 6.174)
 ----------------------------------------
+Runde 188
+Gelber Wichtel KODUR bearbeitet nun #726 
+ --> Schnelles Auto [9.85](Spannung: 13.790000000000001)
+Gelber Wichtel TAZVARXUL bearbeitet nun #727 
+ --> Rote Unterbuxe [3.29](Eleganz: 14)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #728 
+ --> Kuscheliger Schal [1.91](Eleganz: 17)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #729 
+ --> Thermo-Ski-Unterwaesche [3.09](Eleganz: 23)
+Roter Wichtel SETITAZ bearbeitet nun #730 
+ --> Lange Struempfe [3.49](Eleganz: 15)
+----------------------------------------
+Runde 189
+Blauer Wichtel VARARISETI bearbeitet nun #731 
+ --> Selbstgemachtes Pesto [3.61](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #732 
+ --> Bequeme Hose [0.92](Eleganz: 12)
+Roter Wichtel SETICARNOR bearbeitet nun #733 
+ --> Stacheliger Kaktus [23.77]
+----------------------------------------
+Runde 190
+Blauer Wichtel GEROSLE bearbeitet nun #734 
+ --> Stacheliger Kaktus [22.46]
+Roter Wichtel HATIIOTIDUR bearbeitet nun #735 
+ --> Dicker Pullover [3.0](Eleganz: 15)
+Roter Wichtel SETITAZ bearbeitet nun #736 
+ --> Leckere Papaya [10.04](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #737 
+ --> Knusprige Kekse [1.52](Gesund :nein)
+Gelber Wichtel ARIEORL bearbeitet nun #738 
+ --> Grosser Bagger [1.69](Spannung: 2.366)
+----------------------------------------
+Runde 191
+Gelber Wichtel TAZJOLA bearbeitet nun #739 
+ --> Bequeme Hose [1.25](Eleganz: 12)
+Roter Wichtel HATITAZLE bearbeitet nun #740 
+ --> Rote Unterbuxe [3.8](Eleganz: 14)
+----------------------------------------
+Runde 192
+Roter Wichtel MUDURSETI bearbeitet nun #741 
+ --> Robuster Nussknacker [7.6]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #742 
+ --> Schoko-Nikolaus [3.35](Gesund :nein)
+Gelber Wichtel WELUMA bearbeitet nun #743 
+ --> Leckere Papaya [5.65](Gesund :nein)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #744 
+ --> Thermo-Ski-Unterwaesche [3.37](Eleganz: 23)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #745 
+ --> Interessantes Brettspiel [5.8](Spannung: 13.919999999999998)
+----------------------------------------
+Runde 193
+Roter Wichtel NORTAZ bearbeitet nun #746 
+ --> Warme Socken [3.34](Eleganz: 12)
+----------------------------------------
+Runde 194
+Gelber Wichtel TAZVARXUL bearbeitet nun #747 
+ --> Grosser Bagger [4.38](Spannung: 6.132)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #748 
+ --> Leckere Papaya [6.82](Gesund :ja)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #749 
+ --> Interessantes Brettspiel [4.16](Spannung: 9.984)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #750 
+ --> Bequeme Hose [4.84](Eleganz: 12)
+Roter Wichtel HATITAZLE bearbeitet nun #751 
+ --> Leckere Papaya [12.64](Gesund :ja)
+Gelber Wichtel ARIEORL bearbeitet nun #752 
+ --> Gemaltes Memory [1.34](Spannung: 2.0100000000000002)
+----------------------------------------
+Runde 195
+Blauer Wichtel BORNOR bearbeitet nun #753 
+ --> Grosser Bagger [6.25](Spannung: 8.75)
+Blauer Wichtel WELWELJOLA bearbeitet nun #754 
+ --> Grosser Bagger [8.36](Spannung: 11.703999999999999)
+Roter Wichtel NORTAZ bearbeitet nun #755 
+ --> Leckere Papaya [14.52](Gesund :ja)
+Gelber Wichtel TAZJOLA bearbeitet nun #756 
+ --> Niedliche Puppe [8.55](Spannung: 12.825)
+----------------------------------------
+Runde 196
+Blauer Wichtel FRIOPOOPO bearbeitet nun #757 
+ --> Zipfelige Muetze [4.8](Eleganz: 16)
+Roter Wichtel EORLVARWEL bearbeitet nun #758 
+ --> Saftige Kekse [10.19](Gesund :ja)
+----------------------------------------
+Runde 197
+Blauer Wichtel YIFIMUCAR bearbeitet nun #759 
+ --> Aromatischer Tee [3.5](Gesund :nein)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #760 
+ --> Selbstgemachtes Pesto [13.83](Gesund :nein)
+Blauer Wichtel VARARISETI bearbeitet nun #761 
+ --> Stacheliger Kaktus [1.51]
+Gelber Wichtel ARIEORL bearbeitet nun #762 
+ --> Niedliche Puppe [1.05](Spannung: 1.575)
+----------------------------------------
 Runde 198
-Blauer Wichtel JOLAKO bearbeitet nun #705 
- --> Schnelles Auto [22.58]
-Gelber Wichtel OPOGEROS bearbeitet nun #706 
- --> Saftige Kekse [2.99](Gesund :ja)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #763 
+ --> Schnelles Kartenspiel [5.3](Spannung: 11.129999999999999)
+Blauer Wichtel ROMINOROPO bearbeitet nun #764 
+ --> Thermo-Ski-Unterwaesche [3.05](Eleganz: 23)
 ----------------------------------------
 Runde 199
-Blauer Wichtel WELGEROSFRI bearbeitet nun #707 
- --> Stacheliger Kaktus [20.52]
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #708 
- --> Niedliche Puppe [6.38](Spannung: 9.57)
-Roter Wichtel HATINORGEROS bearbeitet nun #709 
- --> Schoko-Nikolaus [7.73](Gesund :nein)
-Blauer Wichtel SETILE bearbeitet nun #710 
- --> Interessantes Brettspiel [8.51](Spannung: 20.424)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #711 
- --> Selbstgemachtes Pesto [0.68](Gesund :ja)
-Gelber Wichtel BORXULDUR bearbeitet nun #712 
- --> Gemaltes Memory [2.42](Spannung: 3.63)
+Roter Wichtel MUDURSETI bearbeitet nun #765 
+ --> Rote Unterbuxe [3.23](Eleganz: 14)
+Blauer Wichtel BORNOR bearbeitet nun #766 
+ --> Rote Unterbuxe [4.41](Eleganz: 14)
+Roter Wichtel YIFITAZSETI bearbeitet nun #767 
+ --> Schoko-Nikolaus [14.24](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #768 
+ --> Knusprige Kekse [6.71](Gesund :ja)
 ----------------------------------------
 Runde 200
-Blauer Wichtel TAZKO bearbeitet nun #713 
- --> Rasende Eisenbahn [6.2](Spannung: 10.540000000000001)
-Roter Wichtel EORLUMA bearbeitet nun #714 
- --> Grosser Bagger [6.22](Spannung: 8.708)
-Roter Wichtel GEROSJOLA bearbeitet nun #715 
- --> Stacheliger Kaktus [21.74]
-Blauer Wichtel EORLMUFRI bearbeitet nun #716 
- --> Saftige Kekse [4.52](Gesund :ja)
+Blauer Wichtel NORARI bearbeitet nun #769 
+ --> Aromatischer Tee [0.37](Gesund :ja)
+Gelber Wichtel KODUR bearbeitet nun #770 
+ --> Schoko-Nikolaus [8.07](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #771 
+ --> Grosser Bagger [1.02](Spannung: 1.4280000000000002)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #772 
+ --> Gemaltes Memory [7.21](Spannung: 10.815000000000001)
+Gelber Wichtel WELUMA bearbeitet nun #773 
+ --> Knusprige Kekse [0.15](Gesund :ja)
+Blauer Wichtel WELWELJOLA bearbeitet nun #774 
+ --> Schnelles Kartenspiel [9.39](Spannung: 19.719)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #775 
+ --> Rasende Eisenbahn [2.14](Spannung: 3.6380000000000003)
+Gelber Wichtel ARIEORL bearbeitet nun #776 
+ --> Kuscheliger Schal [4.54](Eleganz: 17)
 ----------------------------------------
 Runde 201
+Roter Wichtel MUDURSETI bearbeitet nun #777 
+ --> Gemaltes Memory [7.58](Spannung: 11.370000000000001)
+Roter Wichtel CARMU bearbeitet nun #778 
+ --> Spannendes Buch [22.95]
 ----------------------------------------
 Runde 202
-Gelber Wichtel BORWEL bearbeitet nun #717 
- --> Saftige Kekse [10.2](Gesund :ja)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #718 
- --> Schoko-Nikolaus [5.02](Gesund :nein)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #719 
- --> Thermo-Ski-Unterwaesche [0.45](Eleganz: 23)
-Roter Wichtel XULBOR bearbeitet nun #720 
- --> Schoko-Nikolaus [1.82](Gesund :nein)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #779 
+ --> Gemaltes Memory [0.29](Spannung: 0.43499999999999994)
+Blauer Wichtel UMATAZ bearbeitet nun #780 
+ --> Schnelles Kartenspiel [6.4](Spannung: 13.440000000000001)
+Gelber Wichtel WELUMA bearbeitet nun #781 
+ --> Warme Socken [2.94](Eleganz: 12)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #782 
+ --> Selbstgemachtes Pesto [6.26](Gesund :ja)
+Gelber Wichtel TAZWELUMA bearbeitet nun #783 
+ --> Warme Socken [0.78](Eleganz: 12)
 ----------------------------------------
 Runde 203
-Blauer Wichtel SETIIOTISETI bearbeitet nun #721 
- --> Gemaltes Memory [6.53](Spannung: 9.795)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #722 
- --> Grosser Bagger [7.09](Spannung: 9.925999999999998)
-Gelber Wichtel OPOGEROS bearbeitet nun #723 
- --> Schnelles Auto [23.38]
-Gelber Wichtel BORXULDUR bearbeitet nun #724 
- --> Interessantes Brettspiel [1.02](Spannung: 2.448)
-Roter Wichtel XULBOR bearbeitet nun #725 
- --> Selbstgemachtes Pesto [1.44](Gesund :nein)
+Gelber Wichtel TAZVARXUL bearbeitet nun #784 
+ --> Knusprige Kekse [9.76](Gesund :nein)
+Blauer Wichtel VARARISETI bearbeitet nun #785 
+ --> Spannendes Buch [12.46]
 ----------------------------------------
 Runde 204
-Blauer Wichtel TAZKO bearbeitet nun #726 
- --> Leckerer Essensgutschein [9.24]
-Blauer Wichtel SETILE bearbeitet nun #727 
- --> Leckere Papaya [0.28](Gesund :ja)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #728 
- --> Rasende Eisenbahn [8.94](Spannung: 15.197999999999999)
-Roter Wichtel XULBOR bearbeitet nun #729 
- --> Gemaltes Memory [3.7](Spannung: 5.55)
+Blauer Wichtel NORARI bearbeitet nun #786 
+ --> Interessantes Brettspiel [8.45](Spannung: 20.279999999999998)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #787 
+ --> Selbstgemachtes Pesto [0.97](Gesund :ja)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #788 
+ --> Kuscheliger Schal [0.04](Eleganz: 17)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #789 
+ --> Leckerer Essensgutschein [10.91]
 ----------------------------------------
 Runde 205
-Roter Wichtel ROMIMUEORL bearbeitet nun #730 
- --> Thermo-Ski-Unterwaesche [1.52](Eleganz: 23)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #790 
+ --> Rote Unterbuxe [1.28](Eleganz: 14)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #791 
+ --> Selbstgemachtes Pesto [0.06](Gesund :ja)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #792 
+ --> Schnelles Kartenspiel [3.28](Spannung: 6.888)
+Roter Wichtel EORLVARWEL bearbeitet nun #793 
+ --> Gemaltes Memory [2.8](Spannung: 4.2)
+Roter Wichtel SETITAZ bearbeitet nun #794 
+ --> Warme Socken [3.02](Eleganz: 12)
+Blauer Wichtel ROMINOROPO bearbeitet nun #795 
+ --> Saftige Kekse [13.93](Gesund :nein)
 ----------------------------------------
 Runde 206
-Roter Wichtel ROMIMUEORL bearbeitet nun #731 
- --> Rote Unterbuxe [4.31](Eleganz: 14)
-Roter Wichtel HATINORGEROS bearbeitet nun #732 
- --> Schnelles Auto [5.94](Spannung: 8.316)
-Blauer Wichtel CARCAR bearbeitet nun #733 
- --> Thermo-Ski-Unterwaesche [1.55](Eleganz: 23)
-Blauer Wichtel TAZEORL bearbeitet nun #734 
- --> Warme Socken [1.15](Eleganz: 12)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #735 
- --> Bequeme Hose [3.72](Eleganz: 12)
-Gelber Wichtel BORXULDUR bearbeitet nun #736 
- --> Schnelles Auto [11.11]
+Blauer Wichtel UMATAZ bearbeitet nun #796 
+ --> Duftende Badesalze [2.67]
+Blauer Wichtel WELWELJOLA bearbeitet nun #797 
+ --> Saftige Kekse [1.04](Gesund :nein)
+Gelber Wichtel TAZJOLA bearbeitet nun #798 
+ --> Leckerer Essensgutschein [2.17]
+Roter Wichtel HATITAZLE bearbeitet nun #799 
+ --> Rasende Eisenbahn [4.92](Spannung: 8.364)
+Gelber Wichtel TAZWELUMA bearbeitet nun #800 
+ --> Bequeme Hose [1.62](Eleganz: 12)
 ----------------------------------------
 Runde 207
-Blauer Wichtel SETIIOTISETI bearbeitet nun #737 
- --> Rasende Eisenbahn [2.46](Spannung: 4.182)
-Roter Wichtel EORLUMA bearbeitet nun #738 
- --> Schoko-Nikolaus [6.3](Gesund :ja)
-Gelber Wichtel GEROSHATI bearbeitet nun #739 
- --> Bequeme Hose [3.79](Eleganz: 12)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #801 
+ --> Warme Socken [1.76](Eleganz: 12)
+Blauer Wichtel BORNOR bearbeitet nun #802 
+ --> Dicker Pullover [1.48](Eleganz: 15)
+Roter Wichtel SETITAZ bearbeitet nun #803 
+ --> Spannendes Buch [12.54]
 ----------------------------------------
 Runde 208
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #740 
- --> Rasende Eisenbahn [1.57](Spannung: 2.669)
-Blauer Wichtel SETILE bearbeitet nun #741 
- --> Stacheliger Kaktus [4.81]
+Blauer Wichtel DURBOR bearbeitet nun #804 
+ --> Leckere Papaya [10.0](Gesund :ja)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #805 
+ --> Knusprige Kekse [3.88](Gesund :nein)
+Gelber Wichtel WELUMA bearbeitet nun #806 
+ --> Saftige Kekse [9.88](Gesund :nein)
+Gelber Wichtel ARIEORL bearbeitet nun #807 
+ --> Niedliche Puppe [1.95](Spannung: 2.925)
 ----------------------------------------
 Runde 209
-Roter Wichtel ROMIMUEORL bearbeitet nun #742 
- --> Thermo-Ski-Unterwaesche [2.73](Eleganz: 23)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #743 
- --> Robuster Nussknacker [23.05]
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #744 
- --> Schnelles Kartenspiel [6.97](Spannung: 14.637)
-Roter Wichtel XULBOR bearbeitet nun #745 
- --> Robuster Nussknacker [6.56]
-Blauer Wichtel EORLMUFRI bearbeitet nun #746 
- --> Schoko-Nikolaus [3.43](Gesund :nein)
+Blauer Wichtel NORARI bearbeitet nun #808 
+ --> Interessantes Brettspiel [7.26](Spannung: 17.424)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #809 
+ --> Rasende Eisenbahn [0.85](Spannung: 1.4449999999999998)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #810 
+ --> Knusprige Kekse [14.54](Gesund :ja)
+Roter Wichtel NORTAZ bearbeitet nun #811 
+ --> Stacheliger Kaktus [16.15]
+Roter Wichtel EORLVARWEL bearbeitet nun #812 
+ --> Stacheliger Kaktus [13.51]
 ----------------------------------------
 Runde 210
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #747 
- --> Knusprige Kekse [3.53](Gesund :nein)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #748 
- --> Thermo-Ski-Unterwaesche [2.49](Eleganz: 23)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #813 
+ --> Bequeme Hose [2.85](Eleganz: 12)
+Roter Wichtel MUDURSETI bearbeitet nun #814 
+ --> Selbstgemachtes Pesto [1.4](Gesund :nein)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #815 
+ --> Kuscheliger Schal [2.8](Eleganz: 17)
+Gelber Wichtel KODUR bearbeitet nun #816 
+ --> Thermo-Ski-Unterwaesche [4.03](Eleganz: 23)
+Gelber Wichtel TAZJOLA bearbeitet nun #817 
+ --> Grosser Bagger [3.34](Spannung: 4.676)
 ----------------------------------------
 Runde 211
-Roter Wichtel ROMIMUEORL bearbeitet nun #749 
- --> Aromatischer Tee [1.63](Gesund :nein)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #750 
- --> Robuster Nussknacker [6.05]
-Blauer Wichtel TAZEORL bearbeitet nun #751 
- --> Duftende Badesalze [18.32]
-Blauer Wichtel CARKONOR bearbeitet nun #752 
- --> Zipfelige Muetze [3.5](Eleganz: 16)
+Roter Wichtel MUDURSETI bearbeitet nun #818 
+ --> Interessantes Brettspiel [7.63](Spannung: 18.312)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #819 
+ --> Grosser Bagger [2.49](Spannung: 3.4859999999999998)
+Blauer Wichtel WELWELJOLA bearbeitet nun #820 
+ --> Selbstgemachtes Pesto [2.96](Gesund :ja)
+Gelber Wichtel TAZWELUMA bearbeitet nun #821 
+ --> Warme Socken [0.01](Eleganz: 12)
 ----------------------------------------
 Runde 212
-Roter Wichtel ROMIMUEORL bearbeitet nun #753 
- --> Lange Struempfe [3.33](Eleganz: 15)
-Blauer Wichtel CARCAR bearbeitet nun #754 
- --> Stacheliger Kaktus [15.9]
-Roter Wichtel BORLECAR bearbeitet nun #755 
- --> Duftende Badesalze [0.77]
-Roter Wichtel EORLUMA bearbeitet nun #756 
- --> Niedliche Puppe [1.78](Spannung: 2.67)
-Roter Wichtel SETIJOLA bearbeitet nun #757 
- --> Saftige Kekse [9.05](Gesund :nein)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #822 
+ --> Rote Unterbuxe [2.12](Eleganz: 14)
+Blauer Wichtel BORNOR bearbeitet nun #823 
+ --> Schnelles Kartenspiel [7.03](Spannung: 14.763)
+Roter Wichtel YIFITAZSETI bearbeitet nun #824 
+ --> Gemaltes Memory [7.58](Spannung: 11.370000000000001)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #825 
+ --> Schnelles Auto [3.2](Spannung: 4.48)
+Roter Wichtel HATITAZLE bearbeitet nun #826 
+ --> Spannendes Buch [11.59]
+Gelber Wichtel ARIEORL bearbeitet nun #827 
+ --> Rote Unterbuxe [2.74](Eleganz: 14)
+Roter Wichtel SETICARNOR bearbeitet nun #828 
+ --> Zipfelige Muetze [0.05](Eleganz: 16)
 ----------------------------------------
 Runde 213
-Roter Wichtel HATINORGEROS bearbeitet nun #758 
- --> Robuster Nussknacker [1.42]
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #759 
- --> Bequeme Hose [0.87](Eleganz: 12)
-Roter Wichtel BORLECAR bearbeitet nun #760 
- --> Aromatischer Tee [14.23](Gesund :ja)
+Blauer Wichtel UMATAZ bearbeitet nun #829 
+ --> Schnelles Auto [0.71](Spannung: 0.994)
+Roter Wichtel SETICARNOR bearbeitet nun #830 
+ --> Schnelles Auto [3.52](Spannung: 4.928)
 ----------------------------------------
 Runde 214
-Roter Wichtel ROMIMUEORL bearbeitet nun #761 
- --> Knusprige Kekse [2.44](Gesund :ja)
-Gelber Wichtel BORWEL bearbeitet nun #762 
- --> Aromatischer Tee [3.23](Gesund :nein)
-Roter Wichtel HATINORGEROS bearbeitet nun #763 
- --> Thermo-Ski-Unterwaesche [2.44](Eleganz: 23)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #764 
- --> Aromatischer Tee [10.19](Gesund :ja)
-Gelber Wichtel UMAMUARI bearbeitet nun #765 
- --> Schnelles Kartenspiel [6.37](Spannung: 13.377)
-Gelber Wichtel GEROSHATI bearbeitet nun #766 
- --> Leckere Papaya [3.24](Gesund :nein)
+Blauer Wichtel NORARI bearbeitet nun #831 
+ --> Niedliche Puppe [4.65](Spannung: 6.975)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #832 
+ --> Knusprige Kekse [14.97](Gesund :ja)
+Blauer Wichtel UMATAZ bearbeitet nun #833 
+ --> Niedliche Puppe [2.21](Spannung: 3.315)
+Gelber Wichtel TAZWELUMA bearbeitet nun #834 
+ --> Bequeme Hose [4.58](Eleganz: 12)
 ----------------------------------------
 Runde 215
-Roter Wichtel ROMIMUEORL bearbeitet nun #767 
- --> Knusprige Kekse [4.11](Gesund :ja)
-Roter Wichtel MUEORLTAZ bearbeitet nun #768 
- --> Schnelles Auto [2.0](Spannung: 2.8)
-Roter Wichtel HATINORGEROS bearbeitet nun #769 
- --> Kuscheliger Schal [1.4](Eleganz: 17)
-Roter Wichtel EORLUMA bearbeitet nun #770 
- --> Stacheliger Kaktus [23.25]
-Roter Wichtel XULBOR bearbeitet nun #771 
- --> Schoko-Nikolaus [0.09](Gesund :ja)
+Gelber Wichtel TAZVARXUL bearbeitet nun #835 
+ --> Spannendes Buch [8.99]
+Blauer Wichtel HATIEORLROMI bearbeitet nun #836 
+ --> Kuscheliger Schal [3.53](Eleganz: 17)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #837 
+ --> Spannendes Buch [15.29]
+Gelber Wichtel TAZJOLA bearbeitet nun #838 
+ --> Dicker Pullover [4.18](Eleganz: 15)
 ----------------------------------------
 Runde 216
-Roter Wichtel HATINORGEROS bearbeitet nun #772 
- --> Interessantes Brettspiel [3.48](Spannung: 8.352)
-Roter Wichtel XULBOR bearbeitet nun #773 
- --> Stacheliger Kaktus [21.18]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #774 
- --> Leckere Papaya [6.64](Gesund :ja)
-Blauer Wichtel EORLMUFRI bearbeitet nun #775 
- --> Gemaltes Memory [8.06](Spannung: 12.09)
+Blauer Wichtel GEROSLE bearbeitet nun #839 
+ --> Robuster Nussknacker [17.88]
+Blauer Wichtel UMATAZ bearbeitet nun #840 
+ --> Knusprige Kekse [12.61](Gesund :ja)
 ----------------------------------------
 Runde 217
-Blauer Wichtel TAZKO bearbeitet nun #776 
- --> Knusprige Kekse [11.15](Gesund :nein)
-Blauer Wichtel SETILE bearbeitet nun #777 
- --> Grosser Bagger [6.98](Spannung: 9.772)
+Blauer Wichtel NORARI bearbeitet nun #841 
+ --> Interessantes Brettspiel [5.48](Spannung: 13.152000000000001)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #842 
+ --> Niedliche Puppe [6.05](Spannung: 9.075)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #843 
+ --> Robuster Nussknacker [16.81]
+Blauer Wichtel YIFIMUCAR bearbeitet nun #844 
+ --> Rasende Eisenbahn [5.42](Spannung: 9.214)
+Gelber Wichtel KODUR bearbeitet nun #845 
+ --> Niedliche Puppe [4.71](Spannung: 7.065)
+Blauer Wichtel BORNOR bearbeitet nun #846 
+ --> Duftende Badesalze [15.99]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #847 
+ --> Interessantes Brettspiel [6.04](Spannung: 14.496)
 ----------------------------------------
 Runde 218
-Roter Wichtel ROMIMUEORL bearbeitet nun #778 
- --> Selbstgemachtes Pesto [2.68](Gesund :ja)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #779 
- --> Bequeme Hose [0.49](Eleganz: 12)
-Roter Wichtel MUEORLTAZ bearbeitet nun #780 
- --> Robuster Nussknacker [10.05]
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #781 
- --> Robuster Nussknacker [5.42]
-Gelber Wichtel FRIIOTI bearbeitet nun #782 
- --> Kuscheliger Schal [4.59](Eleganz: 17)
+Blauer Wichtel WELWELJOLA bearbeitet nun #848 
+ --> Rote Unterbuxe [4.93](Eleganz: 14)
+Gelber Wichtel ARIEORL bearbeitet nun #849 
+ --> Stacheliger Kaktus [11.1]
+Roter Wichtel SETICARNOR bearbeitet nun #850 
+ --> Lange Struempfe [2.19](Eleganz: 15)
 ----------------------------------------
 Runde 219
-Gelber Wichtel BORWEL bearbeitet nun #783 
- --> Niedliche Puppe [8.87](Spannung: 13.304999999999998)
-Gelber Wichtel GEROSHATI bearbeitet nun #784 
- --> Knusprige Kekse [9.4](Gesund :nein)
-Blauer Wichtel CARKONOR bearbeitet nun #785 
- --> Lange Struempfe [4.17](Eleganz: 15)
-Gelber Wichtel BORXULDUR bearbeitet nun #786 
- --> Kuscheliger Schal [3.82](Eleganz: 17)
+Blauer Wichtel VARARISETI bearbeitet nun #851 
+ --> Saftige Kekse [4.42](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #852 
+ --> Kuscheliger Schal [4.92](Eleganz: 17)
+Roter Wichtel SETICARNOR bearbeitet nun #853 
+ --> Duftende Badesalze [24.9]
 ----------------------------------------
 Runde 220
-Roter Wichtel ROMIMUEORL bearbeitet nun #787 
- --> Stacheliger Kaktus [13.33]
-Roter Wichtel HATINORGEROS bearbeitet nun #788 
- --> Niedliche Puppe [9.07](Spannung: 13.605)
-Roter Wichtel SETIJOLA bearbeitet nun #789 
- --> Selbstgemachtes Pesto [8.53](Gesund :ja)
+Roter Wichtel MUDURSETI bearbeitet nun #854 
+ --> Bequeme Hose [2.63](Eleganz: 12)
+Gelber Wichtel WELUMA bearbeitet nun #855 
+ --> Schoko-Nikolaus [3.38](Gesund :nein)
 ----------------------------------------
 Runde 221
-Blauer Wichtel TAZUMAFRI bearbeitet nun #790 
- --> Schoko-Nikolaus [1.05](Gesund :nein)
-Blauer Wichtel DURCARJOLA bearbeitet nun #791 
- --> Leckere Papaya [12.29](Gesund :ja)
-Blauer Wichtel SETILE bearbeitet nun #792 
- --> Rote Unterbuxe [4.65](Eleganz: 14)
-Roter Wichtel GEROSJOLA bearbeitet nun #793 
- --> Grosser Bagger [8.82](Spannung: 12.348)
-Blauer Wichtel EORLMUFRI bearbeitet nun #794 
- --> Zipfelige Muetze [4.53](Eleganz: 16)
+Blauer Wichtel NORARI bearbeitet nun #856 
+ --> Schoko-Nikolaus [1.65](Gesund :nein)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #857 
+ --> Schoko-Nikolaus [13.14](Gesund :nein)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #858 
+ --> Gemaltes Memory [9.97](Spannung: 14.955000000000002)
+Roter Wichtel YIFITAZSETI bearbeitet nun #859 
+ --> Stacheliger Kaktus [22.39]
 ----------------------------------------
 Runde 222
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #795 
- --> Zipfelige Muetze [3.56](Eleganz: 16)
-Gelber Wichtel UMAMUARI bearbeitet nun #796 
- --> Stacheliger Kaktus [17.24]
+Roter Wichtel MUDURSETI bearbeitet nun #860 
+ --> Dicker Pullover [4.64](Eleganz: 15)
+Blauer Wichtel DURBOR bearbeitet nun #861 
+ --> Saftige Kekse [3.84](Gesund :nein)
+Roter Wichtel EORLVARWEL bearbeitet nun #862 
+ --> Selbstgemachtes Pesto [10.46](Gesund :ja)
+Gelber Wichtel TAZJOLA bearbeitet nun #863 
+ --> Saftige Kekse [8.67](Gesund :ja)
+Gelber Wichtel TAZWELUMA bearbeitet nun #864 
+ --> Schoko-Nikolaus [2.12](Gesund :ja)
 ----------------------------------------
 Runde 223
+Blauer Wichtel HATIEORLROMI bearbeitet nun #865 
+ --> Lange Struempfe [2.27](Eleganz: 15)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #866 
+ --> Spannendes Buch [22.35]
+Roter Wichtel SETITAZ bearbeitet nun #867 
+ --> Interessantes Brettspiel [5.53](Spannung: 13.272)
+Roter Wichtel HATITAZLE bearbeitet nun #868 
+ --> Niedliche Puppe [2.83](Spannung: 4.245)
+Blauer Wichtel ROMINOROPO bearbeitet nun #869 
+ --> Duftende Badesalze [20.56]
+Roter Wichtel CARMU bearbeitet nun #870 
+ --> Schoko-Nikolaus [7.42](Gesund :nein)
 ----------------------------------------
 Runde 224
-Blauer Wichtel WELGEROSFRI bearbeitet nun #797 
- --> Warme Socken [0.28](Eleganz: 12)
-Blauer Wichtel KOMUGEROS bearbeitet nun #798 
- --> Rote Unterbuxe [0.18](Eleganz: 14)
+Gelber Wichtel KODUR bearbeitet nun #871 
+ --> Selbstgemachtes Pesto [4.49](Gesund :ja)
+Roter Wichtel NORTAZ bearbeitet nun #872 
+ --> Schoko-Nikolaus [14.63](Gesund :ja)
 ----------------------------------------
 Runde 225
-Blauer Wichtel JOLAKO bearbeitet nun #799 
- --> Rote Unterbuxe [3.24](Eleganz: 14)
+Gelber Wichtel WELUMA bearbeitet nun #873 
+ --> Gemaltes Memory [3.52](Spannung: 5.279999999999999)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #874 
+ --> Gemaltes Memory [8.38](Spannung: 12.570000000000002)
 ----------------------------------------
 Runde 226
-Blauer Wichtel TAZUMAFRI bearbeitet nun #800 
- --> Leckerer Essensgutschein [17.54]
-Roter Wichtel BORLECAR bearbeitet nun #801 
- --> Rote Unterbuxe [3.98](Eleganz: 14)
-Gelber Wichtel BORXULDUR bearbeitet nun #802 
- --> Saftige Kekse [2.13](Gesund :ja)
-Gelber Wichtel FRIIOTI bearbeitet nun #803 
- --> Robuster Nussknacker [16.3]
+Roter Wichtel MUDURSETI bearbeitet nun #875 
+ --> Aromatischer Tee [7.5](Gesund :nein)
+Gelber Wichtel TAZVARXUL bearbeitet nun #876 
+ --> Schnelles Kartenspiel [2.89](Spannung: 6.069000000000001)
+Gelber Wichtel TAZWELUMA bearbeitet nun #877 
+ --> Stacheliger Kaktus [14.62]
 ----------------------------------------
 Runde 227
-Roter Wichtel MUEORLTAZ bearbeitet nun #804 
- --> Stacheliger Kaktus [23.9]
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #805 
- --> Schoko-Nikolaus [13.2](Gesund :nein)
-Blauer Wichtel CARKONOR bearbeitet nun #806 
- --> Schnelles Auto [21.71]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #807 
- --> Thermo-Ski-Unterwaesche [4.55](Eleganz: 23)
+Blauer Wichtel NORARI bearbeitet nun #878 
+ --> Niedliche Puppe [6.94](Spannung: 10.41)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #879 
+ --> Stacheliger Kaktus [7.03]
+Blauer Wichtel WELWELJOLA bearbeitet nun #880 
+ --> Thermo-Ski-Unterwaesche [2.73](Eleganz: 23)
+Blauer Wichtel VARARISETI bearbeitet nun #881 
+ --> Kuscheliger Schal [3.78](Eleganz: 17)
+Roter Wichtel HATITAZLE bearbeitet nun #882 
+ --> Grosser Bagger [6.41](Spannung: 8.974)
 ----------------------------------------
 Runde 228
-Blauer Wichtel WELGEROSFRI bearbeitet nun #808 
- --> Schnelles Kartenspiel [9.4](Spannung: 19.740000000000002)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #809 
- --> Aromatischer Tee [11.47](Gesund :nein)
-Blauer Wichtel KOMUGEROS bearbeitet nun #810 
- --> Saftige Kekse [1.76](Gesund :nein)
-Gelber Wichtel OPOGEROS bearbeitet nun #811 
- --> Leckere Papaya [14.0](Gesund :ja)
-Roter Wichtel SETIJOLA bearbeitet nun #812 
- --> Stacheliger Kaktus [16.12]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #883 
+ --> Dicker Pullover [1.27](Eleganz: 15)
 ----------------------------------------
 Runde 229
-Roter Wichtel BORLECAR bearbeitet nun #813 
- --> Selbstgemachtes Pesto [7.21](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #884 
+ --> Dicker Pullover [3.36](Eleganz: 15)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #885 
+ --> Gemaltes Memory [9.26](Spannung: 13.89)
+Roter Wichtel CARMU bearbeitet nun #886 
+ --> Leckere Papaya [7.22](Gesund :nein)
 ----------------------------------------
 Runde 230
-Gelber Wichtel BORWEL bearbeitet nun #814 
- --> Selbstgemachtes Pesto [0.45](Gesund :ja)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #815 
- --> Interessantes Brettspiel [5.69](Spannung: 13.656)
-Roter Wichtel HATINORGEROS bearbeitet nun #816 
- --> Selbstgemachtes Pesto [5.84](Gesund :nein)
-Blauer Wichtel SETILE bearbeitet nun #817 
- --> Duftende Badesalze [12.91]
-Gelber Wichtel GEROSHATI bearbeitet nun #818 
- --> Leckerer Essensgutschein [11.93]
-Gelber Wichtel BORXULDUR bearbeitet nun #819 
- --> Interessantes Brettspiel [1.34](Spannung: 3.216)
-Blauer Wichtel EORLMUFRI bearbeitet nun #820 
- --> Rote Unterbuxe [3.81](Eleganz: 14)
+Blauer Wichtel DURBOR bearbeitet nun #887 
+ --> Leckere Papaya [14.12](Gesund :ja)
+Gelber Wichtel KODUR bearbeitet nun #888 
+ --> Spannendes Buch [18.05]
+Roter Wichtel SETITAZ bearbeitet nun #889 
+ --> Robuster Nussknacker [5.07]
 ----------------------------------------
 Runde 231
-Roter Wichtel GEROSJOLA bearbeitet nun #821 
- --> Knusprige Kekse [6.67](Gesund :ja)
+Blauer Wichtel NORARI bearbeitet nun #890 
+ --> Warme Socken [3.32](Eleganz: 12)
+Gelber Wichtel TAZVARXUL bearbeitet nun #891 
+ --> Thermo-Ski-Unterwaesche [4.03](Eleganz: 23)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #892 
+ --> Warme Socken [0.35](Eleganz: 12)
+Gelber Wichtel WELUMA bearbeitet nun #893 
+ --> Lange Struempfe [2.59](Eleganz: 15)
+Roter Wichtel EORLVARWEL bearbeitet nun #894 
+ --> Saftige Kekse [9.89](Gesund :nein)
+Gelber Wichtel ARIEORL bearbeitet nun #895 
+ --> Schoko-Nikolaus [14.51](Gesund :ja)
 ----------------------------------------
 Runde 232
-Blauer Wichtel TAZKO bearbeitet nun #822 
- --> Knusprige Kekse [2.5](Gesund :ja)
-Roter Wichtel ROMIMUEORL bearbeitet nun #823 
- --> Grosser Bagger [3.53](Spannung: 4.941999999999999)
-Gelber Wichtel BORWEL bearbeitet nun #824 
- --> Schnelles Kartenspiel [4.43](Spannung: 9.303)
-Blauer Wichtel CARCAR bearbeitet nun #825 
- --> Zipfelige Muetze [4.91](Eleganz: 16)
-Blauer Wichtel JOLAKO bearbeitet nun #826 
- --> Selbstgemachtes Pesto [4.27](Gesund :ja)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #896 
+ --> Knusprige Kekse [6.96](Gesund :ja)
 ----------------------------------------
 Runde 233
-Blauer Wichtel TAZEORL bearbeitet nun #827 
- --> Niedliche Puppe [7.16](Spannung: 10.74)
-Gelber Wichtel BORXULDUR bearbeitet nun #828 
- --> Schnelles Kartenspiel [4.62](Spannung: 9.702)
+Roter Wichtel MUDURSETI bearbeitet nun #897 
+ --> Leckere Papaya [5.55](Gesund :nein)
+Blauer Wichtel UMATAZ bearbeitet nun #898 
+ --> Warme Socken [4.48](Eleganz: 12)
+Gelber Wichtel TAZJOLA bearbeitet nun #899 
+ --> Warme Socken [3.47](Eleganz: 12)
 ----------------------------------------
 Runde 234
-Blauer Wichtel WELGEROSFRI bearbeitet nun #829 
- --> Saftige Kekse [12.17](Gesund :ja)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #830 
- --> Schnelles Auto [16.42]
-Blauer Wichtel KOMUGEROS bearbeitet nun #831 
- --> Schnelles Kartenspiel [8.46](Spannung: 17.766000000000002)
+Blauer Wichtel WELWELJOLA bearbeitet nun #900 
+ --> Schnelles Auto [2.71](Spannung: 3.7939999999999996)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #901 
+ --> Aromatischer Tee [4.37](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #902 
+ --> Aromatischer Tee [4.74](Gesund :ja)
+Roter Wichtel HATITAZLE bearbeitet nun #903 
+ --> Schnelles Auto [9.38](Spannung: 13.132000000000001)
 ----------------------------------------
 Runde 235
-Roter Wichtel HATINORGEROS bearbeitet nun #832 
- --> Interessantes Brettspiel [6.31](Spannung: 15.144)
-Roter Wichtel BORLECAR bearbeitet nun #833 
- --> Aromatischer Tee [7.22](Gesund :nein)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #904 
+ --> Schnelles Auto [8.16]
+Blauer Wichtel VARARISETI bearbeitet nun #905 
+ --> Niedliche Puppe [0.21](Spannung: 0.315)
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #906 
+ --> Dicker Pullover [0.14](Eleganz: 15)
+Roter Wichtel CARMU bearbeitet nun #907 
+ --> Leckere Papaya [8.38](Gesund :ja)
 ----------------------------------------
 Runde 236
-Blauer Wichtel SETIIOTISETI bearbeitet nun #834 
- --> Kuscheliger Schal [0.82](Eleganz: 17)
-Roter Wichtel XULBOR bearbeitet nun #835 
- --> Spannendes Buch [19.38]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #836 
- --> Schnelles Auto [5.91]
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #908 
+ --> Robuster Nussknacker [10.81]
+Blauer Wichtel WELWELJOLA bearbeitet nun #909 
+ --> Grosser Bagger [7.89](Spannung: 11.046)
+Blauer Wichtel VARARISETI bearbeitet nun #910 
+ --> Leckere Papaya [10.25](Gesund :ja)
 ----------------------------------------
 Runde 237
-Roter Wichtel ROMIMUEORL bearbeitet nun #837 
- --> Warme Socken [4.1](Eleganz: 12)
-Blauer Wichtel DURCARJOLA bearbeitet nun #838 
- --> Saftige Kekse [11.62](Gesund :nein)
-Roter Wichtel EORLUMA bearbeitet nun #839 
- --> Leckere Papaya [14.64](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #840 
- --> Spannendes Buch [2.51]
+Blauer Wichtel BORNOR bearbeitet nun #911 
+ --> Dicker Pullover [4.65](Eleganz: 15)
+Gelber Wichtel WELUMA bearbeitet nun #912 
+ --> Leckere Papaya [9.02](Gesund :nein)
 ----------------------------------------
 Runde 238
-Gelber Wichtel BORWEL bearbeitet nun #841 
- --> Niedliche Puppe [4.41](Spannung: 6.615)
-Blauer Wichtel TAZEORL bearbeitet nun #842 
- --> Schnelles Kartenspiel [0.97](Spannung: 2.037)
-Blauer Wichtel EORLMUFRI bearbeitet nun #843 
- --> Schnelles Kartenspiel [0.72](Spannung: 1.512)
+Blauer Wichtel NORARI bearbeitet nun #913 
+ --> Grosser Bagger [1.57](Spannung: 2.198)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #914 
+ --> Interessantes Brettspiel [5.44](Spannung: 13.056000000000001)
+Roter Wichtel MUDURSETI bearbeitet nun #915 
+ --> Bequeme Hose [0.37](Eleganz: 12)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #916 
+ --> Schnelles Kartenspiel [0.15](Spannung: 0.315)
+Gelber Wichtel TAZVARXUL bearbeitet nun #917 
+ --> Aromatischer Tee [13.45](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #918 
+ --> Robuster Nussknacker [1.96]
+Blauer Wichtel GEROSLE bearbeitet nun #919 
+ --> Robuster Nussknacker [14.15]
+Roter Wichtel NORTAZ bearbeitet nun #920 
+ --> Selbstgemachtes Pesto [4.46](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #921 
+ --> Spannendes Buch [8.86]
+Gelber Wichtel YIFIXULYIFI bearbeitet nun #922 
+ --> Duftende Badesalze [24.72]
 ----------------------------------------
 Runde 239
-Blauer Wichtel TAZKO bearbeitet nun #844 
- --> Schnelles Auto [8.32]
-Blauer Wichtel TAZEORL bearbeitet nun #845 
- --> Thermo-Ski-Unterwaesche [2.75](Eleganz: 23)
-Blauer Wichtel KOMUGEROS bearbeitet nun #846 
- --> Gemaltes Memory [2.81](Spannung: 4.215)
-Roter Wichtel GEROSJOLA bearbeitet nun #847 
- --> Knusprige Kekse [0.42](Gesund :ja)
-Blauer Wichtel EORLMUFRI bearbeitet nun #848 
- --> Aromatischer Tee [11.42](Gesund :nein)
+Roter Wichtel MUDURSETI bearbeitet nun #923 
+ --> Bequeme Hose [4.95](Eleganz: 12)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #924 
+ --> Duftende Badesalze [0.23]
+Roter Wichtel HATIZOTOXUL bearbeitet nun #925 
+ --> Dicker Pullover [4.53](Eleganz: 15)
+Gelber Wichtel TAZJOLA bearbeitet nun #926 
+ --> Rasende Eisenbahn [0.55](Spannung: 0.9350000000000002)
 ----------------------------------------
 Runde 240
-Roter Wichtel ROMIMUEORL bearbeitet nun #849 
- --> Schnelles Auto [17.81]
-Blauer Wichtel JOLAKO bearbeitet nun #850 
- --> Spannendes Buch [17.58]
-Gelber Wichtel BORXULDUR bearbeitet nun #851 
- --> Saftige Kekse [10.23](Gesund :ja)
-Roter Wichtel GEROSJOLA bearbeitet nun #852 
- --> Aromatischer Tee [12.45](Gesund :ja)
+Blauer Wichtel NORARI bearbeitet nun #927 
+ --> Stacheliger Kaktus [6.58]
+Roter Wichtel EORLVARWEL bearbeitet nun #928 
+ --> Lange Struempfe [1.35](Eleganz: 15)
 ----------------------------------------
 Runde 241
-Blauer Wichtel SETIIOTISETI bearbeitet nun #853 
- --> Grosser Bagger [8.6](Spannung: 12.04)
-Blauer Wichtel CARCAR bearbeitet nun #854 
- --> Spannendes Buch [23.66]
-Blauer Wichtel KOMUGEROS bearbeitet nun #855 
- --> Leckere Papaya [4.39](Gesund :ja)
-Roter Wichtel BORLECAR bearbeitet nun #856 
- --> Lange Struempfe [0.87](Eleganz: 15)
-Gelber Wichtel UMAMUARI bearbeitet nun #857 
- --> Knusprige Kekse [3.57](Gesund :nein)
+Blauer Wichtel UMATAZ bearbeitet nun #929 
+ --> Grosser Bagger [6.85](Spannung: 9.59)
+Blauer Wichtel WELWELJOLA bearbeitet nun #930 
+ --> Spannendes Buch [5.57]
+Roter Wichtel NORTAZ bearbeitet nun #931 
+ --> Selbstgemachtes Pesto [14.85](Gesund :ja)
+Roter Wichtel EORLVARWEL bearbeitet nun #932 
+ --> Robuster Nussknacker [11.01]
 ----------------------------------------
 Runde 242
-Roter Wichtel HATINORGEROS bearbeitet nun #858 
- --> Niedliche Puppe [9.92](Spannung: 14.88)
-Roter Wichtel BORLECAR bearbeitet nun #859 
- --> Saftige Kekse [9.15](Gesund :nein)
+Blauer Wichtel FRIOPOOPO bearbeitet nun #933 
+ --> Gemaltes Memory [3.26](Spannung: 4.89)
+Roter Wichtel YIFITAZSETI bearbeitet nun #934 
+ --> Gemaltes Memory [1.45](Spannung: 2.175)
+Blauer Wichtel UMAOPOZOTO bearbeitet nun #935 
+ --> Duftende Badesalze [12.5]
+Gelber Wichtel TAZJOLA bearbeitet nun #936 
+ --> Bequeme Hose [3.52](Eleganz: 12)
+Roter Wichtel CARMU bearbeitet nun #937 
+ --> Robuster Nussknacker [12.58]
 ----------------------------------------
 Runde 243
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #860 
- --> Gemaltes Memory [0.17](Spannung: 0.255)
-Roter Wichtel SETIJOLA bearbeitet nun #861 
- --> Kuscheliger Schal [2.39](Eleganz: 17)
+Roter Wichtel MUDURSETI bearbeitet nun #938 
+ --> Duftende Badesalze [13.53]
+Blauer Wichtel YIFIMUCAR bearbeitet nun #939 
+ --> Selbstgemachtes Pesto [3.46](Gesund :nein)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #940 
+ --> Schnelles Auto [6.38]
+Gelber Wichtel TAZWELUMA bearbeitet nun #941 
+ --> Niedliche Puppe [7.07](Spannung: 10.605)
+Roter Wichtel SETICARNOR bearbeitet nun #942 
+ --> Niedliche Puppe [2.6](Spannung: 3.9)
 ----------------------------------------
 Runde 244
-Gelber Wichtel BORWEL bearbeitet nun #862 
- --> Gemaltes Memory [7.94](Spannung: 11.91)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #863 
- --> Selbstgemachtes Pesto [11.94](Gesund :nein)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #864 
- --> Schnelles Auto [19.0]
-Gelber Wichtel GEROSHATI bearbeitet nun #865 
- --> Knusprige Kekse [6.94](Gesund :ja)
-Gelber Wichtel OPOGEROS bearbeitet nun #866 
- --> Knusprige Kekse [11.31](Gesund :nein)
-Roter Wichtel SETIJOLA bearbeitet nun #867 
- --> Gemaltes Memory [5.68](Spannung: 8.52)
-Gelber Wichtel FRIIOTI bearbeitet nun #868 
- --> Gemaltes Memory [5.32](Spannung: 7.980000000000001)
+Roter Wichtel YIFITAZSETI bearbeitet nun #943 
+ --> Aromatischer Tee [6.82](Gesund :ja)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #944 
+ --> Selbstgemachtes Pesto [7.58](Gesund :nein)
+Roter Wichtel HATITAZLE bearbeitet nun #945 
+ --> Stacheliger Kaktus [21.92]
 ----------------------------------------
 Runde 245
+Blauer Wichtel FRIOPOOPO bearbeitet nun #946 
+ --> Duftende Badesalze [19.97]
+Blauer Wichtel UMATAZ bearbeitet nun #947 
+ --> Saftige Kekse [10.02](Gesund :ja)
 ----------------------------------------
 Runde 246
-Blauer Wichtel SETIIOTISETI bearbeitet nun #869 
- --> Robuster Nussknacker [22.72]
-Blauer Wichtel TAZEORL bearbeitet nun #870 
- --> Rasende Eisenbahn [7.34](Spannung: 12.478)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #871 
- --> Schnelles Kartenspiel [7.54](Spannung: 15.834)
+Blauer Wichtel BORNOR bearbeitet nun #948 
+ --> Schnelles Kartenspiel [5.97](Spannung: 12.536999999999999)
+Roter Wichtel SETITAZ bearbeitet nun #949 
+ --> Knusprige Kekse [2.35](Gesund :ja)
 ----------------------------------------
 Runde 247
-Blauer Wichtel SETILE bearbeitet nun #872 
- --> Knusprige Kekse [11.66](Gesund :nein)
-Gelber Wichtel UMAMUARI bearbeitet nun #873 
- --> Niedliche Puppe [6.97](Spannung: 10.455)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #950 
+ --> Schnelles Auto [2.74](Spannung: 3.836)
+Roter Wichtel SETITAZ bearbeitet nun #951 
+ --> Dicker Pullover [0.56](Eleganz: 15)
+Roter Wichtel SETICARNOR bearbeitet nun #952 
+ --> Stacheliger Kaktus [1.08]
 ----------------------------------------
 Runde 248
-Blauer Wichtel TAZUMAFRI bearbeitet nun #874 
- --> Robuster Nussknacker [2.48]
+Blauer Wichtel DURBOR bearbeitet nun #953 
+ --> Knusprige Kekse [8.33](Gesund :ja)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #954 
+ --> Duftende Badesalze [7.33]
+Gelber Wichtel WELUMA bearbeitet nun #955 
+ --> Schoko-Nikolaus [0.45](Gesund :ja)
+Roter Wichtel SETITAZ bearbeitet nun #956 
+ --> Schnelles Auto [5.95](Spannung: 8.33)
+Blauer Wichtel ROMINOROPO bearbeitet nun #957 
+ --> Lange Struempfe [0.68](Eleganz: 15)
+Gelber Wichtel ARIEORL bearbeitet nun #958 
+ --> Schnelles Kartenspiel [3.15](Spannung: 6.614999999999999)
+Roter Wichtel SETICARNOR bearbeitet nun #959 
+ --> Leckere Papaya [13.95](Gesund :nein)
 ----------------------------------------
 Runde 249
-Blauer Wichtel KOMUGEROS bearbeitet nun #875 
- --> Schnelles Auto [3.5]
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #960 
+ --> Grosser Bagger [2.54](Spannung: 3.556)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #961 
+ --> Selbstgemachtes Pesto [0.16](Gesund :ja)
+Gelber Wichtel TAZJOLA bearbeitet nun #962 
+ --> Knusprige Kekse [13.06](Gesund :nein)
 ----------------------------------------
 Runde 250
-Blauer Wichtel WELGEROSFRI bearbeitet nun #876 
- --> Leckere Papaya [14.07](Gesund :ja)
-Roter Wichtel MUEORLTAZ bearbeitet nun #877 
- --> Niedliche Puppe [3.56](Spannung: 5.34)
-Roter Wichtel BORLECAR bearbeitet nun #878 
- --> Warme Socken [1.25](Eleganz: 12)
+Blauer Wichtel YIFIMUCAR bearbeitet nun #963 
+ --> Schnelles Auto [8.64]
+Gelber Wichtel KODUR bearbeitet nun #964 
+ --> Rote Unterbuxe [1.23](Eleganz: 14)
+Blauer Wichtel BORNOR bearbeitet nun #965 
+ --> Schnelles Auto [9.92](Spannung: 13.888)
+Gelber Wichtel WELUMA bearbeitet nun #966 
+ --> Rasende Eisenbahn [7.96](Spannung: 13.532)
+Roter Wichtel YIFITAZSETI bearbeitet nun #967 
+ --> Lange Struempfe [2.91](Eleganz: 15)
+Blauer Wichtel VARARISETI bearbeitet nun #968 
+ --> Selbstgemachtes Pesto [10.51](Gesund :ja)
 ----------------------------------------
 Runde 251
-Blauer Wichtel TAZKO bearbeitet nun #879 
- --> Gemaltes Memory [9.39](Spannung: 14.085000000000003)
-Blauer Wichtel TAZEORL bearbeitet nun #880 
- --> Aromatischer Tee [4.66](Gesund :ja)
-Roter Wichtel BORLECAR bearbeitet nun #881 
- --> Aromatischer Tee [11.77](Gesund :nein)
-Roter Wichtel EORLUMA bearbeitet nun #882 
- --> Zipfelige Muetze [0.75](Eleganz: 16)
-Roter Wichtel SETIJOLA bearbeitet nun #883 
- --> Rote Unterbuxe [0.66](Eleganz: 14)
-Gelber Wichtel FRIIOTI bearbeitet nun #884 
- --> Leckerer Essensgutschein [8.5]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #885 
- --> Interessantes Brettspiel [7.47](Spannung: 17.928)
-Roter Wichtel GEROSJOLA bearbeitet nun #886 
- --> Robuster Nussknacker [20.36]
+Blauer Wichtel NORARI bearbeitet nun #969 
+ --> Thermo-Ski-Unterwaesche [3.72](Eleganz: 23)
+Blauer Wichtel WELWELJOLA bearbeitet nun #970 
+ --> Warme Socken [1.42](Eleganz: 12)
+Roter Wichtel HATIIOTIDUR bearbeitet nun #971 
+ --> Grosser Bagger [7.09](Spannung: 9.925999999999998)
+Roter Wichtel EORLVARWEL bearbeitet nun #972 
+ --> Leckere Papaya [3.11](Gesund :nein)
 ----------------------------------------
 Runde 252
-Roter Wichtel EORLUMA bearbeitet nun #887 
- --> Gemaltes Memory [3.83](Spannung: 5.745)
-Roter Wichtel SETIJOLA bearbeitet nun #888 
- --> Spannendes Buch [2.83]
-Gelber Wichtel BORXULDUR bearbeitet nun #889 
- --> Grosser Bagger [1.67](Spannung: 2.338)
+Roter Wichtel YIFITAZSETI bearbeitet nun #973 
+ --> Kuscheliger Schal [2.23](Eleganz: 17)
+Gelber Wichtel TAZWELUMA bearbeitet nun #974 
+ --> Leckere Papaya [7.72](Gesund :nein)
 ----------------------------------------
 Runde 253
-Roter Wichtel HATINORGEROS bearbeitet nun #890 
- --> Stacheliger Kaktus [24.1]
-Blauer Wichtel DURCARJOLA bearbeitet nun #891 
- --> Schnelles Auto [9.39](Spannung: 13.146)
-Gelber Wichtel GEROSHATI bearbeitet nun #892 
- --> Aromatischer Tee [14.08](Gesund :ja)
-Blauer Wichtel CARKONOR bearbeitet nun #893 
- --> Rote Unterbuxe [4.71](Eleganz: 14)
+Gelber Wichtel TAZVARXUL bearbeitet nun #975 
+ --> Thermo-Ski-Unterwaesche [2.42](Eleganz: 23)
+Roter Wichtel YIFITAZSETI bearbeitet nun #976 
+ --> Knusprige Kekse [12.24](Gesund :ja)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #977 
+ --> Niedliche Puppe [0.67](Spannung: 1.0050000000000001)
+Roter Wichtel EORLVARWEL bearbeitet nun #978 
+ --> Kuscheliger Schal [4.2](Eleganz: 17)
+Blauer Wichtel ROMINOROPO bearbeitet nun #979 
+ --> Leckere Papaya [10.5](Gesund :ja)
+Gelber Wichtel ARIEORL bearbeitet nun #980 
+ --> Thermo-Ski-Unterwaesche [0.64](Eleganz: 23)
 ----------------------------------------
 Runde 254
-Gelber Wichtel BORWEL bearbeitet nun #894 
- --> Knusprige Kekse [11.4](Gesund :nein)
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #895 
- --> Schnelles Kartenspiel [1.46](Spannung: 3.066)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #896 
- --> Duftende Badesalze [10.17]
-Roter Wichtel SETIJOLA bearbeitet nun #897 
- --> Leckerer Essensgutschein [2.08]
-Roter Wichtel XULBOR bearbeitet nun #898 
- --> Selbstgemachtes Pesto [11.45](Gesund :nein)
-Blauer Wichtel EORLMUFRI bearbeitet nun #899 
- --> Leckere Papaya [8.58](Gesund :ja)
+Gelber Wichtel SETIGEROSGEROS bearbeitet nun #981 
+ --> Aromatischer Tee [10.89](Gesund :ja)
+Gelber Wichtel KODUR bearbeitet nun #982 
+ --> Bequeme Hose [4.38](Eleganz: 12)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #983 
+ --> Saftige Kekse [4.79](Gesund :ja)
+Blauer Wichtel HATIEORLROMI bearbeitet nun #984 
+ --> Gemaltes Memory [8.07](Spannung: 12.105)
+Roter Wichtel CARMU bearbeitet nun #985 
+ --> Rote Unterbuxe [2.49](Eleganz: 14)
 ----------------------------------------
 Runde 255
-Roter Wichtel MUEORLTAZ bearbeitet nun #900 
- --> Spannendes Buch [18.68]
-Roter Wichtel SETIJOLA bearbeitet nun #901 
- --> Grosser Bagger [9.03](Spannung: 12.642)
+Roter Wichtel NORTAZ bearbeitet nun #986 
+ --> Stacheliger Kaktus [0.06]
+Roter Wichtel SETITAZ bearbeitet nun #987 
+ --> Knusprige Kekse [4.57](Gesund :ja)
+Roter Wichtel CARMU bearbeitet nun #988 
+ --> Bequeme Hose [3.53](Eleganz: 12)
 ----------------------------------------
 Runde 256
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #902 
- --> Knusprige Kekse [13.57](Gesund :nein)
-Gelber Wichtel UMAMUARI bearbeitet nun #903 
- --> Duftende Badesalze [14.83]
-Gelber Wichtel BORXULDUR bearbeitet nun #904 
- --> Rasende Eisenbahn [7.67](Spannung: 13.038999999999998)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #905 
- --> Kuscheliger Schal [1.71](Eleganz: 17)
+Roter Wichtel MUDURSETI bearbeitet nun #989 
+ --> Bequeme Hose [0.46](Eleganz: 12)
+Blauer Wichtel GEROSLE bearbeitet nun #990 
+ --> Schnelles Kartenspiel [1.61](Spannung: 3.3810000000000002)
+Blauer Wichtel BORNOR bearbeitet nun #991 
+ --> Interessantes Brettspiel [3.33](Spannung: 7.992)
+Blauer Wichtel WELWELJOLA bearbeitet nun #992 
+ --> Dicker Pullover [2.33](Eleganz: 15)
+Roter Wichtel NORTAZ bearbeitet nun #993 
+ --> Stacheliger Kaktus [3.81]
+Roter Wichtel EORLVARWEL bearbeitet nun #994 
+ --> Spannendes Buch [24.54]
 ----------------------------------------
 Runde 257
-Blauer Wichtel TAZKO bearbeitet nun #906 
- --> Zipfelige Muetze [4.56](Eleganz: 16)
-Roter Wichtel ROMIMUEORL bearbeitet nun #907 
- --> Saftige Kekse [13.78](Gesund :nein)
-Blauer Wichtel KOMUGEROS bearbeitet nun #908 
- --> Niedliche Puppe [6.41](Spannung: 9.615)
-Roter Wichtel EORLUMA bearbeitet nun #909 
- --> Schnelles Auto [18.61]
-Gelber Wichtel OPOGEROS bearbeitet nun #910 
- --> Knusprige Kekse [10.52](Gesund :ja)
+Roter Wichtel MUDURSETI bearbeitet nun #995 
+ --> Saftige Kekse [9.91](Gesund :nein)
+Gelber Wichtel ARIEORL bearbeitet nun #996 
+ --> Dicker Pullover [1.88](Eleganz: 15)
 ----------------------------------------
 Runde 258
+Gelber Wichtel TAZVARXUL bearbeitet nun #997 
+ --> Kuscheliger Schal [4.84](Eleganz: 17)
+Roter Wichtel HATIZOTOXUL bearbeitet nun #998 
+ --> Warme Socken [0.17](Eleganz: 12)
+Blauer Wichtel GEROSLE bearbeitet nun #999 
+ --> Selbstgemachtes Pesto [3.67](Gesund :nein)
 ----------------------------------------
 Runde 259
-Blauer Wichtel DURCARJOLA bearbeitet nun #911 
- --> Schnelles Auto [2.1](Spannung: 2.9400000000000004)
 ----------------------------------------
 Runde 260
-Blauer Wichtel TAZEORL bearbeitet nun #912 
- --> Saftige Kekse [13.15](Gesund :nein)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #913 
- --> Schnelles Auto [16.26]
 ----------------------------------------
 Runde 261
-Blauer Wichtel DURCARJOLA bearbeitet nun #914 
- --> Schnelles Auto [3.57](Spannung: 4.997999999999999)
-Blauer Wichtel KOMUGEROS bearbeitet nun #915 
- --> Stacheliger Kaktus [0.81]
 ----------------------------------------
 Runde 262
-Blauer Wichtel JOLAKO bearbeitet nun #916 
- --> Saftige Kekse [2.52](Gesund :ja)
-Roter Wichtel BORLECAR bearbeitet nun #917 
- --> Duftende Badesalze [19.33]
-Blauer Wichtel CARKONOR bearbeitet nun #918 
- --> Niedliche Puppe [5.92](Spannung: 8.879999999999999)
-Gelber Wichtel FRIIOTI bearbeitet nun #919 
- --> Spannendes Buch [23.89]
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #920 
- --> Robuster Nussknacker [13.57]
 ----------------------------------------
 Runde 263
-Blauer Wichtel SETILE bearbeitet nun #921 
- --> Selbstgemachtes Pesto [13.88](Gesund :nein)
 ----------------------------------------
 Runde 264
-Blauer Wichtel DURCARJOLA bearbeitet nun #922 
- --> Dicker Pullover [2.62](Eleganz: 15)
-Roter Wichtel XULBOR bearbeitet nun #923 
- --> Leckere Papaya [3.62](Gesund :nein)
 ----------------------------------------
 Runde 265
-Roter Wichtel SETIJOLA bearbeitet nun #924 
- --> Schnelles Auto [2.75](Spannung: 3.85)
 ----------------------------------------
 Runde 266
-Blauer Wichtel TAZKO bearbeitet nun #925 
- --> Duftende Badesalze [11.04]
-Blauer Wichtel KOMUGEROS bearbeitet nun #926 
- --> Grosser Bagger [8.63](Spannung: 12.082)
-Blauer Wichtel CARKONOR bearbeitet nun #927 
- --> Aromatischer Tee [9.04](Gesund :nein)
-Gelber Wichtel BORXULDUR bearbeitet nun #928 
- --> Dicker Pullover [1.7](Eleganz: 15)
 ----------------------------------------
 Runde 267
-Gelber Wichtel BORWEL bearbeitet nun #929 
- --> Lange Struempfe [2.42](Eleganz: 15)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #930 
- --> Gemaltes Memory [8.19](Spannung: 12.285)
-Roter Wichtel XULBOR bearbeitet nun #931 
- --> Saftige Kekse [6.61](Gesund :ja)
-Blauer Wichtel EORLMUFRI bearbeitet nun #932 
- --> Thermo-Ski-Unterwaesche [4.72](Eleganz: 23)
 ----------------------------------------
 Runde 268
-Blauer Wichtel WELGEROSFRI bearbeitet nun #933 
- --> Aromatischer Tee [13.03](Gesund :nein)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #934 
- --> Thermo-Ski-Unterwaesche [3.09](Eleganz: 23)
 ----------------------------------------
 Runde 269
-Blauer Wichtel CARCAR bearbeitet nun #935 
- --> Schnelles Kartenspiel [5.62](Spannung: 11.802)
-Blauer Wichtel JOLAKO bearbeitet nun #936 
- --> Schnelles Auto [9.0](Spannung: 12.6)
-Gelber Wichtel GEROSHATI bearbeitet nun #937 
- --> Knusprige Kekse [7.48](Gesund :nein)
-Roter Wichtel SETIJOLA bearbeitet nun #938 
- --> Duftende Badesalze [3.51]
 ----------------------------------------
 Runde 270
-Roter Wichtel ROMIMUEORL bearbeitet nun #939 
- --> Leckere Papaya [4.23](Gesund :ja)
-Gelber Wichtel OPOGEROS bearbeitet nun #940 
- --> Selbstgemachtes Pesto [7.37](Gesund :nein)
-Roter Wichtel GEROSJOLA bearbeitet nun #941 
- --> Leckere Papaya [8.62](Gesund :ja)
 ----------------------------------------
 Runde 271
-Blauer Wichtel DURCARJOLA bearbeitet nun #942 
- --> Schnelles Kartenspiel [3.1](Spannung: 6.510000000000001)
-Blauer Wichtel KOMUGEROS bearbeitet nun #943 
- --> Schnelles Kartenspiel [4.9](Spannung: 10.290000000000001)
-Gelber Wichtel BORXULDUR bearbeitet nun #944 
- --> Schnelles Auto [14.35]
 ----------------------------------------
 Runde 272
-Gelber Wichtel BORWEL bearbeitet nun #945 
- --> Leckere Papaya [2.59](Gesund :ja)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #946 
- --> Duftende Badesalze [7.27]
-Roter Wichtel SETIJOLA bearbeitet nun #947 
- --> Schoko-Nikolaus [3.25](Gesund :nein)
 ----------------------------------------
 Runde 273
-Roter Wichtel ROMIMUEORL bearbeitet nun #948 
- --> Warme Socken [3.36](Eleganz: 12)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #949 
- --> Grosser Bagger [1.82](Spannung: 2.548)
-Roter Wichtel MUEORLTAZ bearbeitet nun #950 
- --> Saftige Kekse [4.7](Gesund :ja)
-Blauer Wichtel CARCAR bearbeitet nun #951 
- --> Leckerer Essensgutschein [4.06]
-Gelber Wichtel UMAMUARI bearbeitet nun #952 
- --> Knusprige Kekse [1.39](Gesund :nein)
-Roter Wichtel XULBOR bearbeitet nun #953 
- --> Warme Socken [2.94](Eleganz: 12)
 ----------------------------------------
 Runde 274
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #954 
- --> Leckere Papaya [6.19](Gesund :ja)
-Blauer Wichtel DURCARJOLA bearbeitet nun #955 
- --> Schnelles Auto [10.13]
-Blauer Wichtel KOMUGEROS bearbeitet nun #956 
- --> Saftige Kekse [4.34](Gesund :ja)
-Roter Wichtel SETIJOLA bearbeitet nun #957 
- --> Leckerer Essensgutschein [22.91]
 ----------------------------------------
 Runde 275
-Roter Wichtel ROMIMUEORL bearbeitet nun #958 
- --> Robuster Nussknacker [5.55]
-Blauer Wichtel SETIIOTISETI bearbeitet nun #959 
- --> Warme Socken [2.48](Eleganz: 12)
-Blauer Wichtel TAZUMAFRI bearbeitet nun #960 
- --> Schoko-Nikolaus [11.87](Gesund :nein)
-Blauer Wichtel JOLAKO bearbeitet nun #961 
- --> Leckerer Essensgutschein [18.71]
-Roter Wichtel EORLUMA bearbeitet nun #962 
- --> Aromatischer Tee [2.55](Gesund :ja)
-Roter Wichtel XULBOR bearbeitet nun #963 
- --> Aromatischer Tee [14.68](Gesund :ja)
 ----------------------------------------
 Runde 276
-Roter Wichtel HATINORGEROS bearbeitet nun #964 
- --> Schnelles Auto [11.75]
-Gelber Wichtel UMAMUARI bearbeitet nun #965 
- --> Spannendes Buch [14.95]
-Blauer Wichtel EORLMUFRI bearbeitet nun #966 
- --> Niedliche Puppe [9.4](Spannung: 14.1)
 ----------------------------------------
 Runde 277
-Gelber Wichtel BORWEL bearbeitet nun #967 
- --> Aromatischer Tee [12.84](Gesund :ja)
-Roter Wichtel MUEORLTAZ bearbeitet nun #968 
- --> Interessantes Brettspiel [4.35](Spannung: 10.44)
-Blauer Wichtel TAZEORL bearbeitet nun #969 
- --> Bequeme Hose [0.7](Eleganz: 12)
-Roter Wichtel EORLUMA bearbeitet nun #970 
- --> Rote Unterbuxe [3.62](Eleganz: 14)
 ----------------------------------------
 Runde 278
-Gelber Wichtel GEROSHATI bearbeitet nun #971 
- --> Gemaltes Memory [8.03](Spannung: 12.044999999999998)
-Roter Wichtel GEROSJOLA bearbeitet nun #972 
- --> Schnelles Auto [9.51](Spannung: 13.313999999999998)
 ----------------------------------------
 Runde 279
-Blauer Wichtel CARKONOR bearbeitet nun #973 
- --> Spannendes Buch [16.06]
-Gelber Wichtel OPOGEROS bearbeitet nun #974 
- --> Selbstgemachtes Pesto [9.67](Gesund :nein)
-----------------------------------------
-Runde 280
-Roter Wichtel ROMIMUEORL bearbeitet nun #975 
- --> Leckerer Essensgutschein [1.36]
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #976 
- --> Interessantes Brettspiel [0.96](Spannung: 2.304)
-Roter Wichtel BORLECAR bearbeitet nun #977 
- --> Warme Socken [0.34](Eleganz: 12)
-Roter Wichtel EORLUMA bearbeitet nun #978 
- --> Saftige Kekse [4.23](Gesund :ja)
-Blauer Wichtel GEROSHATIHATI bearbeitet nun #979 
- --> Bequeme Hose [0.85](Eleganz: 12)
-----------------------------------------
-Runde 281
-Blauer Wichtel TAZKO bearbeitet nun #980 
- --> Schnelles Auto [8.69]
-Roter Wichtel ROMIMUEORL bearbeitet nun #981 
- --> Schoko-Nikolaus [2.65](Gesund :ja)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #982 
- --> Niedliche Puppe [2.39](Spannung: 3.585)
-Blauer Wichtel CARCAR bearbeitet nun #983 
- --> Selbstgemachtes Pesto [0.97](Gesund :ja)
-Blauer Wichtel SETIYIFIDUR bearbeitet nun #984 
- --> Bequeme Hose [1.46](Eleganz: 12)
-Blauer Wichtel SETILE bearbeitet nun #985 
- --> Grosser Bagger [4.56](Spannung: 6.3839999999999995)
-Roter Wichtel BORLECAR bearbeitet nun #986 
- --> Bequeme Hose [0.18](Eleganz: 12)
-----------------------------------------
-Runde 282
-Roter Wichtel MUEORLTAZ bearbeitet nun #987 
- --> Rote Unterbuxe [2.11](Eleganz: 14)
-Blauer Wichtel TAZEORL bearbeitet nun #988 
- --> Zipfelige Muetze [1.15](Eleganz: 16)
-Blauer Wichtel KOMUGEROS bearbeitet nun #989 
- --> Robuster Nussknacker [0.92]
-Roter Wichtel BORLECAR bearbeitet nun #990 
- --> Rote Unterbuxe [1.72](Eleganz: 14)
-Blauer Wichtel EORLMUFRI bearbeitet nun #991 
- --> Warme Socken [0.24](Eleganz: 12)
-----------------------------------------
-Runde 283
-Roter Wichtel ROMIMUEORL bearbeitet nun #992 
- --> Schnelles Auto [0.92](Spannung: 1.288)
-Blauer Wichtel SETIIOTISETI bearbeitet nun #993 
- --> Schnelles Auto [9.82](Spannung: 13.748000000000001)
-Roter Wichtel MUEORLTAZ bearbeitet nun #994 
- --> Schnelles Kartenspiel [7.7](Spannung: 16.17)
-Blauer Wichtel FRIJOLAWEL bearbeitet nun #995 
- --> Rote Unterbuxe [2.54](Eleganz: 14)
-Roter Wichtel BORLECAR bearbeitet nun #996 
- --> Niedliche Puppe [7.38](Spannung: 11.07)
-Roter Wichtel EORLUMA bearbeitet nun #997 
- --> Schnelles Kartenspiel [9.96](Spannung: 20.916000000000004)
-----------------------------------------
-Runde 284
-Blauer Wichtel IOTIROMIROMI bearbeitet nun #998 
- --> Warme Socken [2.88](Eleganz: 12)
-Blauer Wichtel SETILE bearbeitet nun #999 
- --> Spannendes Buch [8.03]
-----------------------------------------
-Runde 285
-----------------------------------------
-Runde 286
-----------------------------------------
-Runde 287
-----------------------------------------
-Runde 288
-----------------------------------------
-Runde 289
-----------------------------------------
-Runde 290
-----------------------------------------
-Runde 291
-----------------------------------------
-Runde 292
-----------------------------------------
-Runde 293
-----------------------------------------
-Runde 294
-----------------------------------------
-Runde 295
-----------------------------------------
-Runde 296
-----------------------------------------
-Runde 297
-----------------------------------------
-Runde 298
 ----------------------------------------
 Leistungsindex: 
-1. Platz: Roter Wichtel EORLUMA mit einer Effizienz von 0.1814516129032258 GpR.
-2. Platz: Roter Wichtel BORLECAR mit einer Effizienz von 0.17886178861788618 GpR.
-3. Platz: Roter Wichtel ROMIMUEORL mit einer Effizienz von 0.17842323651452283 GpR.
+1. Platz: Roter Wichtel HATIZOTOXUL mit einer Effizienz von 0.22274881516587677 GpR.
+2. Platz: Roter Wichtel HATITAZLE mit einer Effizienz von 0.2222222222222222 GpR.
+3. Platz: Roter Wichtel MUDURSETI mit einer Effizienz von 0.2100456621004566 GpR.
 ----------------------------------------
-4. Platz: Roter Wichtel SETIJOLA mit einer Effizienz von 0.16600790513833993 GpR.
-5. Platz: Roter Wichtel GEROSJOLA mit einer Effizienz von 0.1566265060240964 GpR.
-6. Platz: Gelber Wichtel BORWEL mit einer Effizienz von 0.15476190476190477 GpR.
-7. Platz: Blauer Wichtel EORLMUFRI mit einer Effizienz von 0.14919354838709678 GpR.
-8. Platz: Gelber Wichtel BORXULDUR mit einer Effizienz von 0.14859437751004015 GpR.
-9. Platz: Roter Wichtel XULBOR mit einer Effizienz von 0.14741035856573706 GpR.
-10. Platz: Blauer Wichtel KOMUGEROS mit einer Effizienz von 0.144 GpR.
-11. Platz: Roter Wichtel HATINORGEROS mit einer Effizienz von 0.1394422310756972 GpR.
-12. Platz: Roter Wichtel MUEORLTAZ mit einer Effizienz von 0.13671875 GpR.
-13. Platz: Blauer Wichtel WELGEROSFRI mit einer Effizienz von 0.136 GpR.
-14. Platz: Gelber Wichtel GEROSHATI mit einer Effizienz von 0.13438735177865613 GpR.
-15. Platz: Blauer Wichtel TAZUMAFRI mit einer Effizienz von 0.1328125 GpR.
-16. Platz: Blauer Wichtel DURCARJOLA mit einer Effizienz von 0.12992125984251968 GpR.
-17. Platz: Blauer Wichtel GEROSHATIHATI mit einer Effizienz von 0.1225296442687747 GpR.
-18. Platz: Blauer Wichtel SETIYIFIDUR mit einer Effizienz von 0.11764705882352941 GpR.
-19. Platz: Blauer Wichtel CARCAR mit einer Effizienz von 0.11764705882352941 GpR.
-20. Platz: Blauer Wichtel FRIJOLAWEL mit einer Effizienz von 0.11583011583011583 GpR.
-21. Platz: Blauer Wichtel IOTIROMIROMI mit einer Effizienz von 0.11538461538461539 GpR.
-22. Platz: Blauer Wichtel CARKONOR mit einer Effizienz von 0.10780669144981413 GpR.
-23. Platz: Blauer Wichtel SETIIOTISETI mit einer Effizienz von 0.1076923076923077 GpR.
-24. Platz: Gelber Wichtel UMAMUARI mit einer Effizienz von 0.10606060606060606 GpR.
-25. Platz: Blauer Wichtel SETILE mit einer Effizienz von 0.10486891385767791 GpR.
-26. Platz: Blauer Wichtel TAZEORL mit einer Effizienz von 0.10424710424710425 GpR.
-27. Platz: Gelber Wichtel FRIIOTI mit einer Effizienz von 0.10384615384615385 GpR.
-28. Platz: Blauer Wichtel JOLAKO mit einer Effizienz von 0.1 GpR.
-29. Platz: Gelber Wichtel OPOGEROS mit einer Effizienz von 0.09848484848484848 GpR.
-30. Platz: Blauer Wichtel TAZKO mit einer Effizienz von 0.09328358208955224 GpR.
+4. Platz: Roter Wichtel SETITAZ mit einer Effizienz von 0.1889400921658986 GpR.
+5. Platz: Roter Wichtel NORTAZ mit einer Effizienz von 0.1889400921658986 GpR.
+6. Platz: Roter Wichtel YIFITAZSETI mit einer Effizienz von 0.17937219730941703 GpR.
+7. Platz: Roter Wichtel HATIIOTIDUR mit einer Effizienz von 0.1780821917808219 GpR.
+8. Platz: Roter Wichtel SETICARNOR mit einer Effizienz von 0.17647058823529413 GpR.
+9. Platz: Blauer Wichtel UMATAZ mit einer Effizienz von 0.17272727272727273 GpR.
+10. Platz: Gelber Wichtel TAZVARXUL mit einer Effizienz von 0.16228070175438597 GpR.
+11. Platz: Blauer Wichtel HATIEORLROMI mit einer Effizienz von 0.15695067264573992 GpR.
+12. Platz: Gelber Wichtel TAZWELUMA mit einer Effizienz von 0.14977973568281938 GpR.
+13. Platz: Roter Wichtel EORLVARWEL mit einer Effizienz von 0.14814814814814814 GpR.
+14. Platz: Roter Wichtel CARMU mit einer Effizienz von 0.14732142857142858 GpR.
+15. Platz: Blauer Wichtel WELWELJOLA mit einer Effizienz von 0.14473684210526316 GpR.
+16. Platz: Gelber Wichtel SETIGEROSGEROS mit einer Effizienz von 0.14163090128755365 GpR.
+17. Platz: Gelber Wichtel ARIEORL mit einer Effizienz von 0.13973799126637554 GpR.
+18. Platz: Gelber Wichtel WELUMA mit einer Effizienz von 0.13596491228070176 GpR.
+19. Platz: Blauer Wichtel YIFIMUCAR mit einer Effizienz von 0.1341991341991342 GpR.
+20. Platz: Blauer Wichtel BORNOR mit einer Effizienz von 0.12663755458515283 GpR.
+21. Platz: Blauer Wichtel NORARI mit einer Effizienz von 0.12663755458515283 GpR.
+22. Platz: Gelber Wichtel TAZJOLA mit einer Effizienz von 0.12393162393162394 GpR.
+23. Platz: Gelber Wichtel KODUR mit einer Effizienz von 0.11587982832618025 GpR.
+24. Platz: Blauer Wichtel FRIOPOOPO mit einer Effizienz von 0.11203319502074689 GpR.
+25. Platz: Blauer Wichtel ROMINOROPO mit einer Effizienz von 0.1078838174273859 GpR.
+26. Platz: Blauer Wichtel VARARISETI mit einer Effizienz von 0.10460251046025104 GpR.
+27. Platz: Blauer Wichtel UMAOPOZOTO mit einer Effizienz von 0.10256410256410256 GpR.
+28. Platz: Blauer Wichtel DURBOR mit einer Effizienz von 0.10212765957446808 GpR.
+29. Platz: Blauer Wichtel GEROSLE mit einer Effizienz von 0.0995850622406639 GpR.
+30. Platz: Gelber Wichtel YIFIXULYIFI mit einer Effizienz von 0.09090909090909091 GpR.
