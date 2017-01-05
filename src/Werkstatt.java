@@ -101,10 +101,17 @@ public class Werkstatt {
 		 werkstatt.sortiere();
 		 werkstatt.zeigeLeistungen();
 		
-		// TODO e): Klonen der drei besten Wichtel
-		// Wichtel roterSuperWichtel = ...;
-		// Wichtel blauerSuperWichtel = ...;
-		// Wichtel gelberSuperWichtel = ...;
+		 Wichtel[] w = werkstatt.wichtel;
+		 
+		 Wichtel gelberSuperWichtel = null;
+		 Wichtel blauerSuperWichtel = null;
+		 Wichtel roterSuperWichtel = null;
+		 
+		 for (int i = w.length-1; i > 0; i--){
+			roterSuperWichtel = w[i] instanceof RoterWichtel? new RoterWichtel((RoterWichtel)(w[i])):roterSuperWichtel;
+		 	blauerSuperWichtel = w[i] instanceof BlauerWichtel? new BlauerWichtel((BlauerWichtel)(w[i])):blauerSuperWichtel;
+		 	gelberSuperWichtel = w[i] instanceof GelberWichtel? new GelberWichtel((GelberWichtel)(w[i])):gelberSuperWichtel;
+		 }
 	}
 	
 }
