@@ -1,6 +1,5 @@
 
-public class Wichtel {
-
+public abstract class Wichtel implements Comparable<Wichtel>{
 	private String name;
 	private int gearbeiteteZeit;
 	private int geschenkeGefertigt;
@@ -13,6 +12,13 @@ public class Wichtel {
 	
 	public Wichtel(String name){
 		this.name = name;
+	}
+
+	public Wichtel(Wichtel other) {
+		name = other.name;
+		gearbeiteteZeit = other.gearbeiteteZeit;
+		geschenkeGefertigt = other.geschenkeGefertigt;
+		dauer = other.dauer;
 	}
 
 
@@ -63,13 +69,25 @@ public class Wichtel {
 		dauer--; //TODO fertig
 	}
 
-	public void arbeite(Geschenk g) {
-		// TODO Auto-generated method stub
-		
+	public abstract void arbeite(Geschenk g);
+
+	/**
+	 * Berechnet die Effizienz eines Wichtels.
+	 * @return Gibt die Effizienz als Ganzzahl zurück.
+	 */
+	public double effizienz() {
+		return geschenkeGefertigt / gearbeiteteZeit;
 	}
 
-	public int effizienz() {
-		// TODO Auto-generated method stub
-		return 0;
+	/**
+	 * Implementation des Comparable<Wichtel> Interfaces. Vergleicht dieses Objekt mit einem anderen Wichtel.
+	 *
+	 * @param o Der zu vergleichende Wichtel
+	 * @return Eine negative Zahl, falls die Effizienz von o größer als die von diesem Wichtel ist,
+	 * 0, falls sie gleich effizient sind und
+	 * eine positive Zahl, falls die Effizienz von diesem Wichtel größer als die von o ist.
+	 */
+	public int compareTo(Wichtel o) {
+		return (int)(effizienz() - o.effizienz());
 	}
 }
