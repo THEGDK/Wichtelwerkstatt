@@ -8,4 +8,9 @@ public class GelberWichtel extends Wichtel{
 	public void arbeite(Geschenk g){
 		
 	}
+
+	public String toString(){
+		return "Gelber Wichtel "  + this.getName();
+	}
+	
 }

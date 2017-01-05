@@ -9,4 +9,8 @@ public class RoterWichtel extends Wichtel{
 		
 	}
 	
+	public String toString(){
+		return "Roter Wichtel "  + this.getName();
+	}
+	
 }

@@ -9,4 +9,7 @@ public class BlauerWichtel extends Wichtel{
 		
 	}
 	
+	public String toString(){
+		return "Blauer Wichtel "  + this.getName();
+	}
 }
