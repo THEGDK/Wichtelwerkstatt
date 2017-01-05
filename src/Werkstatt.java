@@ -82,7 +82,7 @@ public class Werkstatt {
 			if(i == wichtel.length - 4)
 				System.out.println("----------------------------------------");
 			Wichtel w = wichtel[i];
-			System.out.println(wichtel.length - i + ". Platz: " + w + " mit einer Effizienz von " + w.effizienz() + " GpR.");
+			System.out.println(wichtel.length - i + ". Platz: " + w + " mit einer Effizienz von " + (double)(w.effizienz()) + " GpR.");
 		}
 	}
 	

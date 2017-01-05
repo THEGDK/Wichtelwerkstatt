@@ -77,7 +77,7 @@ public abstract class Wichtel implements Comparable<Wichtel>{
 	 * @return Gibt die Effizienz als Ganzzahl zurück.
 	 */
 	public double effizienz() {
-		return geschenkeGefertigt / gearbeiteteZeit;
+		return (double)(geschenkeGefertigt) / gearbeiteteZeit;
 	}
 
 	/**
@@ -89,6 +89,12 @@ public abstract class Wichtel implements Comparable<Wichtel>{
 	 * eine positive Zahl, falls die Effizienz von diesem Wichtel größer als die von o ist.
 	 */
 	public int compareTo(Wichtel o) {
-		return (int)(effizienz() - o.effizienz());
+		if (effizienz() - o.effizienz() < 0){
+			return -1;
+		}
+		if (effizienz() - o.effizienz() > 0){
+			return 1;
+		}
+		return 0;
 	}
 }
