@@ -11,9 +11,9 @@ public class BlauerWichtel extends Wichtel{
 
 	public void arbeite(Geschenk g){
 		if (g instanceof Spielzeug)
-			setDauer((int)(g.schwierigkeit() / 2)); //TODO: Double zu int cast, möglicherweise ein Fehler...
+			setDauer((int)Math.round(g.schwierigkeit() / 2));
 		else
-			setDauer((int)g.schwierigkeit + 3);
+			setDauer((int)Math.round(g.schwierigkeit()) + 3);
 	}
 	
 	public String toString(){
