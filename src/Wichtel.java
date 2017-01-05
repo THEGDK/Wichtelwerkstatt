@@ -61,11 +61,12 @@ public abstract class Wichtel implements Comparable<Wichtel>{
 	}
 
 	public boolean arbeitetNoch() {
-		return dauer != 0;
+		return dauer > 0;
 	}
 
 	public void arbeiteWeiter() {
 		// TODO Auto-generated method stub
+		gearbeiteteZeit++;
 		dauer--; //TODO fertig
 	}
 

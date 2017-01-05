@@ -10,6 +10,7 @@ public class BlauerWichtel extends Wichtel{
 	}
 
 	public void arbeite(Geschenk g){
+		setGeschenkeGefertigt(getGeschenkeGefertigt() + 1);
 		if (g instanceof Spielzeug)
 			setDauer((int)Math.round(g.schwierigkeit() / 2));
 		else

@@ -10,6 +10,7 @@ public class GelberWichtel extends Wichtel{
 	}
 	
 	public void arbeite(Geschenk g){
+		setGeschenkeGefertigt(getGeschenkeGefertigt() + 1);
 		if (g instanceof Kleidung){
 			setDauer(getDauer()+2);
 		} else {

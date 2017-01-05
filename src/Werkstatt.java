@@ -39,11 +39,18 @@ public class Werkstatt {
 
 	private boolean sindAlleFertig() {
 		if(geschenknummer < geschenke.length)
+		{
+			//System.out.print("################################\nGeschenke wurden noch nicht alle bearbeitet. \n");
 			return false;
+		}
+
 		else
 			for(int i = 0; i < wichtel.length; i++){
 				if(wichtel[i].arbeitetNoch())
+				{
+					//System.out.print("################################\nMindestens ein Wichtekl ist noch nicht fertig. \n");
 					return false;
+				}
 			}
 		return true;
 	}
@@ -89,10 +96,10 @@ public class Werkstatt {
 	// Momentan auskommentiert, sollte am Schluss alles kompilieren und dem Logfile gleichen.
 	// Erstellen Sie bis dahin eigenen Testaufrufe von Methoden.
 	public static void main(String[] args) {
-		// Werkstatt werkstatt = new Werkstatt();
-		// while(werkstatt.arbeit());
-		// werkstatt.sortiere();
-		// werkstatt.zeigeLeistungen();
+		 Werkstatt werkstatt = new Werkstatt();
+		 while(werkstatt.arbeit());
+		 werkstatt.sortiere();
+		 werkstatt.zeigeLeistungen();
 		
 		// TODO e): Klonen der drei besten Wichtel
 		// Wichtel roterSuperWichtel = ...;
