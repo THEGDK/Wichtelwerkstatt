@@ -27,20 +27,29 @@ public class Werkstatt {
 		}
 		catch (Exception e) {System.out.println(e);}
 
+		//Generiert geschenke und Wichtel
 		geschenke = WerkstattTools.generiereGeschenke(anzahlGeschenke);
 		wichtel = WerkstattTools.generiereWichtel(anzahlWichtel);
 	}
 	
+	/**
+	 * gibt das nächste zu bearbeitende Geschenk zurück
+	 * @return nächstes Geschenk
+	 */
 	private Geschenk naechstesGeschenk(){
 		if(geschenknummer < geschenke.length)
 			return geschenke[geschenknummer++];
 		return null;
 	}
 
+	/**
+	 * Gibt Wahrheitswert wahr zurück, wenn alle Wichtel fertig sind.
+	 * @return true wenn alle fertig sind, false andernfalls 
+	 */
 	private boolean sindAlleFertig() {
 		if(geschenknummer < geschenke.length)
 		{
-			//System.out.print("################################\nGeschenke wurden noch nicht alle bearbeitet. \n");
+			System.out.print("################################\nGeschenke wurden noch nicht alle bearbeitet. \n");
 			return false;
 		}
 
@@ -48,13 +57,17 @@ public class Werkstatt {
 			for(int i = 0; i < wichtel.length; i++){
 				if(wichtel[i].arbeitetNoch())
 				{
-					//System.out.print("################################\nMindestens ein Wichtekl ist noch nicht fertig. \n");
+					System.out.print("################################\nMindestens ein Wichtekl ist noch nicht fertig. \n");
 					return false;
 				}
 			}
 		return true;
 	}
 	
+	/**
+	 * Lässt alle Wichtel arbeiten
+	 * @return Solange true, bis keine Geschenke mehr zu bearbeiten sind
+	 */
 	private boolean arbeit() {
 		System.out.println("----------------------------------------");
 		System.out.println("Runde " + runde++);
@@ -75,6 +88,9 @@ public class Werkstatt {
 		return !sindAlleFertig();
 	}
 	
+	/**
+	 * Zeigt die Leistung der einzelnen Wichtel
+	 */
 	private void zeigeLeistungen() {
 		System.out.println("----------------------------------------");
 		System.out.println("Leistungsindex: ");
@@ -107,6 +123,7 @@ public class Werkstatt {
 		 Wichtel blauerSuperWichtel = null;
 		 Wichtel roterSuperWichtel = null;
 		 
+		 // Die Liste wird von unten nach oben durchgegangen. Somit ist der Letzte Wichtel der effizienteste seiner Farbklasse
 		 for (int i = w.length-1; i > 0; i--){
 			 if (roterSuperWichtel == null && w[i] instanceof RoterWichtel) {
 			 	roterSuperWichtel = new RoterWichtel((RoterWichtel) w[i]);

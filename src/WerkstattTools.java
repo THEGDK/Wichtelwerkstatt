@@ -1,10 +1,17 @@
 
 public class WerkstattTools {
 
+	/**
+	 * Generiert eine angegebene Anzahl an Geschenken
+	 * @param anzahlGeschenke Anzahl der zu generierenden Geschenke
+	 * @return gefülltes GeschenkArray mit anzahlGeschnenke Elemente
+	 */
 	public static Geschenk[] generiereGeschenke(int anzahlGeschenke) {
+		//Erzeugt Geschenke Array
 		int anzahl = anzahlGeschenke;
 		Geschenk[] ausgabe = new Geschenk[anzahl];
 		
+		//Jedes Geschenk wird einer Zufälligen Kategorie zugeordnet
 		for (int i = 0; i < anzahl; i++){
 			int art = Zufall.zahl(4);
 			switch(art){
@@ -19,10 +26,16 @@ public class WerkstattTools {
 		return ausgabe;
 	}
 
+	/**
+	 * Erzeugt zufällige Wichtel
+	 * @param anzahlWichtel Anzahl der Wichtel die Erzeugt werden sollen
+	 * @return gefülltes Array mit Wichteln
+	 */
 	public static Wichtel[] generiereWichtel(int anzahlWichtel) {
 		int anzahl = anzahlWichtel;
 		Wichtel[] ausgabe = new Wichtel[anzahl];
 		
+		//Erzeugt für jeden Eintrag in ausgabe einen zufällig generierten Wichtel
 		for (int i = 0; i < anzahl; i++){
 			int art = Zufall.zahl(3);
 			switch(art){
