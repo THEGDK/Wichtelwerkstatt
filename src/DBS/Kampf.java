@@ -1,5 +1,6 @@
 package DBS;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class Kampf {
@@ -46,6 +47,7 @@ public class Kampf {
 					break;
 			}
 		}
+		Arrays.sort(einheiten);
 	}
 
 	public boolean allesSchafe() {

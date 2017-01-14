@@ -1,8 +1,9 @@
 package DBS;
 
-public abstract class Einheit{
+public abstract class Einheit implements Comparable<Einheit>{
 
 	protected int lebenspunkte = 20; 
+	protected int initiative = (int)(Math.random()*101);
 
 	/**
 	 * Lebt die Einheit noch?

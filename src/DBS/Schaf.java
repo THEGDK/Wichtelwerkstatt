@@ -8,5 +8,10 @@ public class Schaf extends Einheit {
 		
 	}
 
+	@Override
+	public int compareTo(Einheit o) {
+		return initiative-o.initiative;
+	}
+
 
 }
