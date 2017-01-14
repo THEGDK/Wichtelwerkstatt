@@ -118,6 +118,14 @@ public class Werkstatt {
 		 werkstatt.zeigeLeistungen();
 		
 		 Wichtel[] w = werkstatt.wichtel;
+		 Wichtel wi = new Wichtel() {
+			
+			@Override
+			public void arbeite(Geschenk g) {
+				// TODO Auto-generated method stub
+				
+			}
+		};
 		 
 		 Wichtel gelberSuperWichtel = null;
 		 Wichtel blauerSuperWichtel = null;

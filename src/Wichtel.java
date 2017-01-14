@@ -8,7 +8,7 @@ public abstract class Wichtel implements Comparable<Wichtel>{
 	/**
 	 * Erzeugt einen Wichtel mit zufälligem Namen
 	 */
-	public Wichtel(){
+	protected Wichtel(){
 		this.name = Zufall.koboldname();
 	}
 	
@@ -16,7 +16,7 @@ public abstract class Wichtel implements Comparable<Wichtel>{
 	 * Erzeugt einen Wichtel mit vorgegebenen Namen
 	 * @param name
 	 */
-	public Wichtel(String name){
+	protected Wichtel(String name){
 		this.name = name;
 	}
 
@@ -24,7 +24,7 @@ public abstract class Wichtel implements Comparable<Wichtel>{
 	 * Erzeugt eine Kopie des Wichtels other
 	 * @param other zu kopierender Wichtel
 	 */
-	public Wichtel(Wichtel other) {
+	protected Wichtel(Wichtel other) {
 		name = other.name;
 		gearbeiteteZeit = other.gearbeiteteZeit;
 		geschenkeGefertigt = other.geschenkeGefertigt;
