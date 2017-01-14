@@ -5,7 +5,7 @@ public abstract class Einheit{
 	protected int lebenspunkte = 20;
 
 	public boolean lebtNoch() {
-		return lebenspunkte <= 0 ? false : true;
+		return lebenspunkte > 0;
 	}
 
 	public void attackiere(Einheit ziel){
@@ -17,7 +17,7 @@ public abstract class Einheit{
 	}
 	
 	public void werdeAngegriffen(int schaden){
-		lebenspunkte-=schaden;
+		lebenspunkte -= schaden;
 	}
 
 }
