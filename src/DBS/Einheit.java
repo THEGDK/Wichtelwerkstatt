@@ -2,8 +2,12 @@ package DBS;
 
 public abstract class Einheit{
 
-	protected int lebenspunkte = 20;
+	protected int lebenspunkte = 20; 
 
+	/**
+	 * Lebt die Einheit noch?
+	 * @return
+	 */
 	public boolean lebtNoch() {
 		return lebenspunkte > 0;
 	}
