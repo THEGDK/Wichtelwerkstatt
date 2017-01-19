@@ -1,0 +1,14 @@
+1a)
+Überschreiben bedeutet, dass Die Methoder der Mutterklasse durch die der Kindklasse ersetzt wird, lediglich der Name und die Eingabeparameter müssen übereinstimmen. Überladen bedeutet, dass Methoden mit selben Namen unterschiedliche Eingabeparameter haben und ggf. anders agieren. Verdecken bedeutet, dass Attribute der Mutterklasse in der Kindklasse neu initialisiert werden und die Attribute der Mutterklasse somit nur noch über Mutterklassse.Attributname erreichbar sind. 
+
+1c)
+M1: A.f(IA)
+M2: A.f(LA)
+M3: A.f(LB)
+M4: B.f(IB)
+M5: B.f(IA)
+M6: B.f(LA)
+M7: A.f(LB)
+M8 :B.f(IA)
+M9: B.f(LA)
+M10: A.f(LB)
