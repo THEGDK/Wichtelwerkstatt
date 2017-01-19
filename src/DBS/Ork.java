@@ -9,14 +9,8 @@ public class Ork extends Einheit implements Krieger, SchwereRuestung{
 	}
 
 	@Override
-	public void attackiere(Einheit ziel) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public int compareTo(Einheit o) {
-		return initiative-o.initiative;
+	String WhoAmI() {
+		return "Ork";
 	}
 
 }

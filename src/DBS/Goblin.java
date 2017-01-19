@@ -9,14 +9,8 @@ public class Goblin extends Einheit implements Krieger, Gift, Fernkampf{
 	}
 
 	@Override
-	public void attackiere(Einheit ziel) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public int compareTo(Einheit o) {
-		return initiative-o.initiative;
+	String WhoAmI() {
+		return "Goblin";
 	}
 
 }

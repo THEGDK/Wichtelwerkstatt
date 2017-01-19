@@ -9,8 +9,8 @@ public class Zwerg extends Einheit implements Krieger, SchwereRuestung, Fernkamp
 	}
 
 	@Override
-	public int compareTo(Einheit o) {
-		return initiative-o.initiative;
+	String WhoAmI() {
+		return "Zwerg";
 	}
 
 }

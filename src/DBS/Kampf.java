@@ -70,7 +70,29 @@ public class Kampf {
 	}
 
 	private Einheit findeNaechstesZiel(int angreiferPosition) {
-		//TODO
+		if (einheiten[angreiferPosition].lebtNoch() && !(einheiten[angreiferPosition] instanceof Schaf)) {
+			for (int i = 0; i < einheiten.length; i++) {
+
+				int index = (i + angreiferPosition);
+				if (i + angreiferPosition >= einheiten.length) index = ((i + angreiferPosition) - einheiten.length);
+
+				if (einheiten[angreiferPosition] instanceof Zwerg || einheiten[angreiferPosition] instanceof Mensch) {
+					if (einheiten[index].lebtNoch() && (einheiten[index] instanceof Ork || einheiten[index] instanceof Goblin
+							|| einheiten[index] instanceof Schaf)) {
+						return einheiten[index];
+					}
+				} else {
+					if (einheiten[index].lebtNoch() && (einheiten[index] instanceof Mensch || einheiten[index] instanceof Zwerg
+							|| einheiten[index] instanceof Schaf)) {
+						return einheiten[index];
+					}
+				}
+			}
+
+			return einheiten[angreiferPosition];
+		} else {
+			return null;
+		}
 	}
 
 	// simuliert den gesamten Kampf und endet erst, wenn eine Fraktion gewonnen hat. 

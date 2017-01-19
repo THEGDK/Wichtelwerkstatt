@@ -13,8 +13,14 @@ public abstract class Einheit implements Comparable<Einheit>{
 		return lebenspunkte > 0;
 	}
 
-	public void attackiere(Einheit ziel){
-		
+	public void attackiere(Einheit ziel) {
+		System.out.println(this.toString() + " greift " + ziel.toString() + " an.");
+		int damage = 2; //Normaler Schaden
+		if (this instanceof Fernkampf) damage += 2;        //Fernkampf fügt zwei Schadenspunkte hinzu...
+		if (ziel instanceof SchwereRuestung) damage /= 2;    //wird aber durch SchwereRuestung beeinträchtigt,
+		if (this instanceof Gift) damage += 2;                //was für Gift aber nciht gilt.
+
+		ziel.werdeAngegriffen(damage);
 	}
 	
 	public boolean kannAngreifen(Einheit ziel){
@@ -25,4 +31,14 @@ public abstract class Einheit implements Comparable<Einheit>{
 		lebenspunkte -= schaden;
 	}
 
+	@Override
+	public int compareTo(Einheit o) {
+		return initiative - o.initiative;
+	}
+
+	public String toString() {
+		return WhoAmI() + "(" + lebenspunkte + ")";
+	}
+
+	abstract String WhoAmI();
 }

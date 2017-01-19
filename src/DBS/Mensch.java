@@ -9,14 +9,7 @@ public class Mensch extends Einheit implements Krieger, SchwereRuestung, Fernkam
 	}
 
 	@Override
-	public void attackiere(Einheit ziel) {
-		// TODO Auto-generated method stub
-		
+	String WhoAmI() {
+		return "Mensch";
 	}
-
-	@Override
-	public int compareTo(Einheit o) {
-		return initiative-o.initiative;
-	}
-
 }
