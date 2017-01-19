@@ -8,10 +8,10 @@ public class Musiker{
 		this.name = name;
 	}
 	
-	public static Musiker erstelleMusiker(String name){
+	public static Musiker erstelleMusiker(String name) throws IndexOutOfBoundsException{
 		if (anzahl>=4){
 			throw new IndexOutOfBoundsException("Zu viele Musiker erstellt!");
-		}
+		} else 
 		anzahl++;
 		return new Musiker(name);
 	}
