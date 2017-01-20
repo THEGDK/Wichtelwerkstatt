@@ -1,0 +1,31 @@
+1a)
+Überschreiben bedeutet, dass die Methode der Mutterklasse durch die der Kindklasse ersetzt wird, lediglich der Name und die Eingabeparameter müssen übereinstimmen.
+überladen bedeutet, dass Methoden mit selben Namen unterschiedliche Eingabeparameter - auch in der selben Klasse- haben und ggf. anders agieren.
+Verdecken bedeutet, dass Attribute der Mutterklasse in der Kindklasse neu deklariert werden und die Attribute der Mutterklasse somit nur noch über Mutterklassse.Attributname erreichbar sind.
+
+1b)
+K1:
+Es wird zuerst A(int i) (was A.i = i setzt) und dann Object() aufgerufen. Durch die println Anweisung wird "A.i: 31" ausgegeben.
+
+K2:
+Es wird zuerst A(float), dann A(int) (was A.i = i setzt) und dann Object() aufgerufen, durch die println Anweisung wird "A.i: 32" ausgegeben.
+
+K3:
+Es wird zuerst B(float) (was B.f = f setzt) , dann A(float), A(int) (was A.i = i setzt)  und schließlich Object() aufgerufen.
+Die println Anweisungen geben "A.i: 4" und "B.i: 4" aus.
+
+K4:
+Es wird zuerst B(Float) (was B.f = f setzt) , dann A(float), A(int) (was A.i = i setzt) und schließlich Object() aufgerufen.
+Die println Anweisungen geben "A.i: 9" und "B.i: 9" aus.
+
+1c)
+M1: A.f(IA)
+M2: A.f(LA)
+M3: A.f(LB)
+M4: B.f(IB)
+M5: B.f(IA)
+M6: B.f(LA)
+M7: A.f(LB)
+M8 :B.f(IA)
+M9: B.f(LA)
+M10: A.f(LB)

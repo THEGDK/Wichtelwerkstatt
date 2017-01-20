@@ -1,0 +1,4 @@
+Obwohl normalerweise alle packages aus den Abgaben herauszulöschen sind, war diesesmal in der vorgegebenen Datei für
+Aufgabe 3 bereits ein package (DBS) enthalten, weswegen die komplette Lösung der Aufgabe ein package verwendet. Wir hoffen,
+dass das so Sinn der Aufgabe war und bitten ansonsten um Nachsicht, weil wir uns nur an bereits gegebenen Code gehalten
+haben.
